@@ -1,73 +1,73 @@
 # Province/State,Country/Region,Lat,Long,Date,Value
 #adm1+name,#country+name,#geo+lat,#geo+lon,#date,#affected+infected+value+num
-,Afghanistan,33.0,65.0,2020-03-29,120
-,Afghanistan,33.0,65.0,2020-03-28,110
-,Afghanistan,33.0,65.0,2020-03-27,110
-,Afghanistan,33.0,65.0,2020-03-26,94
-,Afghanistan,33.0,65.0,2020-03-25,84
-,Afghanistan,33.0,65.0,2020-03-24,74
-,Afghanistan,33.0,65.0,2020-03-23,40
-,Afghanistan,33.0,65.0,2020-03-22,40
-,Afghanistan,33.0,65.0,2020-03-21,24
-,Afghanistan,33.0,65.0,2020-03-20,24
-,Afghanistan,33.0,65.0,2020-03-19,22
-,Afghanistan,33.0,65.0,2020-03-18,22
-,Afghanistan,33.0,65.0,2020-03-17,22
-,Afghanistan,33.0,65.0,2020-03-16,21
-,Afghanistan,33.0,65.0,2020-03-15,16
-,Afghanistan,33.0,65.0,2020-03-14,11
-,Afghanistan,33.0,65.0,2020-03-13,7
-,Afghanistan,33.0,65.0,2020-03-12,7
-,Afghanistan,33.0,65.0,2020-03-11,7
-,Afghanistan,33.0,65.0,2020-03-10,5
-,Afghanistan,33.0,65.0,2020-03-09,4
-,Afghanistan,33.0,65.0,2020-03-08,4
-,Afghanistan,33.0,65.0,2020-03-07,1
-,Afghanistan,33.0,65.0,2020-03-06,1
-,Afghanistan,33.0,65.0,2020-03-05,1
-,Afghanistan,33.0,65.0,2020-03-04,1
-,Afghanistan,33.0,65.0,2020-03-03,1
-,Afghanistan,33.0,65.0,2020-03-02,1
-,Afghanistan,33.0,65.0,2020-03-01,1
-,Afghanistan,33.0,65.0,2020-02-29,1
-,Afghanistan,33.0,65.0,2020-02-28,1
-,Afghanistan,33.0,65.0,2020-02-27,1
-,Afghanistan,33.0,65.0,2020-02-26,1
-,Afghanistan,33.0,65.0,2020-02-25,1
-,Afghanistan,33.0,65.0,2020-02-24,1
-,Afghanistan,33.0,65.0,2020-02-23,0
-,Afghanistan,33.0,65.0,2020-02-22,0
-,Afghanistan,33.0,65.0,2020-02-21,0
-,Afghanistan,33.0,65.0,2020-02-20,0
-,Afghanistan,33.0,65.0,2020-02-19,0
-,Afghanistan,33.0,65.0,2020-02-18,0
-,Afghanistan,33.0,65.0,2020-02-17,0
-,Afghanistan,33.0,65.0,2020-02-16,0
-,Afghanistan,33.0,65.0,2020-02-15,0
-,Afghanistan,33.0,65.0,2020-02-14,0
-,Afghanistan,33.0,65.0,2020-02-13,0
-,Afghanistan,33.0,65.0,2020-02-12,0
-,Afghanistan,33.0,65.0,2020-02-11,0
-,Afghanistan,33.0,65.0,2020-02-10,0
-,Afghanistan,33.0,65.0,2020-02-09,0
-,Afghanistan,33.0,65.0,2020-02-08,0
-,Afghanistan,33.0,65.0,2020-02-07,0
-,Afghanistan,33.0,65.0,2020-02-06,0
-,Afghanistan,33.0,65.0,2020-02-05,0
-,Afghanistan,33.0,65.0,2020-02-04,0
-,Afghanistan,33.0,65.0,2020-02-03,0
-,Afghanistan,33.0,65.0,2020-02-02,0
-,Afghanistan,33.0,65.0,2020-02-01,0
-,Afghanistan,33.0,65.0,2020-01-31,0
-,Afghanistan,33.0,65.0,2020-01-30,0
-,Afghanistan,33.0,65.0,2020-01-29,0
-,Afghanistan,33.0,65.0,2020-01-28,0
-,Afghanistan,33.0,65.0,2020-01-27,0
-,Afghanistan,33.0,65.0,2020-01-26,0
-,Afghanistan,33.0,65.0,2020-01-25,0
-,Afghanistan,33.0,65.0,2020-01-24,0
-,Afghanistan,33.0,65.0,2020-01-23,0
-,Afghanistan,33.0,65.0,2020-01-22,0
+,Afghanistan,33,65,2020-03-29,120
+,Afghanistan,33,65,2020-03-28,110
+,Afghanistan,33,65,2020-03-27,110
+,Afghanistan,33,65,2020-03-26,94
+,Afghanistan,33,65,2020-03-25,84
+,Afghanistan,33,65,2020-03-24,74
+,Afghanistan,33,65,2020-03-23,40
+,Afghanistan,33,65,2020-03-22,40
+,Afghanistan,33,65,2020-03-21,24
+,Afghanistan,33,65,2020-03-20,24
+,Afghanistan,33,65,2020-03-19,22
+,Afghanistan,33,65,2020-03-18,22
+,Afghanistan,33,65,2020-03-17,22
+,Afghanistan,33,65,2020-03-16,21
+,Afghanistan,33,65,2020-03-15,16
+,Afghanistan,33,65,2020-03-14,11
+,Afghanistan,33,65,2020-03-13,7
+,Afghanistan,33,65,2020-03-12,7
+,Afghanistan,33,65,2020-03-11,7
+,Afghanistan,33,65,2020-03-10,5
+,Afghanistan,33,65,2020-03-09,4
+,Afghanistan,33,65,2020-03-08,4
+,Afghanistan,33,65,2020-03-07,1
+,Afghanistan,33,65,2020-03-06,1
+,Afghanistan,33,65,2020-03-05,1
+,Afghanistan,33,65,2020-03-04,1
+,Afghanistan,33,65,2020-03-03,1
+,Afghanistan,33,65,2020-03-02,1
+,Afghanistan,33,65,2020-03-01,1
+,Afghanistan,33,65,2020-02-29,1
+,Afghanistan,33,65,2020-02-28,1
+,Afghanistan,33,65,2020-02-27,1
+,Afghanistan,33,65,2020-02-26,1
+,Afghanistan,33,65,2020-02-25,1
+,Afghanistan,33,65,2020-02-24,1
+,Afghanistan,33,65,2020-02-23,0
+,Afghanistan,33,65,2020-02-22,0
+,Afghanistan,33,65,2020-02-21,0
+,Afghanistan,33,65,2020-02-20,0
+,Afghanistan,33,65,2020-02-19,0
+,Afghanistan,33,65,2020-02-18,0
+,Afghanistan,33,65,2020-02-17,0
+,Afghanistan,33,65,2020-02-16,0
+,Afghanistan,33,65,2020-02-15,0
+,Afghanistan,33,65,2020-02-14,0
+,Afghanistan,33,65,2020-02-13,0
+,Afghanistan,33,65,2020-02-12,0
+,Afghanistan,33,65,2020-02-11,0
+,Afghanistan,33,65,2020-02-10,0
+,Afghanistan,33,65,2020-02-09,0
+,Afghanistan,33,65,2020-02-08,0
+,Afghanistan,33,65,2020-02-07,0
+,Afghanistan,33,65,2020-02-06,0
+,Afghanistan,33,65,2020-02-05,0
+,Afghanistan,33,65,2020-02-04,0
+,Afghanistan,33,65,2020-02-03,0
+,Afghanistan,33,65,2020-02-02,0
+,Afghanistan,33,65,2020-02-01,0
+,Afghanistan,33,65,2020-01-31,0
+,Afghanistan,33,65,2020-01-30,0
+,Afghanistan,33,65,2020-01-29,0
+,Afghanistan,33,65,2020-01-28,0
+,Afghanistan,33,65,2020-01-27,0
+,Afghanistan,33,65,2020-01-26,0
+,Afghanistan,33,65,2020-01-25,0
+,Afghanistan,33,65,2020-01-24,0
+,Afghanistan,33,65,2020-01-23,0
+,Afghanistan,33,65,2020-01-22,0
 ,Albania,41.1533,20.1683,2020-03-29,212
 ,Albania,41.1533,20.1683,2020-03-28,197
 ,Albania,41.1533,20.1683,2020-03-27,186
@@ -1564,74 +1564,74 @@ Western Australia,Australia,-31.9505,115.8605,2020-01-22,0
 ,Belarus,53.7098,27.9534,2020-01-24,0
 ,Belarus,53.7098,27.9534,2020-01-23,0
 ,Belarus,53.7098,27.9534,2020-01-22,0
-,Belgium,50.8333,4.0,2020-03-29,10836
-,Belgium,50.8333,4.0,2020-03-28,9134
-,Belgium,50.8333,4.0,2020-03-27,7284
-,Belgium,50.8333,4.0,2020-03-26,6235
-,Belgium,50.8333,4.0,2020-03-25,4937
-,Belgium,50.8333,4.0,2020-03-24,4269
-,Belgium,50.8333,4.0,2020-03-23,3743
-,Belgium,50.8333,4.0,2020-03-22,3401
-,Belgium,50.8333,4.0,2020-03-21,2815
-,Belgium,50.8333,4.0,2020-03-20,2257
-,Belgium,50.8333,4.0,2020-03-19,1795
-,Belgium,50.8333,4.0,2020-03-18,1486
-,Belgium,50.8333,4.0,2020-03-17,1243
-,Belgium,50.8333,4.0,2020-03-16,1058
-,Belgium,50.8333,4.0,2020-03-15,886
-,Belgium,50.8333,4.0,2020-03-14,689
-,Belgium,50.8333,4.0,2020-03-13,559
-,Belgium,50.8333,4.0,2020-03-12,314
-,Belgium,50.8333,4.0,2020-03-11,314
-,Belgium,50.8333,4.0,2020-03-10,267
-,Belgium,50.8333,4.0,2020-03-09,239
-,Belgium,50.8333,4.0,2020-03-08,200
-,Belgium,50.8333,4.0,2020-03-07,169
-,Belgium,50.8333,4.0,2020-03-06,109
-,Belgium,50.8333,4.0,2020-03-05,50
-,Belgium,50.8333,4.0,2020-03-04,23
-,Belgium,50.8333,4.0,2020-03-03,13
-,Belgium,50.8333,4.0,2020-03-02,8
-,Belgium,50.8333,4.0,2020-03-01,2
-,Belgium,50.8333,4.0,2020-02-29,1
-,Belgium,50.8333,4.0,2020-02-28,1
-,Belgium,50.8333,4.0,2020-02-27,1
-,Belgium,50.8333,4.0,2020-02-26,1
-,Belgium,50.8333,4.0,2020-02-25,1
-,Belgium,50.8333,4.0,2020-02-24,1
-,Belgium,50.8333,4.0,2020-02-23,1
-,Belgium,50.8333,4.0,2020-02-22,1
-,Belgium,50.8333,4.0,2020-02-21,1
-,Belgium,50.8333,4.0,2020-02-20,1
-,Belgium,50.8333,4.0,2020-02-19,1
-,Belgium,50.8333,4.0,2020-02-18,1
-,Belgium,50.8333,4.0,2020-02-17,1
-,Belgium,50.8333,4.0,2020-02-16,1
-,Belgium,50.8333,4.0,2020-02-15,1
-,Belgium,50.8333,4.0,2020-02-14,1
-,Belgium,50.8333,4.0,2020-02-13,1
-,Belgium,50.8333,4.0,2020-02-12,1
-,Belgium,50.8333,4.0,2020-02-11,1
-,Belgium,50.8333,4.0,2020-02-10,1
-,Belgium,50.8333,4.0,2020-02-09,1
-,Belgium,50.8333,4.0,2020-02-08,1
-,Belgium,50.8333,4.0,2020-02-07,1
-,Belgium,50.8333,4.0,2020-02-06,1
-,Belgium,50.8333,4.0,2020-02-05,1
-,Belgium,50.8333,4.0,2020-02-04,1
-,Belgium,50.8333,4.0,2020-02-03,0
-,Belgium,50.8333,4.0,2020-02-02,0
-,Belgium,50.8333,4.0,2020-02-01,0
-,Belgium,50.8333,4.0,2020-01-31,0
-,Belgium,50.8333,4.0,2020-01-30,0
-,Belgium,50.8333,4.0,2020-01-29,0
-,Belgium,50.8333,4.0,2020-01-28,0
-,Belgium,50.8333,4.0,2020-01-27,0
-,Belgium,50.8333,4.0,2020-01-26,0
-,Belgium,50.8333,4.0,2020-01-25,0
-,Belgium,50.8333,4.0,2020-01-24,0
-,Belgium,50.8333,4.0,2020-01-23,0
-,Belgium,50.8333,4.0,2020-01-22,0
+,Belgium,50.8333,4,2020-03-29,10836
+,Belgium,50.8333,4,2020-03-28,9134
+,Belgium,50.8333,4,2020-03-27,7284
+,Belgium,50.8333,4,2020-03-26,6235
+,Belgium,50.8333,4,2020-03-25,4937
+,Belgium,50.8333,4,2020-03-24,4269
+,Belgium,50.8333,4,2020-03-23,3743
+,Belgium,50.8333,4,2020-03-22,3401
+,Belgium,50.8333,4,2020-03-21,2815
+,Belgium,50.8333,4,2020-03-20,2257
+,Belgium,50.8333,4,2020-03-19,1795
+,Belgium,50.8333,4,2020-03-18,1486
+,Belgium,50.8333,4,2020-03-17,1243
+,Belgium,50.8333,4,2020-03-16,1058
+,Belgium,50.8333,4,2020-03-15,886
+,Belgium,50.8333,4,2020-03-14,689
+,Belgium,50.8333,4,2020-03-13,559
+,Belgium,50.8333,4,2020-03-12,314
+,Belgium,50.8333,4,2020-03-11,314
+,Belgium,50.8333,4,2020-03-10,267
+,Belgium,50.8333,4,2020-03-09,239
+,Belgium,50.8333,4,2020-03-08,200
+,Belgium,50.8333,4,2020-03-07,169
+,Belgium,50.8333,4,2020-03-06,109
+,Belgium,50.8333,4,2020-03-05,50
+,Belgium,50.8333,4,2020-03-04,23
+,Belgium,50.8333,4,2020-03-03,13
+,Belgium,50.8333,4,2020-03-02,8
+,Belgium,50.8333,4,2020-03-01,2
+,Belgium,50.8333,4,2020-02-29,1
+,Belgium,50.8333,4,2020-02-28,1
+,Belgium,50.8333,4,2020-02-27,1
+,Belgium,50.8333,4,2020-02-26,1
+,Belgium,50.8333,4,2020-02-25,1
+,Belgium,50.8333,4,2020-02-24,1
+,Belgium,50.8333,4,2020-02-23,1
+,Belgium,50.8333,4,2020-02-22,1
+,Belgium,50.8333,4,2020-02-21,1
+,Belgium,50.8333,4,2020-02-20,1
+,Belgium,50.8333,4,2020-02-19,1
+,Belgium,50.8333,4,2020-02-18,1
+,Belgium,50.8333,4,2020-02-17,1
+,Belgium,50.8333,4,2020-02-16,1
+,Belgium,50.8333,4,2020-02-15,1
+,Belgium,50.8333,4,2020-02-14,1
+,Belgium,50.8333,4,2020-02-13,1
+,Belgium,50.8333,4,2020-02-12,1
+,Belgium,50.8333,4,2020-02-11,1
+,Belgium,50.8333,4,2020-02-10,1
+,Belgium,50.8333,4,2020-02-09,1
+,Belgium,50.8333,4,2020-02-08,1
+,Belgium,50.8333,4,2020-02-07,1
+,Belgium,50.8333,4,2020-02-06,1
+,Belgium,50.8333,4,2020-02-05,1
+,Belgium,50.8333,4,2020-02-04,1
+,Belgium,50.8333,4,2020-02-03,0
+,Belgium,50.8333,4,2020-02-02,0
+,Belgium,50.8333,4,2020-02-01,0
+,Belgium,50.8333,4,2020-01-31,0
+,Belgium,50.8333,4,2020-01-30,0
+,Belgium,50.8333,4,2020-01-29,0
+,Belgium,50.8333,4,2020-01-28,0
+,Belgium,50.8333,4,2020-01-27,0
+,Belgium,50.8333,4,2020-01-26,0
+,Belgium,50.8333,4,2020-01-25,0
+,Belgium,50.8333,4,2020-01-24,0
+,Belgium,50.8333,4,2020-01-23,0
+,Belgium,50.8333,4,2020-01-22,0
 ,Belize,13.1939,-59.5432,2020-03-29,2
 ,Belize,13.1939,-59.5432,2020-03-28,2
 ,Belize,13.1939,-59.5432,2020-03-27,2
@@ -2652,74 +2652,74 @@ British Columbia,Canada,49.2827,-123.1207,2020-01-25,0
 British Columbia,Canada,49.2827,-123.1207,2020-01-24,0
 British Columbia,Canada,49.2827,-123.1207,2020-01-23,0
 British Columbia,Canada,49.2827,-123.1207,2020-01-22,0
-Diamond Princess,Canada,0.0,0.0,2020-03-29,0
-Diamond Princess,Canada,0.0,0.0,2020-03-28,0
-Diamond Princess,Canada,0.0,0.0,2020-03-27,0
-Diamond Princess,Canada,0.0,0.0,2020-03-26,0
-Diamond Princess,Canada,0.0,0.0,2020-03-25,0
-Diamond Princess,Canada,0.0,0.0,2020-03-24,0
-Diamond Princess,Canada,0.0,0.0,2020-03-23,0
-Diamond Princess,Canada,0.0,0.0,2020-03-22,0
-Diamond Princess,Canada,0.0,0.0,2020-03-21,0
-Diamond Princess,Canada,0.0,0.0,2020-03-20,0
-Diamond Princess,Canada,0.0,0.0,2020-03-19,0
-Diamond Princess,Canada,0.0,0.0,2020-03-18,0
-Diamond Princess,Canada,0.0,0.0,2020-03-17,0
-Diamond Princess,Canada,0.0,0.0,2020-03-16,0
-Diamond Princess,Canada,0.0,0.0,2020-03-15,0
-Diamond Princess,Canada,0.0,0.0,2020-03-14,0
-Diamond Princess,Canada,0.0,0.0,2020-03-13,0
-Diamond Princess,Canada,0.0,0.0,2020-03-12,0
-Diamond Princess,Canada,0.0,0.0,2020-03-11,0
-Diamond Princess,Canada,0.0,0.0,2020-03-10,0
-Diamond Princess,Canada,0.0,0.0,2020-03-09,0
-Diamond Princess,Canada,0.0,0.0,2020-03-08,0
-Diamond Princess,Canada,0.0,0.0,2020-03-07,0
-Diamond Princess,Canada,0.0,0.0,2020-03-06,0
-Diamond Princess,Canada,0.0,0.0,2020-03-05,0
-Diamond Princess,Canada,0.0,0.0,2020-03-04,0
-Diamond Princess,Canada,0.0,0.0,2020-03-03,0
-Diamond Princess,Canada,0.0,0.0,2020-03-02,0
-Diamond Princess,Canada,0.0,0.0,2020-03-01,0
-Diamond Princess,Canada,0.0,0.0,2020-02-29,0
-Diamond Princess,Canada,0.0,0.0,2020-02-28,0
-Diamond Princess,Canada,0.0,0.0,2020-02-27,0
-Diamond Princess,Canada,0.0,0.0,2020-02-26,0
-Diamond Princess,Canada,0.0,0.0,2020-02-25,0
-Diamond Princess,Canada,0.0,0.0,2020-02-24,0
-Diamond Princess,Canada,0.0,0.0,2020-02-23,0
-Diamond Princess,Canada,0.0,0.0,2020-02-22,0
-Diamond Princess,Canada,0.0,0.0,2020-02-21,0
-Diamond Princess,Canada,0.0,0.0,2020-02-20,0
-Diamond Princess,Canada,0.0,0.0,2020-02-19,0
-Diamond Princess,Canada,0.0,0.0,2020-02-18,0
-Diamond Princess,Canada,0.0,0.0,2020-02-17,0
-Diamond Princess,Canada,0.0,0.0,2020-02-16,0
-Diamond Princess,Canada,0.0,0.0,2020-02-15,0
-Diamond Princess,Canada,0.0,0.0,2020-02-14,0
-Diamond Princess,Canada,0.0,0.0,2020-02-13,0
-Diamond Princess,Canada,0.0,0.0,2020-02-12,0
-Diamond Princess,Canada,0.0,0.0,2020-02-11,0
-Diamond Princess,Canada,0.0,0.0,2020-02-10,0
-Diamond Princess,Canada,0.0,0.0,2020-02-09,0
-Diamond Princess,Canada,0.0,0.0,2020-02-08,0
-Diamond Princess,Canada,0.0,0.0,2020-02-07,0
-Diamond Princess,Canada,0.0,0.0,2020-02-06,0
-Diamond Princess,Canada,0.0,0.0,2020-02-05,0
-Diamond Princess,Canada,0.0,0.0,2020-02-04,0
-Diamond Princess,Canada,0.0,0.0,2020-02-03,0
-Diamond Princess,Canada,0.0,0.0,2020-02-02,0
-Diamond Princess,Canada,0.0,0.0,2020-02-01,0
-Diamond Princess,Canada,0.0,0.0,2020-01-31,0
-Diamond Princess,Canada,0.0,0.0,2020-01-30,0
-Diamond Princess,Canada,0.0,0.0,2020-01-29,0
-Diamond Princess,Canada,0.0,0.0,2020-01-28,0
-Diamond Princess,Canada,0.0,0.0,2020-01-27,0
-Diamond Princess,Canada,0.0,0.0,2020-01-26,0
-Diamond Princess,Canada,0.0,0.0,2020-01-25,0
-Diamond Princess,Canada,0.0,0.0,2020-01-24,0
-Diamond Princess,Canada,0.0,0.0,2020-01-23,0
-Diamond Princess,Canada,0.0,0.0,2020-01-22,0
+Diamond Princess,Canada,0,0,2020-03-29,0
+Diamond Princess,Canada,0,0,2020-03-28,0
+Diamond Princess,Canada,0,0,2020-03-27,0
+Diamond Princess,Canada,0,0,2020-03-26,0
+Diamond Princess,Canada,0,0,2020-03-25,0
+Diamond Princess,Canada,0,0,2020-03-24,0
+Diamond Princess,Canada,0,0,2020-03-23,0
+Diamond Princess,Canada,0,0,2020-03-22,0
+Diamond Princess,Canada,0,0,2020-03-21,0
+Diamond Princess,Canada,0,0,2020-03-20,0
+Diamond Princess,Canada,0,0,2020-03-19,0
+Diamond Princess,Canada,0,0,2020-03-18,0
+Diamond Princess,Canada,0,0,2020-03-17,0
+Diamond Princess,Canada,0,0,2020-03-16,0
+Diamond Princess,Canada,0,0,2020-03-15,0
+Diamond Princess,Canada,0,0,2020-03-14,0
+Diamond Princess,Canada,0,0,2020-03-13,0
+Diamond Princess,Canada,0,0,2020-03-12,0
+Diamond Princess,Canada,0,0,2020-03-11,0
+Diamond Princess,Canada,0,0,2020-03-10,0
+Diamond Princess,Canada,0,0,2020-03-09,0
+Diamond Princess,Canada,0,0,2020-03-08,0
+Diamond Princess,Canada,0,0,2020-03-07,0
+Diamond Princess,Canada,0,0,2020-03-06,0
+Diamond Princess,Canada,0,0,2020-03-05,0
+Diamond Princess,Canada,0,0,2020-03-04,0
+Diamond Princess,Canada,0,0,2020-03-03,0
+Diamond Princess,Canada,0,0,2020-03-02,0
+Diamond Princess,Canada,0,0,2020-03-01,0
+Diamond Princess,Canada,0,0,2020-02-29,0
+Diamond Princess,Canada,0,0,2020-02-28,0
+Diamond Princess,Canada,0,0,2020-02-27,0
+Diamond Princess,Canada,0,0,2020-02-26,0
+Diamond Princess,Canada,0,0,2020-02-25,0
+Diamond Princess,Canada,0,0,2020-02-24,0
+Diamond Princess,Canada,0,0,2020-02-23,0
+Diamond Princess,Canada,0,0,2020-02-22,0
+Diamond Princess,Canada,0,0,2020-02-21,0
+Diamond Princess,Canada,0,0,2020-02-20,0
+Diamond Princess,Canada,0,0,2020-02-19,0
+Diamond Princess,Canada,0,0,2020-02-18,0
+Diamond Princess,Canada,0,0,2020-02-17,0
+Diamond Princess,Canada,0,0,2020-02-16,0
+Diamond Princess,Canada,0,0,2020-02-15,0
+Diamond Princess,Canada,0,0,2020-02-14,0
+Diamond Princess,Canada,0,0,2020-02-13,0
+Diamond Princess,Canada,0,0,2020-02-12,0
+Diamond Princess,Canada,0,0,2020-02-11,0
+Diamond Princess,Canada,0,0,2020-02-10,0
+Diamond Princess,Canada,0,0,2020-02-09,0
+Diamond Princess,Canada,0,0,2020-02-08,0
+Diamond Princess,Canada,0,0,2020-02-07,0
+Diamond Princess,Canada,0,0,2020-02-06,0
+Diamond Princess,Canada,0,0,2020-02-05,0
+Diamond Princess,Canada,0,0,2020-02-04,0
+Diamond Princess,Canada,0,0,2020-02-03,0
+Diamond Princess,Canada,0,0,2020-02-02,0
+Diamond Princess,Canada,0,0,2020-02-01,0
+Diamond Princess,Canada,0,0,2020-01-31,0
+Diamond Princess,Canada,0,0,2020-01-30,0
+Diamond Princess,Canada,0,0,2020-01-29,0
+Diamond Princess,Canada,0,0,2020-01-28,0
+Diamond Princess,Canada,0,0,2020-01-27,0
+Diamond Princess,Canada,0,0,2020-01-26,0
+Diamond Princess,Canada,0,0,2020-01-25,0
+Diamond Princess,Canada,0,0,2020-01-24,0
+Diamond Princess,Canada,0,0,2020-01-23,0
+Diamond Princess,Canada,0,0,2020-01-22,0
 Grand Princess,Canada,37.6489,-122.6655,2020-03-29,13
 Grand Princess,Canada,37.6489,-122.6655,2020-03-28,13
 Grand Princess,Canada,37.6489,-122.6655,2020-03-27,13
@@ -3332,74 +3332,74 @@ Quebec,Canada,52.9399,-73.5491,2020-01-25,0
 Quebec,Canada,52.9399,-73.5491,2020-01-24,0
 Quebec,Canada,52.9399,-73.5491,2020-01-23,0
 Quebec,Canada,52.9399,-73.5491,2020-01-22,0
-Recovered,Canada,0.0,0.0,2020-03-29,0
-Recovered,Canada,0.0,0.0,2020-03-28,0
-Recovered,Canada,0.0,0.0,2020-03-27,0
-Recovered,Canada,0.0,0.0,2020-03-26,0
-Recovered,Canada,0.0,0.0,2020-03-25,0
-Recovered,Canada,0.0,0.0,2020-03-24,0
-Recovered,Canada,0.0,0.0,2020-03-23,0
-Recovered,Canada,0.0,0.0,2020-03-22,0
-Recovered,Canada,0.0,0.0,2020-03-21,0
-Recovered,Canada,0.0,0.0,2020-03-20,0
-Recovered,Canada,0.0,0.0,2020-03-19,0
-Recovered,Canada,0.0,0.0,2020-03-18,0
-Recovered,Canada,0.0,0.0,2020-03-17,0
-Recovered,Canada,0.0,0.0,2020-03-16,0
-Recovered,Canada,0.0,0.0,2020-03-15,0
-Recovered,Canada,0.0,0.0,2020-03-14,0
-Recovered,Canada,0.0,0.0,2020-03-13,0
-Recovered,Canada,0.0,0.0,2020-03-12,0
-Recovered,Canada,0.0,0.0,2020-03-11,0
-Recovered,Canada,0.0,0.0,2020-03-10,0
-Recovered,Canada,0.0,0.0,2020-03-09,0
-Recovered,Canada,0.0,0.0,2020-03-08,0
-Recovered,Canada,0.0,0.0,2020-03-07,0
-Recovered,Canada,0.0,0.0,2020-03-06,0
-Recovered,Canada,0.0,0.0,2020-03-05,0
-Recovered,Canada,0.0,0.0,2020-03-04,0
-Recovered,Canada,0.0,0.0,2020-03-03,0
-Recovered,Canada,0.0,0.0,2020-03-02,0
-Recovered,Canada,0.0,0.0,2020-03-01,0
-Recovered,Canada,0.0,0.0,2020-02-29,0
-Recovered,Canada,0.0,0.0,2020-02-28,0
-Recovered,Canada,0.0,0.0,2020-02-27,0
-Recovered,Canada,0.0,0.0,2020-02-26,0
-Recovered,Canada,0.0,0.0,2020-02-25,0
-Recovered,Canada,0.0,0.0,2020-02-24,0
-Recovered,Canada,0.0,0.0,2020-02-23,0
-Recovered,Canada,0.0,0.0,2020-02-22,0
-Recovered,Canada,0.0,0.0,2020-02-21,0
-Recovered,Canada,0.0,0.0,2020-02-20,0
-Recovered,Canada,0.0,0.0,2020-02-19,0
-Recovered,Canada,0.0,0.0,2020-02-18,0
-Recovered,Canada,0.0,0.0,2020-02-17,0
-Recovered,Canada,0.0,0.0,2020-02-16,0
-Recovered,Canada,0.0,0.0,2020-02-15,0
-Recovered,Canada,0.0,0.0,2020-02-14,0
-Recovered,Canada,0.0,0.0,2020-02-13,0
-Recovered,Canada,0.0,0.0,2020-02-12,0
-Recovered,Canada,0.0,0.0,2020-02-11,0
-Recovered,Canada,0.0,0.0,2020-02-10,0
-Recovered,Canada,0.0,0.0,2020-02-09,0
-Recovered,Canada,0.0,0.0,2020-02-08,0
-Recovered,Canada,0.0,0.0,2020-02-07,0
-Recovered,Canada,0.0,0.0,2020-02-06,0
-Recovered,Canada,0.0,0.0,2020-02-05,0
-Recovered,Canada,0.0,0.0,2020-02-04,0
-Recovered,Canada,0.0,0.0,2020-02-03,0
-Recovered,Canada,0.0,0.0,2020-02-02,0
-Recovered,Canada,0.0,0.0,2020-02-01,0
-Recovered,Canada,0.0,0.0,2020-01-31,0
-Recovered,Canada,0.0,0.0,2020-01-30,0
-Recovered,Canada,0.0,0.0,2020-01-29,0
-Recovered,Canada,0.0,0.0,2020-01-28,0
-Recovered,Canada,0.0,0.0,2020-01-27,0
-Recovered,Canada,0.0,0.0,2020-01-26,0
-Recovered,Canada,0.0,0.0,2020-01-25,0
-Recovered,Canada,0.0,0.0,2020-01-24,0
-Recovered,Canada,0.0,0.0,2020-01-23,0
-Recovered,Canada,0.0,0.0,2020-01-22,0
+Recovered,Canada,0,0,2020-03-29,0
+Recovered,Canada,0,0,2020-03-28,0
+Recovered,Canada,0,0,2020-03-27,0
+Recovered,Canada,0,0,2020-03-26,0
+Recovered,Canada,0,0,2020-03-25,0
+Recovered,Canada,0,0,2020-03-24,0
+Recovered,Canada,0,0,2020-03-23,0
+Recovered,Canada,0,0,2020-03-22,0
+Recovered,Canada,0,0,2020-03-21,0
+Recovered,Canada,0,0,2020-03-20,0
+Recovered,Canada,0,0,2020-03-19,0
+Recovered,Canada,0,0,2020-03-18,0
+Recovered,Canada,0,0,2020-03-17,0
+Recovered,Canada,0,0,2020-03-16,0
+Recovered,Canada,0,0,2020-03-15,0
+Recovered,Canada,0,0,2020-03-14,0
+Recovered,Canada,0,0,2020-03-13,0
+Recovered,Canada,0,0,2020-03-12,0
+Recovered,Canada,0,0,2020-03-11,0
+Recovered,Canada,0,0,2020-03-10,0
+Recovered,Canada,0,0,2020-03-09,0
+Recovered,Canada,0,0,2020-03-08,0
+Recovered,Canada,0,0,2020-03-07,0
+Recovered,Canada,0,0,2020-03-06,0
+Recovered,Canada,0,0,2020-03-05,0
+Recovered,Canada,0,0,2020-03-04,0
+Recovered,Canada,0,0,2020-03-03,0
+Recovered,Canada,0,0,2020-03-02,0
+Recovered,Canada,0,0,2020-03-01,0
+Recovered,Canada,0,0,2020-02-29,0
+Recovered,Canada,0,0,2020-02-28,0
+Recovered,Canada,0,0,2020-02-27,0
+Recovered,Canada,0,0,2020-02-26,0
+Recovered,Canada,0,0,2020-02-25,0
+Recovered,Canada,0,0,2020-02-24,0
+Recovered,Canada,0,0,2020-02-23,0
+Recovered,Canada,0,0,2020-02-22,0
+Recovered,Canada,0,0,2020-02-21,0
+Recovered,Canada,0,0,2020-02-20,0
+Recovered,Canada,0,0,2020-02-19,0
+Recovered,Canada,0,0,2020-02-18,0
+Recovered,Canada,0,0,2020-02-17,0
+Recovered,Canada,0,0,2020-02-16,0
+Recovered,Canada,0,0,2020-02-15,0
+Recovered,Canada,0,0,2020-02-14,0
+Recovered,Canada,0,0,2020-02-13,0
+Recovered,Canada,0,0,2020-02-12,0
+Recovered,Canada,0,0,2020-02-11,0
+Recovered,Canada,0,0,2020-02-10,0
+Recovered,Canada,0,0,2020-02-09,0
+Recovered,Canada,0,0,2020-02-08,0
+Recovered,Canada,0,0,2020-02-07,0
+Recovered,Canada,0,0,2020-02-06,0
+Recovered,Canada,0,0,2020-02-05,0
+Recovered,Canada,0,0,2020-02-04,0
+Recovered,Canada,0,0,2020-02-03,0
+Recovered,Canada,0,0,2020-02-02,0
+Recovered,Canada,0,0,2020-02-01,0
+Recovered,Canada,0,0,2020-01-31,0
+Recovered,Canada,0,0,2020-01-30,0
+Recovered,Canada,0,0,2020-01-29,0
+Recovered,Canada,0,0,2020-01-28,0
+Recovered,Canada,0,0,2020-01-27,0
+Recovered,Canada,0,0,2020-01-26,0
+Recovered,Canada,0,0,2020-01-25,0
+Recovered,Canada,0,0,2020-01-24,0
+Recovered,Canada,0,0,2020-01-23,0
+Recovered,Canada,0,0,2020-01-22,0
 Saskatchewan,Canada,52.9399,-106.4509,2020-03-29,156
 Saskatchewan,Canada,52.9399,-106.4509,2020-03-28,134
 Saskatchewan,Canada,52.9399,-106.4509,2020-03-27,95
@@ -3468,74 +3468,74 @@ Saskatchewan,Canada,52.9399,-106.4509,2020-01-25,0
 Saskatchewan,Canada,52.9399,-106.4509,2020-01-24,0
 Saskatchewan,Canada,52.9399,-106.4509,2020-01-23,0
 Saskatchewan,Canada,52.9399,-106.4509,2020-01-22,0
-Yukon,Canada,64.2823,-135.0,2020-03-29,4
-Yukon,Canada,64.2823,-135.0,2020-03-28,4
-Yukon,Canada,64.2823,-135.0,2020-03-27,3
-Yukon,Canada,64.2823,-135.0,2020-03-26,3
-Yukon,Canada,64.2823,-135.0,2020-03-25,0
-Yukon,Canada,64.2823,-135.0,2020-03-24,0
-Yukon,Canada,64.2823,-135.0,2020-03-23,0
-Yukon,Canada,64.2823,-135.0,2020-03-22,0
-Yukon,Canada,64.2823,-135.0,2020-03-21,0
-Yukon,Canada,64.2823,-135.0,2020-03-20,0
-Yukon,Canada,64.2823,-135.0,2020-03-19,0
-Yukon,Canada,64.2823,-135.0,2020-03-18,0
-Yukon,Canada,64.2823,-135.0,2020-03-17,0
-Yukon,Canada,64.2823,-135.0,2020-03-16,0
-Yukon,Canada,64.2823,-135.0,2020-03-15,0
-Yukon,Canada,64.2823,-135.0,2020-03-14,0
-Yukon,Canada,64.2823,-135.0,2020-03-13,0
-Yukon,Canada,64.2823,-135.0,2020-03-12,0
-Yukon,Canada,64.2823,-135.0,2020-03-11,0
-Yukon,Canada,64.2823,-135.0,2020-03-10,0
-Yukon,Canada,64.2823,-135.0,2020-03-09,0
-Yukon,Canada,64.2823,-135.0,2020-03-08,0
-Yukon,Canada,64.2823,-135.0,2020-03-07,0
-Yukon,Canada,64.2823,-135.0,2020-03-06,0
-Yukon,Canada,64.2823,-135.0,2020-03-05,0
-Yukon,Canada,64.2823,-135.0,2020-03-04,0
-Yukon,Canada,64.2823,-135.0,2020-03-03,0
-Yukon,Canada,64.2823,-135.0,2020-03-02,0
-Yukon,Canada,64.2823,-135.0,2020-03-01,0
-Yukon,Canada,64.2823,-135.0,2020-02-29,0
-Yukon,Canada,64.2823,-135.0,2020-02-28,0
-Yukon,Canada,64.2823,-135.0,2020-02-27,0
-Yukon,Canada,64.2823,-135.0,2020-02-26,0
-Yukon,Canada,64.2823,-135.0,2020-02-25,0
-Yukon,Canada,64.2823,-135.0,2020-02-24,0
-Yukon,Canada,64.2823,-135.0,2020-02-23,0
-Yukon,Canada,64.2823,-135.0,2020-02-22,0
-Yukon,Canada,64.2823,-135.0,2020-02-21,0
-Yukon,Canada,64.2823,-135.0,2020-02-20,0
-Yukon,Canada,64.2823,-135.0,2020-02-19,0
-Yukon,Canada,64.2823,-135.0,2020-02-18,0
-Yukon,Canada,64.2823,-135.0,2020-02-17,0
-Yukon,Canada,64.2823,-135.0,2020-02-16,0
-Yukon,Canada,64.2823,-135.0,2020-02-15,0
-Yukon,Canada,64.2823,-135.0,2020-02-14,0
-Yukon,Canada,64.2823,-135.0,2020-02-13,0
-Yukon,Canada,64.2823,-135.0,2020-02-12,0
-Yukon,Canada,64.2823,-135.0,2020-02-11,0
-Yukon,Canada,64.2823,-135.0,2020-02-10,0
-Yukon,Canada,64.2823,-135.0,2020-02-09,0
-Yukon,Canada,64.2823,-135.0,2020-02-08,0
-Yukon,Canada,64.2823,-135.0,2020-02-07,0
-Yukon,Canada,64.2823,-135.0,2020-02-06,0
-Yukon,Canada,64.2823,-135.0,2020-02-05,0
-Yukon,Canada,64.2823,-135.0,2020-02-04,0
-Yukon,Canada,64.2823,-135.0,2020-02-03,0
-Yukon,Canada,64.2823,-135.0,2020-02-02,0
-Yukon,Canada,64.2823,-135.0,2020-02-01,0
-Yukon,Canada,64.2823,-135.0,2020-01-31,0
-Yukon,Canada,64.2823,-135.0,2020-01-30,0
-Yukon,Canada,64.2823,-135.0,2020-01-29,0
-Yukon,Canada,64.2823,-135.0,2020-01-28,0
-Yukon,Canada,64.2823,-135.0,2020-01-27,0
-Yukon,Canada,64.2823,-135.0,2020-01-26,0
-Yukon,Canada,64.2823,-135.0,2020-01-25,0
-Yukon,Canada,64.2823,-135.0,2020-01-24,0
-Yukon,Canada,64.2823,-135.0,2020-01-23,0
-Yukon,Canada,64.2823,-135.0,2020-01-22,0
+Yukon,Canada,64.2823,-135,2020-03-29,4
+Yukon,Canada,64.2823,-135,2020-03-28,4
+Yukon,Canada,64.2823,-135,2020-03-27,3
+Yukon,Canada,64.2823,-135,2020-03-26,3
+Yukon,Canada,64.2823,-135,2020-03-25,0
+Yukon,Canada,64.2823,-135,2020-03-24,0
+Yukon,Canada,64.2823,-135,2020-03-23,0
+Yukon,Canada,64.2823,-135,2020-03-22,0
+Yukon,Canada,64.2823,-135,2020-03-21,0
+Yukon,Canada,64.2823,-135,2020-03-20,0
+Yukon,Canada,64.2823,-135,2020-03-19,0
+Yukon,Canada,64.2823,-135,2020-03-18,0
+Yukon,Canada,64.2823,-135,2020-03-17,0
+Yukon,Canada,64.2823,-135,2020-03-16,0
+Yukon,Canada,64.2823,-135,2020-03-15,0
+Yukon,Canada,64.2823,-135,2020-03-14,0
+Yukon,Canada,64.2823,-135,2020-03-13,0
+Yukon,Canada,64.2823,-135,2020-03-12,0
+Yukon,Canada,64.2823,-135,2020-03-11,0
+Yukon,Canada,64.2823,-135,2020-03-10,0
+Yukon,Canada,64.2823,-135,2020-03-09,0
+Yukon,Canada,64.2823,-135,2020-03-08,0
+Yukon,Canada,64.2823,-135,2020-03-07,0
+Yukon,Canada,64.2823,-135,2020-03-06,0
+Yukon,Canada,64.2823,-135,2020-03-05,0
+Yukon,Canada,64.2823,-135,2020-03-04,0
+Yukon,Canada,64.2823,-135,2020-03-03,0
+Yukon,Canada,64.2823,-135,2020-03-02,0
+Yukon,Canada,64.2823,-135,2020-03-01,0
+Yukon,Canada,64.2823,-135,2020-02-29,0
+Yukon,Canada,64.2823,-135,2020-02-28,0
+Yukon,Canada,64.2823,-135,2020-02-27,0
+Yukon,Canada,64.2823,-135,2020-02-26,0
+Yukon,Canada,64.2823,-135,2020-02-25,0
+Yukon,Canada,64.2823,-135,2020-02-24,0
+Yukon,Canada,64.2823,-135,2020-02-23,0
+Yukon,Canada,64.2823,-135,2020-02-22,0
+Yukon,Canada,64.2823,-135,2020-02-21,0
+Yukon,Canada,64.2823,-135,2020-02-20,0
+Yukon,Canada,64.2823,-135,2020-02-19,0
+Yukon,Canada,64.2823,-135,2020-02-18,0
+Yukon,Canada,64.2823,-135,2020-02-17,0
+Yukon,Canada,64.2823,-135,2020-02-16,0
+Yukon,Canada,64.2823,-135,2020-02-15,0
+Yukon,Canada,64.2823,-135,2020-02-14,0
+Yukon,Canada,64.2823,-135,2020-02-13,0
+Yukon,Canada,64.2823,-135,2020-02-12,0
+Yukon,Canada,64.2823,-135,2020-02-11,0
+Yukon,Canada,64.2823,-135,2020-02-10,0
+Yukon,Canada,64.2823,-135,2020-02-09,0
+Yukon,Canada,64.2823,-135,2020-02-08,0
+Yukon,Canada,64.2823,-135,2020-02-07,0
+Yukon,Canada,64.2823,-135,2020-02-06,0
+Yukon,Canada,64.2823,-135,2020-02-05,0
+Yukon,Canada,64.2823,-135,2020-02-04,0
+Yukon,Canada,64.2823,-135,2020-02-03,0
+Yukon,Canada,64.2823,-135,2020-02-02,0
+Yukon,Canada,64.2823,-135,2020-02-01,0
+Yukon,Canada,64.2823,-135,2020-01-31,0
+Yukon,Canada,64.2823,-135,2020-01-30,0
+Yukon,Canada,64.2823,-135,2020-01-29,0
+Yukon,Canada,64.2823,-135,2020-01-28,0
+Yukon,Canada,64.2823,-135,2020-01-27,0
+Yukon,Canada,64.2823,-135,2020-01-26,0
+Yukon,Canada,64.2823,-135,2020-01-25,0
+Yukon,Canada,64.2823,-135,2020-01-24,0
+Yukon,Canada,64.2823,-135,2020-01-23,0
+Yukon,Canada,64.2823,-135,2020-01-22,0
 ,Central African Republic,6.6111,20.9394,2020-03-29,3
 ,Central African Republic,6.6111,20.9394,2020-03-28,3
 ,Central African Republic,6.6111,20.9394,2020-03-27,3
@@ -6392,74 +6392,74 @@ Zhejiang,China,29.1832,120.0934,2020-01-22,10
 ,Croatia,45.1,15.2,2020-01-24,0
 ,Croatia,45.1,15.2,2020-01-23,0
 ,Croatia,45.1,15.2,2020-01-22,0
-,Cuba,22.0,-80.0,2020-03-29,139
-,Cuba,22.0,-80.0,2020-03-28,119
-,Cuba,22.0,-80.0,2020-03-27,80
-,Cuba,22.0,-80.0,2020-03-26,67
-,Cuba,22.0,-80.0,2020-03-25,57
-,Cuba,22.0,-80.0,2020-03-24,48
-,Cuba,22.0,-80.0,2020-03-23,40
-,Cuba,22.0,-80.0,2020-03-22,35
-,Cuba,22.0,-80.0,2020-03-21,21
-,Cuba,22.0,-80.0,2020-03-20,16
-,Cuba,22.0,-80.0,2020-03-19,11
-,Cuba,22.0,-80.0,2020-03-18,7
-,Cuba,22.0,-80.0,2020-03-17,5
-,Cuba,22.0,-80.0,2020-03-16,4
-,Cuba,22.0,-80.0,2020-03-15,4
-,Cuba,22.0,-80.0,2020-03-14,4
-,Cuba,22.0,-80.0,2020-03-13,4
-,Cuba,22.0,-80.0,2020-03-12,3
-,Cuba,22.0,-80.0,2020-03-11,0
-,Cuba,22.0,-80.0,2020-03-10,0
-,Cuba,22.0,-80.0,2020-03-09,0
-,Cuba,22.0,-80.0,2020-03-08,0
-,Cuba,22.0,-80.0,2020-03-07,0
-,Cuba,22.0,-80.0,2020-03-06,0
-,Cuba,22.0,-80.0,2020-03-05,0
-,Cuba,22.0,-80.0,2020-03-04,0
-,Cuba,22.0,-80.0,2020-03-03,0
-,Cuba,22.0,-80.0,2020-03-02,0
-,Cuba,22.0,-80.0,2020-03-01,0
-,Cuba,22.0,-80.0,2020-02-29,0
-,Cuba,22.0,-80.0,2020-02-28,0
-,Cuba,22.0,-80.0,2020-02-27,0
-,Cuba,22.0,-80.0,2020-02-26,0
-,Cuba,22.0,-80.0,2020-02-25,0
-,Cuba,22.0,-80.0,2020-02-24,0
-,Cuba,22.0,-80.0,2020-02-23,0
-,Cuba,22.0,-80.0,2020-02-22,0
-,Cuba,22.0,-80.0,2020-02-21,0
-,Cuba,22.0,-80.0,2020-02-20,0
-,Cuba,22.0,-80.0,2020-02-19,0
-,Cuba,22.0,-80.0,2020-02-18,0
-,Cuba,22.0,-80.0,2020-02-17,0
-,Cuba,22.0,-80.0,2020-02-16,0
-,Cuba,22.0,-80.0,2020-02-15,0
-,Cuba,22.0,-80.0,2020-02-14,0
-,Cuba,22.0,-80.0,2020-02-13,0
-,Cuba,22.0,-80.0,2020-02-12,0
-,Cuba,22.0,-80.0,2020-02-11,0
-,Cuba,22.0,-80.0,2020-02-10,0
-,Cuba,22.0,-80.0,2020-02-09,0
-,Cuba,22.0,-80.0,2020-02-08,0
-,Cuba,22.0,-80.0,2020-02-07,0
-,Cuba,22.0,-80.0,2020-02-06,0
-,Cuba,22.0,-80.0,2020-02-05,0
-,Cuba,22.0,-80.0,2020-02-04,0
-,Cuba,22.0,-80.0,2020-02-03,0
-,Cuba,22.0,-80.0,2020-02-02,0
-,Cuba,22.0,-80.0,2020-02-01,0
-,Cuba,22.0,-80.0,2020-01-31,0
-,Cuba,22.0,-80.0,2020-01-30,0
-,Cuba,22.0,-80.0,2020-01-29,0
-,Cuba,22.0,-80.0,2020-01-28,0
-,Cuba,22.0,-80.0,2020-01-27,0
-,Cuba,22.0,-80.0,2020-01-26,0
-,Cuba,22.0,-80.0,2020-01-25,0
-,Cuba,22.0,-80.0,2020-01-24,0
-,Cuba,22.0,-80.0,2020-01-23,0
-,Cuba,22.0,-80.0,2020-01-22,0
+,Cuba,22,-80,2020-03-29,139
+,Cuba,22,-80,2020-03-28,119
+,Cuba,22,-80,2020-03-27,80
+,Cuba,22,-80,2020-03-26,67
+,Cuba,22,-80,2020-03-25,57
+,Cuba,22,-80,2020-03-24,48
+,Cuba,22,-80,2020-03-23,40
+,Cuba,22,-80,2020-03-22,35
+,Cuba,22,-80,2020-03-21,21
+,Cuba,22,-80,2020-03-20,16
+,Cuba,22,-80,2020-03-19,11
+,Cuba,22,-80,2020-03-18,7
+,Cuba,22,-80,2020-03-17,5
+,Cuba,22,-80,2020-03-16,4
+,Cuba,22,-80,2020-03-15,4
+,Cuba,22,-80,2020-03-14,4
+,Cuba,22,-80,2020-03-13,4
+,Cuba,22,-80,2020-03-12,3
+,Cuba,22,-80,2020-03-11,0
+,Cuba,22,-80,2020-03-10,0
+,Cuba,22,-80,2020-03-09,0
+,Cuba,22,-80,2020-03-08,0
+,Cuba,22,-80,2020-03-07,0
+,Cuba,22,-80,2020-03-06,0
+,Cuba,22,-80,2020-03-05,0
+,Cuba,22,-80,2020-03-04,0
+,Cuba,22,-80,2020-03-03,0
+,Cuba,22,-80,2020-03-02,0
+,Cuba,22,-80,2020-03-01,0
+,Cuba,22,-80,2020-02-29,0
+,Cuba,22,-80,2020-02-28,0
+,Cuba,22,-80,2020-02-27,0
+,Cuba,22,-80,2020-02-26,0
+,Cuba,22,-80,2020-02-25,0
+,Cuba,22,-80,2020-02-24,0
+,Cuba,22,-80,2020-02-23,0
+,Cuba,22,-80,2020-02-22,0
+,Cuba,22,-80,2020-02-21,0
+,Cuba,22,-80,2020-02-20,0
+,Cuba,22,-80,2020-02-19,0
+,Cuba,22,-80,2020-02-18,0
+,Cuba,22,-80,2020-02-17,0
+,Cuba,22,-80,2020-02-16,0
+,Cuba,22,-80,2020-02-15,0
+,Cuba,22,-80,2020-02-14,0
+,Cuba,22,-80,2020-02-13,0
+,Cuba,22,-80,2020-02-12,0
+,Cuba,22,-80,2020-02-11,0
+,Cuba,22,-80,2020-02-10,0
+,Cuba,22,-80,2020-02-09,0
+,Cuba,22,-80,2020-02-08,0
+,Cuba,22,-80,2020-02-07,0
+,Cuba,22,-80,2020-02-06,0
+,Cuba,22,-80,2020-02-05,0
+,Cuba,22,-80,2020-02-04,0
+,Cuba,22,-80,2020-02-03,0
+,Cuba,22,-80,2020-02-02,0
+,Cuba,22,-80,2020-02-01,0
+,Cuba,22,-80,2020-01-31,0
+,Cuba,22,-80,2020-01-30,0
+,Cuba,22,-80,2020-01-29,0
+,Cuba,22,-80,2020-01-28,0
+,Cuba,22,-80,2020-01-27,0
+,Cuba,22,-80,2020-01-26,0
+,Cuba,22,-80,2020-01-25,0
+,Cuba,22,-80,2020-01-24,0
+,Cuba,22,-80,2020-01-23,0
+,Cuba,22,-80,2020-01-22,0
 ,Cyprus,35.1264,33.4299,2020-03-29,214
 ,Cyprus,35.1264,33.4299,2020-03-28,179
 ,Cyprus,35.1264,33.4299,2020-03-27,162
@@ -6800,74 +6800,74 @@ Greenland,Denmark,71.7069,-42.6043,2020-01-25,0
 Greenland,Denmark,71.7069,-42.6043,2020-01-24,0
 Greenland,Denmark,71.7069,-42.6043,2020-01-23,0
 Greenland,Denmark,71.7069,-42.6043,2020-01-22,0
-,Diamond Princess,0.0,0.0,2020-03-29,712
-,Diamond Princess,0.0,0.0,2020-03-28,712
-,Diamond Princess,0.0,0.0,2020-03-27,712
-,Diamond Princess,0.0,0.0,2020-03-26,712
-,Diamond Princess,0.0,0.0,2020-03-25,712
-,Diamond Princess,0.0,0.0,2020-03-24,712
-,Diamond Princess,0.0,0.0,2020-03-23,712
-,Diamond Princess,0.0,0.0,2020-03-22,712
-,Diamond Princess,0.0,0.0,2020-03-21,712
-,Diamond Princess,0.0,0.0,2020-03-20,712
-,Diamond Princess,0.0,0.0,2020-03-19,712
-,Diamond Princess,0.0,0.0,2020-03-18,712
-,Diamond Princess,0.0,0.0,2020-03-17,706
-,Diamond Princess,0.0,0.0,2020-03-16,706
-,Diamond Princess,0.0,0.0,2020-03-15,706
-,Diamond Princess,0.0,0.0,2020-03-14,706
-,Diamond Princess,0.0,0.0,2020-03-13,706
-,Diamond Princess,0.0,0.0,2020-03-12,706
-,Diamond Princess,0.0,0.0,2020-03-11,706
-,Diamond Princess,0.0,0.0,2020-03-10,706
-,Diamond Princess,0.0,0.0,2020-03-09,706
-,Diamond Princess,0.0,0.0,2020-03-08,706
-,Diamond Princess,0.0,0.0,2020-03-07,706
-,Diamond Princess,0.0,0.0,2020-03-06,706
-,Diamond Princess,0.0,0.0,2020-03-05,706
-,Diamond Princess,0.0,0.0,2020-03-04,706
-,Diamond Princess,0.0,0.0,2020-03-03,706
-,Diamond Princess,0.0,0.0,2020-03-02,705
-,Diamond Princess,0.0,0.0,2020-03-01,705
-,Diamond Princess,0.0,0.0,2020-02-29,705
-,Diamond Princess,0.0,0.0,2020-02-28,705
-,Diamond Princess,0.0,0.0,2020-02-27,705
-,Diamond Princess,0.0,0.0,2020-02-26,705
-,Diamond Princess,0.0,0.0,2020-02-25,691
-,Diamond Princess,0.0,0.0,2020-02-24,691
-,Diamond Princess,0.0,0.0,2020-02-23,691
-,Diamond Princess,0.0,0.0,2020-02-22,634
-,Diamond Princess,0.0,0.0,2020-02-21,634
-,Diamond Princess,0.0,0.0,2020-02-20,634
-,Diamond Princess,0.0,0.0,2020-02-19,621
-,Diamond Princess,0.0,0.0,2020-02-18,542
-,Diamond Princess,0.0,0.0,2020-02-17,454
-,Diamond Princess,0.0,0.0,2020-02-16,355
-,Diamond Princess,0.0,0.0,2020-02-15,285
-,Diamond Princess,0.0,0.0,2020-02-14,218
-,Diamond Princess,0.0,0.0,2020-02-13,175
-,Diamond Princess,0.0,0.0,2020-02-12,175
-,Diamond Princess,0.0,0.0,2020-02-11,135
-,Diamond Princess,0.0,0.0,2020-02-10,135
-,Diamond Princess,0.0,0.0,2020-02-09,64
-,Diamond Princess,0.0,0.0,2020-02-08,61
-,Diamond Princess,0.0,0.0,2020-02-07,61
-,Diamond Princess,0.0,0.0,2020-02-06,0
-,Diamond Princess,0.0,0.0,2020-02-05,0
-,Diamond Princess,0.0,0.0,2020-02-04,0
-,Diamond Princess,0.0,0.0,2020-02-03,0
-,Diamond Princess,0.0,0.0,2020-02-02,0
-,Diamond Princess,0.0,0.0,2020-02-01,0
-,Diamond Princess,0.0,0.0,2020-01-31,0
-,Diamond Princess,0.0,0.0,2020-01-30,0
-,Diamond Princess,0.0,0.0,2020-01-29,0
-,Diamond Princess,0.0,0.0,2020-01-28,0
-,Diamond Princess,0.0,0.0,2020-01-27,0
-,Diamond Princess,0.0,0.0,2020-01-26,0
-,Diamond Princess,0.0,0.0,2020-01-25,0
-,Diamond Princess,0.0,0.0,2020-01-24,0
-,Diamond Princess,0.0,0.0,2020-01-23,0
-,Diamond Princess,0.0,0.0,2020-01-22,0
+,Diamond Princess,0,0,2020-03-29,712
+,Diamond Princess,0,0,2020-03-28,712
+,Diamond Princess,0,0,2020-03-27,712
+,Diamond Princess,0,0,2020-03-26,712
+,Diamond Princess,0,0,2020-03-25,712
+,Diamond Princess,0,0,2020-03-24,712
+,Diamond Princess,0,0,2020-03-23,712
+,Diamond Princess,0,0,2020-03-22,712
+,Diamond Princess,0,0,2020-03-21,712
+,Diamond Princess,0,0,2020-03-20,712
+,Diamond Princess,0,0,2020-03-19,712
+,Diamond Princess,0,0,2020-03-18,712
+,Diamond Princess,0,0,2020-03-17,706
+,Diamond Princess,0,0,2020-03-16,706
+,Diamond Princess,0,0,2020-03-15,706
+,Diamond Princess,0,0,2020-03-14,706
+,Diamond Princess,0,0,2020-03-13,706
+,Diamond Princess,0,0,2020-03-12,706
+,Diamond Princess,0,0,2020-03-11,706
+,Diamond Princess,0,0,2020-03-10,706
+,Diamond Princess,0,0,2020-03-09,706
+,Diamond Princess,0,0,2020-03-08,706
+,Diamond Princess,0,0,2020-03-07,706
+,Diamond Princess,0,0,2020-03-06,706
+,Diamond Princess,0,0,2020-03-05,706
+,Diamond Princess,0,0,2020-03-04,706
+,Diamond Princess,0,0,2020-03-03,706
+,Diamond Princess,0,0,2020-03-02,705
+,Diamond Princess,0,0,2020-03-01,705
+,Diamond Princess,0,0,2020-02-29,705
+,Diamond Princess,0,0,2020-02-28,705
+,Diamond Princess,0,0,2020-02-27,705
+,Diamond Princess,0,0,2020-02-26,705
+,Diamond Princess,0,0,2020-02-25,691
+,Diamond Princess,0,0,2020-02-24,691
+,Diamond Princess,0,0,2020-02-23,691
+,Diamond Princess,0,0,2020-02-22,634
+,Diamond Princess,0,0,2020-02-21,634
+,Diamond Princess,0,0,2020-02-20,634
+,Diamond Princess,0,0,2020-02-19,621
+,Diamond Princess,0,0,2020-02-18,542
+,Diamond Princess,0,0,2020-02-17,454
+,Diamond Princess,0,0,2020-02-16,355
+,Diamond Princess,0,0,2020-02-15,285
+,Diamond Princess,0,0,2020-02-14,218
+,Diamond Princess,0,0,2020-02-13,175
+,Diamond Princess,0,0,2020-02-12,175
+,Diamond Princess,0,0,2020-02-11,135
+,Diamond Princess,0,0,2020-02-10,135
+,Diamond Princess,0,0,2020-02-09,64
+,Diamond Princess,0,0,2020-02-08,61
+,Diamond Princess,0,0,2020-02-07,61
+,Diamond Princess,0,0,2020-02-06,0
+,Diamond Princess,0,0,2020-02-05,0
+,Diamond Princess,0,0,2020-02-04,0
+,Diamond Princess,0,0,2020-02-03,0
+,Diamond Princess,0,0,2020-02-02,0
+,Diamond Princess,0,0,2020-02-01,0
+,Diamond Princess,0,0,2020-01-31,0
+,Diamond Princess,0,0,2020-01-30,0
+,Diamond Princess,0,0,2020-01-29,0
+,Diamond Princess,0,0,2020-01-28,0
+,Diamond Princess,0,0,2020-01-27,0
+,Diamond Princess,0,0,2020-01-26,0
+,Diamond Princess,0,0,2020-01-25,0
+,Diamond Princess,0,0,2020-01-24,0
+,Diamond Princess,0,0,2020-01-23,0
+,Diamond Princess,0,0,2020-01-22,0
 ,Djibouti,11.8251,42.5903,2020-03-29,18
 ,Djibouti,11.8251,42.5903,2020-03-28,14
 ,Djibouti,11.8251,42.5903,2020-03-27,12
@@ -7140,74 +7140,74 @@ Greenland,Denmark,71.7069,-42.6043,2020-01-22,0
 ,Ecuador,-1.8312,-78.1834,2020-01-24,0
 ,Ecuador,-1.8312,-78.1834,2020-01-23,0
 ,Ecuador,-1.8312,-78.1834,2020-01-22,0
-,Egypt,26.0,30.0,2020-03-29,609
-,Egypt,26.0,30.0,2020-03-28,576
-,Egypt,26.0,30.0,2020-03-27,536
-,Egypt,26.0,30.0,2020-03-26,495
-,Egypt,26.0,30.0,2020-03-25,456
-,Egypt,26.0,30.0,2020-03-24,402
-,Egypt,26.0,30.0,2020-03-23,366
-,Egypt,26.0,30.0,2020-03-22,327
-,Egypt,26.0,30.0,2020-03-21,294
-,Egypt,26.0,30.0,2020-03-20,285
-,Egypt,26.0,30.0,2020-03-19,256
-,Egypt,26.0,30.0,2020-03-18,196
-,Egypt,26.0,30.0,2020-03-17,196
-,Egypt,26.0,30.0,2020-03-16,150
-,Egypt,26.0,30.0,2020-03-15,110
-,Egypt,26.0,30.0,2020-03-14,109
-,Egypt,26.0,30.0,2020-03-13,80
-,Egypt,26.0,30.0,2020-03-12,67
-,Egypt,26.0,30.0,2020-03-11,60
-,Egypt,26.0,30.0,2020-03-10,59
-,Egypt,26.0,30.0,2020-03-09,55
-,Egypt,26.0,30.0,2020-03-08,49
-,Egypt,26.0,30.0,2020-03-07,15
-,Egypt,26.0,30.0,2020-03-06,15
-,Egypt,26.0,30.0,2020-03-05,3
-,Egypt,26.0,30.0,2020-03-04,2
-,Egypt,26.0,30.0,2020-03-03,2
-,Egypt,26.0,30.0,2020-03-02,2
-,Egypt,26.0,30.0,2020-03-01,2
-,Egypt,26.0,30.0,2020-02-29,1
-,Egypt,26.0,30.0,2020-02-28,1
-,Egypt,26.0,30.0,2020-02-27,1
-,Egypt,26.0,30.0,2020-02-26,1
-,Egypt,26.0,30.0,2020-02-25,1
-,Egypt,26.0,30.0,2020-02-24,1
-,Egypt,26.0,30.0,2020-02-23,1
-,Egypt,26.0,30.0,2020-02-22,1
-,Egypt,26.0,30.0,2020-02-21,1
-,Egypt,26.0,30.0,2020-02-20,1
-,Egypt,26.0,30.0,2020-02-19,1
-,Egypt,26.0,30.0,2020-02-18,1
-,Egypt,26.0,30.0,2020-02-17,1
-,Egypt,26.0,30.0,2020-02-16,1
-,Egypt,26.0,30.0,2020-02-15,1
-,Egypt,26.0,30.0,2020-02-14,1
-,Egypt,26.0,30.0,2020-02-13,0
-,Egypt,26.0,30.0,2020-02-12,0
-,Egypt,26.0,30.0,2020-02-11,0
-,Egypt,26.0,30.0,2020-02-10,0
-,Egypt,26.0,30.0,2020-02-09,0
-,Egypt,26.0,30.0,2020-02-08,0
-,Egypt,26.0,30.0,2020-02-07,0
-,Egypt,26.0,30.0,2020-02-06,0
-,Egypt,26.0,30.0,2020-02-05,0
-,Egypt,26.0,30.0,2020-02-04,0
-,Egypt,26.0,30.0,2020-02-03,0
-,Egypt,26.0,30.0,2020-02-02,0
-,Egypt,26.0,30.0,2020-02-01,0
-,Egypt,26.0,30.0,2020-01-31,0
-,Egypt,26.0,30.0,2020-01-30,0
-,Egypt,26.0,30.0,2020-01-29,0
-,Egypt,26.0,30.0,2020-01-28,0
-,Egypt,26.0,30.0,2020-01-27,0
-,Egypt,26.0,30.0,2020-01-26,0
-,Egypt,26.0,30.0,2020-01-25,0
-,Egypt,26.0,30.0,2020-01-24,0
-,Egypt,26.0,30.0,2020-01-23,0
-,Egypt,26.0,30.0,2020-01-22,0
+,Egypt,26,30,2020-03-29,609
+,Egypt,26,30,2020-03-28,576
+,Egypt,26,30,2020-03-27,536
+,Egypt,26,30,2020-03-26,495
+,Egypt,26,30,2020-03-25,456
+,Egypt,26,30,2020-03-24,402
+,Egypt,26,30,2020-03-23,366
+,Egypt,26,30,2020-03-22,327
+,Egypt,26,30,2020-03-21,294
+,Egypt,26,30,2020-03-20,285
+,Egypt,26,30,2020-03-19,256
+,Egypt,26,30,2020-03-18,196
+,Egypt,26,30,2020-03-17,196
+,Egypt,26,30,2020-03-16,150
+,Egypt,26,30,2020-03-15,110
+,Egypt,26,30,2020-03-14,109
+,Egypt,26,30,2020-03-13,80
+,Egypt,26,30,2020-03-12,67
+,Egypt,26,30,2020-03-11,60
+,Egypt,26,30,2020-03-10,59
+,Egypt,26,30,2020-03-09,55
+,Egypt,26,30,2020-03-08,49
+,Egypt,26,30,2020-03-07,15
+,Egypt,26,30,2020-03-06,15
+,Egypt,26,30,2020-03-05,3
+,Egypt,26,30,2020-03-04,2
+,Egypt,26,30,2020-03-03,2
+,Egypt,26,30,2020-03-02,2
+,Egypt,26,30,2020-03-01,2
+,Egypt,26,30,2020-02-29,1
+,Egypt,26,30,2020-02-28,1
+,Egypt,26,30,2020-02-27,1
+,Egypt,26,30,2020-02-26,1
+,Egypt,26,30,2020-02-25,1
+,Egypt,26,30,2020-02-24,1
+,Egypt,26,30,2020-02-23,1
+,Egypt,26,30,2020-02-22,1
+,Egypt,26,30,2020-02-21,1
+,Egypt,26,30,2020-02-20,1
+,Egypt,26,30,2020-02-19,1
+,Egypt,26,30,2020-02-18,1
+,Egypt,26,30,2020-02-17,1
+,Egypt,26,30,2020-02-16,1
+,Egypt,26,30,2020-02-15,1
+,Egypt,26,30,2020-02-14,1
+,Egypt,26,30,2020-02-13,0
+,Egypt,26,30,2020-02-12,0
+,Egypt,26,30,2020-02-11,0
+,Egypt,26,30,2020-02-10,0
+,Egypt,26,30,2020-02-09,0
+,Egypt,26,30,2020-02-08,0
+,Egypt,26,30,2020-02-07,0
+,Egypt,26,30,2020-02-06,0
+,Egypt,26,30,2020-02-05,0
+,Egypt,26,30,2020-02-04,0
+,Egypt,26,30,2020-02-03,0
+,Egypt,26,30,2020-02-02,0
+,Egypt,26,30,2020-02-01,0
+,Egypt,26,30,2020-01-31,0
+,Egypt,26,30,2020-01-30,0
+,Egypt,26,30,2020-01-29,0
+,Egypt,26,30,2020-01-28,0
+,Egypt,26,30,2020-01-27,0
+,Egypt,26,30,2020-01-26,0
+,Egypt,26,30,2020-01-25,0
+,Egypt,26,30,2020-01-24,0
+,Egypt,26,30,2020-01-23,0
+,Egypt,26,30,2020-01-22,0
 ,El Salvador,13.7942,-88.8965,2020-03-29,24
 ,El Salvador,13.7942,-88.8965,2020-03-28,19
 ,El Salvador,13.7942,-88.8965,2020-03-27,13
@@ -7276,74 +7276,74 @@ Greenland,Denmark,71.7069,-42.6043,2020-01-22,0
 ,El Salvador,13.7942,-88.8965,2020-01-24,0
 ,El Salvador,13.7942,-88.8965,2020-01-23,0
 ,El Salvador,13.7942,-88.8965,2020-01-22,0
-,Equatorial Guinea,1.5,10.0,2020-03-29,12
-,Equatorial Guinea,1.5,10.0,2020-03-28,12
-,Equatorial Guinea,1.5,10.0,2020-03-27,12
-,Equatorial Guinea,1.5,10.0,2020-03-26,12
-,Equatorial Guinea,1.5,10.0,2020-03-25,9
-,Equatorial Guinea,1.5,10.0,2020-03-24,9
-,Equatorial Guinea,1.5,10.0,2020-03-23,9
-,Equatorial Guinea,1.5,10.0,2020-03-22,6
-,Equatorial Guinea,1.5,10.0,2020-03-21,6
-,Equatorial Guinea,1.5,10.0,2020-03-20,6
-,Equatorial Guinea,1.5,10.0,2020-03-19,6
-,Equatorial Guinea,1.5,10.0,2020-03-18,4
-,Equatorial Guinea,1.5,10.0,2020-03-17,1
-,Equatorial Guinea,1.5,10.0,2020-03-16,1
-,Equatorial Guinea,1.5,10.0,2020-03-15,1
-,Equatorial Guinea,1.5,10.0,2020-03-14,0
-,Equatorial Guinea,1.5,10.0,2020-03-13,0
-,Equatorial Guinea,1.5,10.0,2020-03-12,0
-,Equatorial Guinea,1.5,10.0,2020-03-11,0
-,Equatorial Guinea,1.5,10.0,2020-03-10,0
-,Equatorial Guinea,1.5,10.0,2020-03-09,0
-,Equatorial Guinea,1.5,10.0,2020-03-08,0
-,Equatorial Guinea,1.5,10.0,2020-03-07,0
-,Equatorial Guinea,1.5,10.0,2020-03-06,0
-,Equatorial Guinea,1.5,10.0,2020-03-05,0
-,Equatorial Guinea,1.5,10.0,2020-03-04,0
-,Equatorial Guinea,1.5,10.0,2020-03-03,0
-,Equatorial Guinea,1.5,10.0,2020-03-02,0
-,Equatorial Guinea,1.5,10.0,2020-03-01,0
-,Equatorial Guinea,1.5,10.0,2020-02-29,0
-,Equatorial Guinea,1.5,10.0,2020-02-28,0
-,Equatorial Guinea,1.5,10.0,2020-02-27,0
-,Equatorial Guinea,1.5,10.0,2020-02-26,0
-,Equatorial Guinea,1.5,10.0,2020-02-25,0
-,Equatorial Guinea,1.5,10.0,2020-02-24,0
-,Equatorial Guinea,1.5,10.0,2020-02-23,0
-,Equatorial Guinea,1.5,10.0,2020-02-22,0
-,Equatorial Guinea,1.5,10.0,2020-02-21,0
-,Equatorial Guinea,1.5,10.0,2020-02-20,0
-,Equatorial Guinea,1.5,10.0,2020-02-19,0
-,Equatorial Guinea,1.5,10.0,2020-02-18,0
-,Equatorial Guinea,1.5,10.0,2020-02-17,0
-,Equatorial Guinea,1.5,10.0,2020-02-16,0
-,Equatorial Guinea,1.5,10.0,2020-02-15,0
-,Equatorial Guinea,1.5,10.0,2020-02-14,0
-,Equatorial Guinea,1.5,10.0,2020-02-13,0
-,Equatorial Guinea,1.5,10.0,2020-02-12,0
-,Equatorial Guinea,1.5,10.0,2020-02-11,0
-,Equatorial Guinea,1.5,10.0,2020-02-10,0
-,Equatorial Guinea,1.5,10.0,2020-02-09,0
-,Equatorial Guinea,1.5,10.0,2020-02-08,0
-,Equatorial Guinea,1.5,10.0,2020-02-07,0
-,Equatorial Guinea,1.5,10.0,2020-02-06,0
-,Equatorial Guinea,1.5,10.0,2020-02-05,0
-,Equatorial Guinea,1.5,10.0,2020-02-04,0
-,Equatorial Guinea,1.5,10.0,2020-02-03,0
-,Equatorial Guinea,1.5,10.0,2020-02-02,0
-,Equatorial Guinea,1.5,10.0,2020-02-01,0
-,Equatorial Guinea,1.5,10.0,2020-01-31,0
-,Equatorial Guinea,1.5,10.0,2020-01-30,0
-,Equatorial Guinea,1.5,10.0,2020-01-29,0
-,Equatorial Guinea,1.5,10.0,2020-01-28,0
-,Equatorial Guinea,1.5,10.0,2020-01-27,0
-,Equatorial Guinea,1.5,10.0,2020-01-26,0
-,Equatorial Guinea,1.5,10.0,2020-01-25,0
-,Equatorial Guinea,1.5,10.0,2020-01-24,0
-,Equatorial Guinea,1.5,10.0,2020-01-23,0
-,Equatorial Guinea,1.5,10.0,2020-01-22,0
+,Equatorial Guinea,1.5,10,2020-03-29,12
+,Equatorial Guinea,1.5,10,2020-03-28,12
+,Equatorial Guinea,1.5,10,2020-03-27,12
+,Equatorial Guinea,1.5,10,2020-03-26,12
+,Equatorial Guinea,1.5,10,2020-03-25,9
+,Equatorial Guinea,1.5,10,2020-03-24,9
+,Equatorial Guinea,1.5,10,2020-03-23,9
+,Equatorial Guinea,1.5,10,2020-03-22,6
+,Equatorial Guinea,1.5,10,2020-03-21,6
+,Equatorial Guinea,1.5,10,2020-03-20,6
+,Equatorial Guinea,1.5,10,2020-03-19,6
+,Equatorial Guinea,1.5,10,2020-03-18,4
+,Equatorial Guinea,1.5,10,2020-03-17,1
+,Equatorial Guinea,1.5,10,2020-03-16,1
+,Equatorial Guinea,1.5,10,2020-03-15,1
+,Equatorial Guinea,1.5,10,2020-03-14,0
+,Equatorial Guinea,1.5,10,2020-03-13,0
+,Equatorial Guinea,1.5,10,2020-03-12,0
+,Equatorial Guinea,1.5,10,2020-03-11,0
+,Equatorial Guinea,1.5,10,2020-03-10,0
+,Equatorial Guinea,1.5,10,2020-03-09,0
+,Equatorial Guinea,1.5,10,2020-03-08,0
+,Equatorial Guinea,1.5,10,2020-03-07,0
+,Equatorial Guinea,1.5,10,2020-03-06,0
+,Equatorial Guinea,1.5,10,2020-03-05,0
+,Equatorial Guinea,1.5,10,2020-03-04,0
+,Equatorial Guinea,1.5,10,2020-03-03,0
+,Equatorial Guinea,1.5,10,2020-03-02,0
+,Equatorial Guinea,1.5,10,2020-03-01,0
+,Equatorial Guinea,1.5,10,2020-02-29,0
+,Equatorial Guinea,1.5,10,2020-02-28,0
+,Equatorial Guinea,1.5,10,2020-02-27,0
+,Equatorial Guinea,1.5,10,2020-02-26,0
+,Equatorial Guinea,1.5,10,2020-02-25,0
+,Equatorial Guinea,1.5,10,2020-02-24,0
+,Equatorial Guinea,1.5,10,2020-02-23,0
+,Equatorial Guinea,1.5,10,2020-02-22,0
+,Equatorial Guinea,1.5,10,2020-02-21,0
+,Equatorial Guinea,1.5,10,2020-02-20,0
+,Equatorial Guinea,1.5,10,2020-02-19,0
+,Equatorial Guinea,1.5,10,2020-02-18,0
+,Equatorial Guinea,1.5,10,2020-02-17,0
+,Equatorial Guinea,1.5,10,2020-02-16,0
+,Equatorial Guinea,1.5,10,2020-02-15,0
+,Equatorial Guinea,1.5,10,2020-02-14,0
+,Equatorial Guinea,1.5,10,2020-02-13,0
+,Equatorial Guinea,1.5,10,2020-02-12,0
+,Equatorial Guinea,1.5,10,2020-02-11,0
+,Equatorial Guinea,1.5,10,2020-02-10,0
+,Equatorial Guinea,1.5,10,2020-02-09,0
+,Equatorial Guinea,1.5,10,2020-02-08,0
+,Equatorial Guinea,1.5,10,2020-02-07,0
+,Equatorial Guinea,1.5,10,2020-02-06,0
+,Equatorial Guinea,1.5,10,2020-02-05,0
+,Equatorial Guinea,1.5,10,2020-02-04,0
+,Equatorial Guinea,1.5,10,2020-02-03,0
+,Equatorial Guinea,1.5,10,2020-02-02,0
+,Equatorial Guinea,1.5,10,2020-02-01,0
+,Equatorial Guinea,1.5,10,2020-01-31,0
+,Equatorial Guinea,1.5,10,2020-01-30,0
+,Equatorial Guinea,1.5,10,2020-01-29,0
+,Equatorial Guinea,1.5,10,2020-01-28,0
+,Equatorial Guinea,1.5,10,2020-01-27,0
+,Equatorial Guinea,1.5,10,2020-01-26,0
+,Equatorial Guinea,1.5,10,2020-01-25,0
+,Equatorial Guinea,1.5,10,2020-01-24,0
+,Equatorial Guinea,1.5,10,2020-01-23,0
+,Equatorial Guinea,1.5,10,2020-01-22,0
 ,Eritrea,15.1794,39.7823,2020-03-29,12
 ,Eritrea,15.1794,39.7823,2020-03-28,6
 ,Eritrea,15.1794,39.7823,2020-03-27,6
@@ -7684,74 +7684,74 @@ Greenland,Denmark,71.7069,-42.6043,2020-01-22,0
 ,Fiji,-17.7134,178.065,2020-01-24,0
 ,Fiji,-17.7134,178.065,2020-01-23,0
 ,Fiji,-17.7134,178.065,2020-01-22,0
-,Finland,64.0,26.0,2020-03-29,1240
-,Finland,64.0,26.0,2020-03-28,1167
-,Finland,64.0,26.0,2020-03-27,1041
-,Finland,64.0,26.0,2020-03-26,958
-,Finland,64.0,26.0,2020-03-25,880
-,Finland,64.0,26.0,2020-03-24,792
-,Finland,64.0,26.0,2020-03-23,700
-,Finland,64.0,26.0,2020-03-22,626
-,Finland,64.0,26.0,2020-03-21,523
-,Finland,64.0,26.0,2020-03-20,450
-,Finland,64.0,26.0,2020-03-19,400
-,Finland,64.0,26.0,2020-03-18,336
-,Finland,64.0,26.0,2020-03-17,321
-,Finland,64.0,26.0,2020-03-16,277
-,Finland,64.0,26.0,2020-03-15,244
-,Finland,64.0,26.0,2020-03-14,225
-,Finland,64.0,26.0,2020-03-13,155
-,Finland,64.0,26.0,2020-03-12,59
-,Finland,64.0,26.0,2020-03-11,59
-,Finland,64.0,26.0,2020-03-10,40
-,Finland,64.0,26.0,2020-03-09,30
-,Finland,64.0,26.0,2020-03-08,23
-,Finland,64.0,26.0,2020-03-07,15
-,Finland,64.0,26.0,2020-03-06,15
-,Finland,64.0,26.0,2020-03-05,12
-,Finland,64.0,26.0,2020-03-04,6
-,Finland,64.0,26.0,2020-03-03,6
-,Finland,64.0,26.0,2020-03-02,6
-,Finland,64.0,26.0,2020-03-01,6
-,Finland,64.0,26.0,2020-02-29,3
-,Finland,64.0,26.0,2020-02-28,2
-,Finland,64.0,26.0,2020-02-27,2
-,Finland,64.0,26.0,2020-02-26,2
-,Finland,64.0,26.0,2020-02-25,1
-,Finland,64.0,26.0,2020-02-24,1
-,Finland,64.0,26.0,2020-02-23,1
-,Finland,64.0,26.0,2020-02-22,1
-,Finland,64.0,26.0,2020-02-21,1
-,Finland,64.0,26.0,2020-02-20,1
-,Finland,64.0,26.0,2020-02-19,1
-,Finland,64.0,26.0,2020-02-18,1
-,Finland,64.0,26.0,2020-02-17,1
-,Finland,64.0,26.0,2020-02-16,1
-,Finland,64.0,26.0,2020-02-15,1
-,Finland,64.0,26.0,2020-02-14,1
-,Finland,64.0,26.0,2020-02-13,1
-,Finland,64.0,26.0,2020-02-12,1
-,Finland,64.0,26.0,2020-02-11,1
-,Finland,64.0,26.0,2020-02-10,1
-,Finland,64.0,26.0,2020-02-09,1
-,Finland,64.0,26.0,2020-02-08,1
-,Finland,64.0,26.0,2020-02-07,1
-,Finland,64.0,26.0,2020-02-06,1
-,Finland,64.0,26.0,2020-02-05,1
-,Finland,64.0,26.0,2020-02-04,1
-,Finland,64.0,26.0,2020-02-03,1
-,Finland,64.0,26.0,2020-02-02,1
-,Finland,64.0,26.0,2020-02-01,1
-,Finland,64.0,26.0,2020-01-31,1
-,Finland,64.0,26.0,2020-01-30,1
-,Finland,64.0,26.0,2020-01-29,1
-,Finland,64.0,26.0,2020-01-28,0
-,Finland,64.0,26.0,2020-01-27,0
-,Finland,64.0,26.0,2020-01-26,0
-,Finland,64.0,26.0,2020-01-25,0
-,Finland,64.0,26.0,2020-01-24,0
-,Finland,64.0,26.0,2020-01-23,0
-,Finland,64.0,26.0,2020-01-22,0
+,Finland,64,26,2020-03-29,1240
+,Finland,64,26,2020-03-28,1167
+,Finland,64,26,2020-03-27,1041
+,Finland,64,26,2020-03-26,958
+,Finland,64,26,2020-03-25,880
+,Finland,64,26,2020-03-24,792
+,Finland,64,26,2020-03-23,700
+,Finland,64,26,2020-03-22,626
+,Finland,64,26,2020-03-21,523
+,Finland,64,26,2020-03-20,450
+,Finland,64,26,2020-03-19,400
+,Finland,64,26,2020-03-18,336
+,Finland,64,26,2020-03-17,321
+,Finland,64,26,2020-03-16,277
+,Finland,64,26,2020-03-15,244
+,Finland,64,26,2020-03-14,225
+,Finland,64,26,2020-03-13,155
+,Finland,64,26,2020-03-12,59
+,Finland,64,26,2020-03-11,59
+,Finland,64,26,2020-03-10,40
+,Finland,64,26,2020-03-09,30
+,Finland,64,26,2020-03-08,23
+,Finland,64,26,2020-03-07,15
+,Finland,64,26,2020-03-06,15
+,Finland,64,26,2020-03-05,12
+,Finland,64,26,2020-03-04,6
+,Finland,64,26,2020-03-03,6
+,Finland,64,26,2020-03-02,6
+,Finland,64,26,2020-03-01,6
+,Finland,64,26,2020-02-29,3
+,Finland,64,26,2020-02-28,2
+,Finland,64,26,2020-02-27,2
+,Finland,64,26,2020-02-26,2
+,Finland,64,26,2020-02-25,1
+,Finland,64,26,2020-02-24,1
+,Finland,64,26,2020-02-23,1
+,Finland,64,26,2020-02-22,1
+,Finland,64,26,2020-02-21,1
+,Finland,64,26,2020-02-20,1
+,Finland,64,26,2020-02-19,1
+,Finland,64,26,2020-02-18,1
+,Finland,64,26,2020-02-17,1
+,Finland,64,26,2020-02-16,1
+,Finland,64,26,2020-02-15,1
+,Finland,64,26,2020-02-14,1
+,Finland,64,26,2020-02-13,1
+,Finland,64,26,2020-02-12,1
+,Finland,64,26,2020-02-11,1
+,Finland,64,26,2020-02-10,1
+,Finland,64,26,2020-02-09,1
+,Finland,64,26,2020-02-08,1
+,Finland,64,26,2020-02-07,1
+,Finland,64,26,2020-02-06,1
+,Finland,64,26,2020-02-05,1
+,Finland,64,26,2020-02-04,1
+,Finland,64,26,2020-02-03,1
+,Finland,64,26,2020-02-02,1
+,Finland,64,26,2020-02-01,1
+,Finland,64,26,2020-01-31,1
+,Finland,64,26,2020-01-30,1
+,Finland,64,26,2020-01-29,1
+,Finland,64,26,2020-01-28,0
+,Finland,64,26,2020-01-27,0
+,Finland,64,26,2020-01-26,0
+,Finland,64,26,2020-01-25,0
+,Finland,64,26,2020-01-24,0
+,Finland,64,26,2020-01-23,0
+,Finland,64,26,2020-01-22,0
 ,France,46.2276,2.2137,2020-03-29,40174
 ,France,46.2276,2.2137,2020-03-28,37575
 ,France,46.2276,2.2137,2020-03-27,32964
@@ -8636,74 +8636,74 @@ St Martin,France,18.0708,-63.0501,2020-01-22,0
 ,Georgia,42.3154,43.3569,2020-01-24,0
 ,Georgia,42.3154,43.3569,2020-01-23,0
 ,Georgia,42.3154,43.3569,2020-01-22,0
-,Germany,51.0,9.0,2020-03-29,62095
-,Germany,51.0,9.0,2020-03-28,57695
-,Germany,51.0,9.0,2020-03-27,50871
-,Germany,51.0,9.0,2020-03-26,43938
-,Germany,51.0,9.0,2020-03-25,37323
-,Germany,51.0,9.0,2020-03-24,32986
-,Germany,51.0,9.0,2020-03-23,29056
-,Germany,51.0,9.0,2020-03-22,24873
-,Germany,51.0,9.0,2020-03-21,22213
-,Germany,51.0,9.0,2020-03-20,19848
-,Germany,51.0,9.0,2020-03-19,15320
-,Germany,51.0,9.0,2020-03-18,12327
-,Germany,51.0,9.0,2020-03-17,9257
-,Germany,51.0,9.0,2020-03-16,7272
-,Germany,51.0,9.0,2020-03-15,5795
-,Germany,51.0,9.0,2020-03-14,4585
-,Germany,51.0,9.0,2020-03-13,3675
-,Germany,51.0,9.0,2020-03-12,2078
-,Germany,51.0,9.0,2020-03-11,1908
-,Germany,51.0,9.0,2020-03-10,1457
-,Germany,51.0,9.0,2020-03-09,1176
-,Germany,51.0,9.0,2020-03-08,1040
-,Germany,51.0,9.0,2020-03-07,799
-,Germany,51.0,9.0,2020-03-06,670
-,Germany,51.0,9.0,2020-03-05,482
-,Germany,51.0,9.0,2020-03-04,262
-,Germany,51.0,9.0,2020-03-03,196
-,Germany,51.0,9.0,2020-03-02,159
-,Germany,51.0,9.0,2020-03-01,130
-,Germany,51.0,9.0,2020-02-29,79
-,Germany,51.0,9.0,2020-02-28,48
-,Germany,51.0,9.0,2020-02-27,46
-,Germany,51.0,9.0,2020-02-26,27
-,Germany,51.0,9.0,2020-02-25,17
-,Germany,51.0,9.0,2020-02-24,16
-,Germany,51.0,9.0,2020-02-23,16
-,Germany,51.0,9.0,2020-02-22,16
-,Germany,51.0,9.0,2020-02-21,16
-,Germany,51.0,9.0,2020-02-20,16
-,Germany,51.0,9.0,2020-02-19,16
-,Germany,51.0,9.0,2020-02-18,16
-,Germany,51.0,9.0,2020-02-17,16
-,Germany,51.0,9.0,2020-02-16,16
-,Germany,51.0,9.0,2020-02-15,16
-,Germany,51.0,9.0,2020-02-14,16
-,Germany,51.0,9.0,2020-02-13,16
-,Germany,51.0,9.0,2020-02-12,16
-,Germany,51.0,9.0,2020-02-11,16
-,Germany,51.0,9.0,2020-02-10,14
-,Germany,51.0,9.0,2020-02-09,14
-,Germany,51.0,9.0,2020-02-08,13
-,Germany,51.0,9.0,2020-02-07,13
-,Germany,51.0,9.0,2020-02-06,12
-,Germany,51.0,9.0,2020-02-05,12
-,Germany,51.0,9.0,2020-02-04,12
-,Germany,51.0,9.0,2020-02-03,12
-,Germany,51.0,9.0,2020-02-02,10
-,Germany,51.0,9.0,2020-02-01,8
-,Germany,51.0,9.0,2020-01-31,5
-,Germany,51.0,9.0,2020-01-30,4
-,Germany,51.0,9.0,2020-01-29,4
-,Germany,51.0,9.0,2020-01-28,4
-,Germany,51.0,9.0,2020-01-27,1
-,Germany,51.0,9.0,2020-01-26,0
-,Germany,51.0,9.0,2020-01-25,0
-,Germany,51.0,9.0,2020-01-24,0
-,Germany,51.0,9.0,2020-01-23,0
-,Germany,51.0,9.0,2020-01-22,0
+,Germany,51,9,2020-03-29,62095
+,Germany,51,9,2020-03-28,57695
+,Germany,51,9,2020-03-27,50871
+,Germany,51,9,2020-03-26,43938
+,Germany,51,9,2020-03-25,37323
+,Germany,51,9,2020-03-24,32986
+,Germany,51,9,2020-03-23,29056
+,Germany,51,9,2020-03-22,24873
+,Germany,51,9,2020-03-21,22213
+,Germany,51,9,2020-03-20,19848
+,Germany,51,9,2020-03-19,15320
+,Germany,51,9,2020-03-18,12327
+,Germany,51,9,2020-03-17,9257
+,Germany,51,9,2020-03-16,7272
+,Germany,51,9,2020-03-15,5795
+,Germany,51,9,2020-03-14,4585
+,Germany,51,9,2020-03-13,3675
+,Germany,51,9,2020-03-12,2078
+,Germany,51,9,2020-03-11,1908
+,Germany,51,9,2020-03-10,1457
+,Germany,51,9,2020-03-09,1176
+,Germany,51,9,2020-03-08,1040
+,Germany,51,9,2020-03-07,799
+,Germany,51,9,2020-03-06,670
+,Germany,51,9,2020-03-05,482
+,Germany,51,9,2020-03-04,262
+,Germany,51,9,2020-03-03,196
+,Germany,51,9,2020-03-02,159
+,Germany,51,9,2020-03-01,130
+,Germany,51,9,2020-02-29,79
+,Germany,51,9,2020-02-28,48
+,Germany,51,9,2020-02-27,46
+,Germany,51,9,2020-02-26,27
+,Germany,51,9,2020-02-25,17
+,Germany,51,9,2020-02-24,16
+,Germany,51,9,2020-02-23,16
+,Germany,51,9,2020-02-22,16
+,Germany,51,9,2020-02-21,16
+,Germany,51,9,2020-02-20,16
+,Germany,51,9,2020-02-19,16
+,Germany,51,9,2020-02-18,16
+,Germany,51,9,2020-02-17,16
+,Germany,51,9,2020-02-16,16
+,Germany,51,9,2020-02-15,16
+,Germany,51,9,2020-02-14,16
+,Germany,51,9,2020-02-13,16
+,Germany,51,9,2020-02-12,16
+,Germany,51,9,2020-02-11,16
+,Germany,51,9,2020-02-10,14
+,Germany,51,9,2020-02-09,14
+,Germany,51,9,2020-02-08,13
+,Germany,51,9,2020-02-07,13
+,Germany,51,9,2020-02-06,12
+,Germany,51,9,2020-02-05,12
+,Germany,51,9,2020-02-04,12
+,Germany,51,9,2020-02-03,12
+,Germany,51,9,2020-02-02,10
+,Germany,51,9,2020-02-01,8
+,Germany,51,9,2020-01-31,5
+,Germany,51,9,2020-01-30,4
+,Germany,51,9,2020-01-29,4
+,Germany,51,9,2020-01-28,4
+,Germany,51,9,2020-01-27,1
+,Germany,51,9,2020-01-26,0
+,Germany,51,9,2020-01-25,0
+,Germany,51,9,2020-01-24,0
+,Germany,51,9,2020-01-23,0
+,Germany,51,9,2020-01-22,0
 ,Ghana,7.9465,-1.0232,2020-03-29,152
 ,Ghana,7.9465,-1.0232,2020-03-28,141
 ,Ghana,7.9465,-1.0232,2020-03-27,137
@@ -9112,74 +9112,74 @@ St Martin,France,18.0708,-63.0501,2020-01-22,0
 ,Guinea-Bissau,11.8037,-15.1804,2020-01-24,0
 ,Guinea-Bissau,11.8037,-15.1804,2020-01-23,0
 ,Guinea-Bissau,11.8037,-15.1804,2020-01-22,0
-,Guyana,5.0,-58.75,2020-03-29,8
-,Guyana,5.0,-58.75,2020-03-28,8
-,Guyana,5.0,-58.75,2020-03-27,5
-,Guyana,5.0,-58.75,2020-03-26,5
-,Guyana,5.0,-58.75,2020-03-25,5
-,Guyana,5.0,-58.75,2020-03-24,5
-,Guyana,5.0,-58.75,2020-03-23,20
-,Guyana,5.0,-58.75,2020-03-22,19
-,Guyana,5.0,-58.75,2020-03-21,7
-,Guyana,5.0,-58.75,2020-03-20,7
-,Guyana,5.0,-58.75,2020-03-19,7
-,Guyana,5.0,-58.75,2020-03-18,7
-,Guyana,5.0,-58.75,2020-03-17,7
-,Guyana,5.0,-58.75,2020-03-16,4
-,Guyana,5.0,-58.75,2020-03-15,4
-,Guyana,5.0,-58.75,2020-03-14,1
-,Guyana,5.0,-58.75,2020-03-13,1
-,Guyana,5.0,-58.75,2020-03-12,1
-,Guyana,5.0,-58.75,2020-03-11,0
-,Guyana,5.0,-58.75,2020-03-10,0
-,Guyana,5.0,-58.75,2020-03-09,0
-,Guyana,5.0,-58.75,2020-03-08,0
-,Guyana,5.0,-58.75,2020-03-07,0
-,Guyana,5.0,-58.75,2020-03-06,0
-,Guyana,5.0,-58.75,2020-03-05,0
-,Guyana,5.0,-58.75,2020-03-04,0
-,Guyana,5.0,-58.75,2020-03-03,0
-,Guyana,5.0,-58.75,2020-03-02,0
-,Guyana,5.0,-58.75,2020-03-01,0
-,Guyana,5.0,-58.75,2020-02-29,0
-,Guyana,5.0,-58.75,2020-02-28,0
-,Guyana,5.0,-58.75,2020-02-27,0
-,Guyana,5.0,-58.75,2020-02-26,0
-,Guyana,5.0,-58.75,2020-02-25,0
-,Guyana,5.0,-58.75,2020-02-24,0
-,Guyana,5.0,-58.75,2020-02-23,0
-,Guyana,5.0,-58.75,2020-02-22,0
-,Guyana,5.0,-58.75,2020-02-21,0
-,Guyana,5.0,-58.75,2020-02-20,0
-,Guyana,5.0,-58.75,2020-02-19,0
-,Guyana,5.0,-58.75,2020-02-18,0
-,Guyana,5.0,-58.75,2020-02-17,0
-,Guyana,5.0,-58.75,2020-02-16,0
-,Guyana,5.0,-58.75,2020-02-15,0
-,Guyana,5.0,-58.75,2020-02-14,0
-,Guyana,5.0,-58.75,2020-02-13,0
-,Guyana,5.0,-58.75,2020-02-12,0
-,Guyana,5.0,-58.75,2020-02-11,0
-,Guyana,5.0,-58.75,2020-02-10,0
-,Guyana,5.0,-58.75,2020-02-09,0
-,Guyana,5.0,-58.75,2020-02-08,0
-,Guyana,5.0,-58.75,2020-02-07,0
-,Guyana,5.0,-58.75,2020-02-06,0
-,Guyana,5.0,-58.75,2020-02-05,0
-,Guyana,5.0,-58.75,2020-02-04,0
-,Guyana,5.0,-58.75,2020-02-03,0
-,Guyana,5.0,-58.75,2020-02-02,0
-,Guyana,5.0,-58.75,2020-02-01,0
-,Guyana,5.0,-58.75,2020-01-31,0
-,Guyana,5.0,-58.75,2020-01-30,0
-,Guyana,5.0,-58.75,2020-01-29,0
-,Guyana,5.0,-58.75,2020-01-28,0
-,Guyana,5.0,-58.75,2020-01-27,0
-,Guyana,5.0,-58.75,2020-01-26,0
-,Guyana,5.0,-58.75,2020-01-25,0
-,Guyana,5.0,-58.75,2020-01-24,0
-,Guyana,5.0,-58.75,2020-01-23,0
-,Guyana,5.0,-58.75,2020-01-22,0
+,Guyana,5,-58.75,2020-03-29,8
+,Guyana,5,-58.75,2020-03-28,8
+,Guyana,5,-58.75,2020-03-27,5
+,Guyana,5,-58.75,2020-03-26,5
+,Guyana,5,-58.75,2020-03-25,5
+,Guyana,5,-58.75,2020-03-24,5
+,Guyana,5,-58.75,2020-03-23,20
+,Guyana,5,-58.75,2020-03-22,19
+,Guyana,5,-58.75,2020-03-21,7
+,Guyana,5,-58.75,2020-03-20,7
+,Guyana,5,-58.75,2020-03-19,7
+,Guyana,5,-58.75,2020-03-18,7
+,Guyana,5,-58.75,2020-03-17,7
+,Guyana,5,-58.75,2020-03-16,4
+,Guyana,5,-58.75,2020-03-15,4
+,Guyana,5,-58.75,2020-03-14,1
+,Guyana,5,-58.75,2020-03-13,1
+,Guyana,5,-58.75,2020-03-12,1
+,Guyana,5,-58.75,2020-03-11,0
+,Guyana,5,-58.75,2020-03-10,0
+,Guyana,5,-58.75,2020-03-09,0
+,Guyana,5,-58.75,2020-03-08,0
+,Guyana,5,-58.75,2020-03-07,0
+,Guyana,5,-58.75,2020-03-06,0
+,Guyana,5,-58.75,2020-03-05,0
+,Guyana,5,-58.75,2020-03-04,0
+,Guyana,5,-58.75,2020-03-03,0
+,Guyana,5,-58.75,2020-03-02,0
+,Guyana,5,-58.75,2020-03-01,0
+,Guyana,5,-58.75,2020-02-29,0
+,Guyana,5,-58.75,2020-02-28,0
+,Guyana,5,-58.75,2020-02-27,0
+,Guyana,5,-58.75,2020-02-26,0
+,Guyana,5,-58.75,2020-02-25,0
+,Guyana,5,-58.75,2020-02-24,0
+,Guyana,5,-58.75,2020-02-23,0
+,Guyana,5,-58.75,2020-02-22,0
+,Guyana,5,-58.75,2020-02-21,0
+,Guyana,5,-58.75,2020-02-20,0
+,Guyana,5,-58.75,2020-02-19,0
+,Guyana,5,-58.75,2020-02-18,0
+,Guyana,5,-58.75,2020-02-17,0
+,Guyana,5,-58.75,2020-02-16,0
+,Guyana,5,-58.75,2020-02-15,0
+,Guyana,5,-58.75,2020-02-14,0
+,Guyana,5,-58.75,2020-02-13,0
+,Guyana,5,-58.75,2020-02-12,0
+,Guyana,5,-58.75,2020-02-11,0
+,Guyana,5,-58.75,2020-02-10,0
+,Guyana,5,-58.75,2020-02-09,0
+,Guyana,5,-58.75,2020-02-08,0
+,Guyana,5,-58.75,2020-02-07,0
+,Guyana,5,-58.75,2020-02-06,0
+,Guyana,5,-58.75,2020-02-05,0
+,Guyana,5,-58.75,2020-02-04,0
+,Guyana,5,-58.75,2020-02-03,0
+,Guyana,5,-58.75,2020-02-02,0
+,Guyana,5,-58.75,2020-02-01,0
+,Guyana,5,-58.75,2020-01-31,0
+,Guyana,5,-58.75,2020-01-30,0
+,Guyana,5,-58.75,2020-01-29,0
+,Guyana,5,-58.75,2020-01-28,0
+,Guyana,5,-58.75,2020-01-27,0
+,Guyana,5,-58.75,2020-01-26,0
+,Guyana,5,-58.75,2020-01-25,0
+,Guyana,5,-58.75,2020-01-24,0
+,Guyana,5,-58.75,2020-01-23,0
+,Guyana,5,-58.75,2020-01-22,0
 ,Haiti,18.9712,-72.2852,2020-03-29,15
 ,Haiti,18.9712,-72.2852,2020-03-28,8
 ,Haiti,18.9712,-72.2852,2020-03-27,8
@@ -9520,74 +9520,74 @@ St Martin,France,18.0708,-63.0501,2020-01-22,0
 ,Iceland,64.9631,-19.0208,2020-01-24,0
 ,Iceland,64.9631,-19.0208,2020-01-23,0
 ,Iceland,64.9631,-19.0208,2020-01-22,0
-,India,21.0,78.0,2020-03-29,1024
-,India,21.0,78.0,2020-03-28,987
-,India,21.0,78.0,2020-03-27,887
-,India,21.0,78.0,2020-03-26,727
-,India,21.0,78.0,2020-03-25,657
-,India,21.0,78.0,2020-03-24,536
-,India,21.0,78.0,2020-03-23,499
-,India,21.0,78.0,2020-03-22,396
-,India,21.0,78.0,2020-03-21,330
-,India,21.0,78.0,2020-03-20,244
-,India,21.0,78.0,2020-03-19,194
-,India,21.0,78.0,2020-03-18,156
-,India,21.0,78.0,2020-03-17,142
-,India,21.0,78.0,2020-03-16,119
-,India,21.0,78.0,2020-03-15,113
-,India,21.0,78.0,2020-03-14,102
-,India,21.0,78.0,2020-03-13,82
-,India,21.0,78.0,2020-03-12,73
-,India,21.0,78.0,2020-03-11,62
-,India,21.0,78.0,2020-03-10,56
-,India,21.0,78.0,2020-03-09,43
-,India,21.0,78.0,2020-03-08,39
-,India,21.0,78.0,2020-03-07,34
-,India,21.0,78.0,2020-03-06,31
-,India,21.0,78.0,2020-03-05,30
-,India,21.0,78.0,2020-03-04,28
-,India,21.0,78.0,2020-03-03,5
-,India,21.0,78.0,2020-03-02,5
-,India,21.0,78.0,2020-03-01,3
-,India,21.0,78.0,2020-02-29,3
-,India,21.0,78.0,2020-02-28,3
-,India,21.0,78.0,2020-02-27,3
-,India,21.0,78.0,2020-02-26,3
-,India,21.0,78.0,2020-02-25,3
-,India,21.0,78.0,2020-02-24,3
-,India,21.0,78.0,2020-02-23,3
-,India,21.0,78.0,2020-02-22,3
-,India,21.0,78.0,2020-02-21,3
-,India,21.0,78.0,2020-02-20,3
-,India,21.0,78.0,2020-02-19,3
-,India,21.0,78.0,2020-02-18,3
-,India,21.0,78.0,2020-02-17,3
-,India,21.0,78.0,2020-02-16,3
-,India,21.0,78.0,2020-02-15,3
-,India,21.0,78.0,2020-02-14,3
-,India,21.0,78.0,2020-02-13,3
-,India,21.0,78.0,2020-02-12,3
-,India,21.0,78.0,2020-02-11,3
-,India,21.0,78.0,2020-02-10,3
-,India,21.0,78.0,2020-02-09,3
-,India,21.0,78.0,2020-02-08,3
-,India,21.0,78.0,2020-02-07,3
-,India,21.0,78.0,2020-02-06,3
-,India,21.0,78.0,2020-02-05,3
-,India,21.0,78.0,2020-02-04,3
-,India,21.0,78.0,2020-02-03,3
-,India,21.0,78.0,2020-02-02,2
-,India,21.0,78.0,2020-02-01,1
-,India,21.0,78.0,2020-01-31,1
-,India,21.0,78.0,2020-01-30,1
-,India,21.0,78.0,2020-01-29,0
-,India,21.0,78.0,2020-01-28,0
-,India,21.0,78.0,2020-01-27,0
-,India,21.0,78.0,2020-01-26,0
-,India,21.0,78.0,2020-01-25,0
-,India,21.0,78.0,2020-01-24,0
-,India,21.0,78.0,2020-01-23,0
-,India,21.0,78.0,2020-01-22,0
+,India,21,78,2020-03-29,1024
+,India,21,78,2020-03-28,987
+,India,21,78,2020-03-27,887
+,India,21,78,2020-03-26,727
+,India,21,78,2020-03-25,657
+,India,21,78,2020-03-24,536
+,India,21,78,2020-03-23,499
+,India,21,78,2020-03-22,396
+,India,21,78,2020-03-21,330
+,India,21,78,2020-03-20,244
+,India,21,78,2020-03-19,194
+,India,21,78,2020-03-18,156
+,India,21,78,2020-03-17,142
+,India,21,78,2020-03-16,119
+,India,21,78,2020-03-15,113
+,India,21,78,2020-03-14,102
+,India,21,78,2020-03-13,82
+,India,21,78,2020-03-12,73
+,India,21,78,2020-03-11,62
+,India,21,78,2020-03-10,56
+,India,21,78,2020-03-09,43
+,India,21,78,2020-03-08,39
+,India,21,78,2020-03-07,34
+,India,21,78,2020-03-06,31
+,India,21,78,2020-03-05,30
+,India,21,78,2020-03-04,28
+,India,21,78,2020-03-03,5
+,India,21,78,2020-03-02,5
+,India,21,78,2020-03-01,3
+,India,21,78,2020-02-29,3
+,India,21,78,2020-02-28,3
+,India,21,78,2020-02-27,3
+,India,21,78,2020-02-26,3
+,India,21,78,2020-02-25,3
+,India,21,78,2020-02-24,3
+,India,21,78,2020-02-23,3
+,India,21,78,2020-02-22,3
+,India,21,78,2020-02-21,3
+,India,21,78,2020-02-20,3
+,India,21,78,2020-02-19,3
+,India,21,78,2020-02-18,3
+,India,21,78,2020-02-17,3
+,India,21,78,2020-02-16,3
+,India,21,78,2020-02-15,3
+,India,21,78,2020-02-14,3
+,India,21,78,2020-02-13,3
+,India,21,78,2020-02-12,3
+,India,21,78,2020-02-11,3
+,India,21,78,2020-02-10,3
+,India,21,78,2020-02-09,3
+,India,21,78,2020-02-08,3
+,India,21,78,2020-02-07,3
+,India,21,78,2020-02-06,3
+,India,21,78,2020-02-05,3
+,India,21,78,2020-02-04,3
+,India,21,78,2020-02-03,3
+,India,21,78,2020-02-02,2
+,India,21,78,2020-02-01,1
+,India,21,78,2020-01-31,1
+,India,21,78,2020-01-30,1
+,India,21,78,2020-01-29,0
+,India,21,78,2020-01-28,0
+,India,21,78,2020-01-27,0
+,India,21,78,2020-01-26,0
+,India,21,78,2020-01-25,0
+,India,21,78,2020-01-24,0
+,India,21,78,2020-01-23,0
+,India,21,78,2020-01-22,0
 ,Indonesia,-0.7893,113.9213,2020-03-29,1285
 ,Indonesia,-0.7893,113.9213,2020-03-28,1155
 ,Indonesia,-0.7893,113.9213,2020-03-27,1046
@@ -9656,142 +9656,142 @@ St Martin,France,18.0708,-63.0501,2020-01-22,0
 ,Indonesia,-0.7893,113.9213,2020-01-24,0
 ,Indonesia,-0.7893,113.9213,2020-01-23,0
 ,Indonesia,-0.7893,113.9213,2020-01-22,0
-,Iran,32.0,53.0,2020-03-29,38309
-,Iran,32.0,53.0,2020-03-28,35408
-,Iran,32.0,53.0,2020-03-27,32332
-,Iran,32.0,53.0,2020-03-26,29406
-,Iran,32.0,53.0,2020-03-25,27017
-,Iran,32.0,53.0,2020-03-24,24811
-,Iran,32.0,53.0,2020-03-23,23049
-,Iran,32.0,53.0,2020-03-22,21638
-,Iran,32.0,53.0,2020-03-21,20610
-,Iran,32.0,53.0,2020-03-20,19644
-,Iran,32.0,53.0,2020-03-19,18407
-,Iran,32.0,53.0,2020-03-18,17361
-,Iran,32.0,53.0,2020-03-17,16169
-,Iran,32.0,53.0,2020-03-16,14991
-,Iran,32.0,53.0,2020-03-15,13938
-,Iran,32.0,53.0,2020-03-14,12729
-,Iran,32.0,53.0,2020-03-13,11364
-,Iran,32.0,53.0,2020-03-12,10075
-,Iran,32.0,53.0,2020-03-11,9000
-,Iran,32.0,53.0,2020-03-10,8042
-,Iran,32.0,53.0,2020-03-09,7161
-,Iran,32.0,53.0,2020-03-08,6566
-,Iran,32.0,53.0,2020-03-07,5823
-,Iran,32.0,53.0,2020-03-06,4747
-,Iran,32.0,53.0,2020-03-05,3513
-,Iran,32.0,53.0,2020-03-04,2922
-,Iran,32.0,53.0,2020-03-03,2336
-,Iran,32.0,53.0,2020-03-02,1501
-,Iran,32.0,53.0,2020-03-01,978
-,Iran,32.0,53.0,2020-02-29,593
-,Iran,32.0,53.0,2020-02-28,388
-,Iran,32.0,53.0,2020-02-27,245
-,Iran,32.0,53.0,2020-02-26,139
-,Iran,32.0,53.0,2020-02-25,95
-,Iran,32.0,53.0,2020-02-24,61
-,Iran,32.0,53.0,2020-02-23,43
-,Iran,32.0,53.0,2020-02-22,28
-,Iran,32.0,53.0,2020-02-21,18
-,Iran,32.0,53.0,2020-02-20,5
-,Iran,32.0,53.0,2020-02-19,2
-,Iran,32.0,53.0,2020-02-18,0
-,Iran,32.0,53.0,2020-02-17,0
-,Iran,32.0,53.0,2020-02-16,0
-,Iran,32.0,53.0,2020-02-15,0
-,Iran,32.0,53.0,2020-02-14,0
-,Iran,32.0,53.0,2020-02-13,0
-,Iran,32.0,53.0,2020-02-12,0
-,Iran,32.0,53.0,2020-02-11,0
-,Iran,32.0,53.0,2020-02-10,0
-,Iran,32.0,53.0,2020-02-09,0
-,Iran,32.0,53.0,2020-02-08,0
-,Iran,32.0,53.0,2020-02-07,0
-,Iran,32.0,53.0,2020-02-06,0
-,Iran,32.0,53.0,2020-02-05,0
-,Iran,32.0,53.0,2020-02-04,0
-,Iran,32.0,53.0,2020-02-03,0
-,Iran,32.0,53.0,2020-02-02,0
-,Iran,32.0,53.0,2020-02-01,0
-,Iran,32.0,53.0,2020-01-31,0
-,Iran,32.0,53.0,2020-01-30,0
-,Iran,32.0,53.0,2020-01-29,0
-,Iran,32.0,53.0,2020-01-28,0
-,Iran,32.0,53.0,2020-01-27,0
-,Iran,32.0,53.0,2020-01-26,0
-,Iran,32.0,53.0,2020-01-25,0
-,Iran,32.0,53.0,2020-01-24,0
-,Iran,32.0,53.0,2020-01-23,0
-,Iran,32.0,53.0,2020-01-22,0
-,Iraq,33.0,44.0,2020-03-29,547
-,Iraq,33.0,44.0,2020-03-28,506
-,Iraq,33.0,44.0,2020-03-27,458
-,Iraq,33.0,44.0,2020-03-26,382
-,Iraq,33.0,44.0,2020-03-25,346
-,Iraq,33.0,44.0,2020-03-24,316
-,Iraq,33.0,44.0,2020-03-23,266
-,Iraq,33.0,44.0,2020-03-22,233
-,Iraq,33.0,44.0,2020-03-21,214
-,Iraq,33.0,44.0,2020-03-20,208
-,Iraq,33.0,44.0,2020-03-19,192
-,Iraq,33.0,44.0,2020-03-18,164
-,Iraq,33.0,44.0,2020-03-17,154
-,Iraq,33.0,44.0,2020-03-16,124
-,Iraq,33.0,44.0,2020-03-15,116
-,Iraq,33.0,44.0,2020-03-14,110
-,Iraq,33.0,44.0,2020-03-13,101
-,Iraq,33.0,44.0,2020-03-12,71
-,Iraq,33.0,44.0,2020-03-11,71
-,Iraq,33.0,44.0,2020-03-10,71
-,Iraq,33.0,44.0,2020-03-09,60
-,Iraq,33.0,44.0,2020-03-08,60
-,Iraq,33.0,44.0,2020-03-07,54
-,Iraq,33.0,44.0,2020-03-06,40
-,Iraq,33.0,44.0,2020-03-05,35
-,Iraq,33.0,44.0,2020-03-04,35
-,Iraq,33.0,44.0,2020-03-03,32
-,Iraq,33.0,44.0,2020-03-02,26
-,Iraq,33.0,44.0,2020-03-01,19
-,Iraq,33.0,44.0,2020-02-29,13
-,Iraq,33.0,44.0,2020-02-28,7
-,Iraq,33.0,44.0,2020-02-27,7
-,Iraq,33.0,44.0,2020-02-26,5
-,Iraq,33.0,44.0,2020-02-25,1
-,Iraq,33.0,44.0,2020-02-24,1
-,Iraq,33.0,44.0,2020-02-23,0
-,Iraq,33.0,44.0,2020-02-22,0
-,Iraq,33.0,44.0,2020-02-21,0
-,Iraq,33.0,44.0,2020-02-20,0
-,Iraq,33.0,44.0,2020-02-19,0
-,Iraq,33.0,44.0,2020-02-18,0
-,Iraq,33.0,44.0,2020-02-17,0
-,Iraq,33.0,44.0,2020-02-16,0
-,Iraq,33.0,44.0,2020-02-15,0
-,Iraq,33.0,44.0,2020-02-14,0
-,Iraq,33.0,44.0,2020-02-13,0
-,Iraq,33.0,44.0,2020-02-12,0
-,Iraq,33.0,44.0,2020-02-11,0
-,Iraq,33.0,44.0,2020-02-10,0
-,Iraq,33.0,44.0,2020-02-09,0
-,Iraq,33.0,44.0,2020-02-08,0
-,Iraq,33.0,44.0,2020-02-07,0
-,Iraq,33.0,44.0,2020-02-06,0
-,Iraq,33.0,44.0,2020-02-05,0
-,Iraq,33.0,44.0,2020-02-04,0
-,Iraq,33.0,44.0,2020-02-03,0
-,Iraq,33.0,44.0,2020-02-02,0
-,Iraq,33.0,44.0,2020-02-01,0
-,Iraq,33.0,44.0,2020-01-31,0
-,Iraq,33.0,44.0,2020-01-30,0
-,Iraq,33.0,44.0,2020-01-29,0
-,Iraq,33.0,44.0,2020-01-28,0
-,Iraq,33.0,44.0,2020-01-27,0
-,Iraq,33.0,44.0,2020-01-26,0
-,Iraq,33.0,44.0,2020-01-25,0
-,Iraq,33.0,44.0,2020-01-24,0
-,Iraq,33.0,44.0,2020-01-23,0
-,Iraq,33.0,44.0,2020-01-22,0
+,Iran,32,53,2020-03-29,38309
+,Iran,32,53,2020-03-28,35408
+,Iran,32,53,2020-03-27,32332
+,Iran,32,53,2020-03-26,29406
+,Iran,32,53,2020-03-25,27017
+,Iran,32,53,2020-03-24,24811
+,Iran,32,53,2020-03-23,23049
+,Iran,32,53,2020-03-22,21638
+,Iran,32,53,2020-03-21,20610
+,Iran,32,53,2020-03-20,19644
+,Iran,32,53,2020-03-19,18407
+,Iran,32,53,2020-03-18,17361
+,Iran,32,53,2020-03-17,16169
+,Iran,32,53,2020-03-16,14991
+,Iran,32,53,2020-03-15,13938
+,Iran,32,53,2020-03-14,12729
+,Iran,32,53,2020-03-13,11364
+,Iran,32,53,2020-03-12,10075
+,Iran,32,53,2020-03-11,9000
+,Iran,32,53,2020-03-10,8042
+,Iran,32,53,2020-03-09,7161
+,Iran,32,53,2020-03-08,6566
+,Iran,32,53,2020-03-07,5823
+,Iran,32,53,2020-03-06,4747
+,Iran,32,53,2020-03-05,3513
+,Iran,32,53,2020-03-04,2922
+,Iran,32,53,2020-03-03,2336
+,Iran,32,53,2020-03-02,1501
+,Iran,32,53,2020-03-01,978
+,Iran,32,53,2020-02-29,593
+,Iran,32,53,2020-02-28,388
+,Iran,32,53,2020-02-27,245
+,Iran,32,53,2020-02-26,139
+,Iran,32,53,2020-02-25,95
+,Iran,32,53,2020-02-24,61
+,Iran,32,53,2020-02-23,43
+,Iran,32,53,2020-02-22,28
+,Iran,32,53,2020-02-21,18
+,Iran,32,53,2020-02-20,5
+,Iran,32,53,2020-02-19,2
+,Iran,32,53,2020-02-18,0
+,Iran,32,53,2020-02-17,0
+,Iran,32,53,2020-02-16,0
+,Iran,32,53,2020-02-15,0
+,Iran,32,53,2020-02-14,0
+,Iran,32,53,2020-02-13,0
+,Iran,32,53,2020-02-12,0
+,Iran,32,53,2020-02-11,0
+,Iran,32,53,2020-02-10,0
+,Iran,32,53,2020-02-09,0
+,Iran,32,53,2020-02-08,0
+,Iran,32,53,2020-02-07,0
+,Iran,32,53,2020-02-06,0
+,Iran,32,53,2020-02-05,0
+,Iran,32,53,2020-02-04,0
+,Iran,32,53,2020-02-03,0
+,Iran,32,53,2020-02-02,0
+,Iran,32,53,2020-02-01,0
+,Iran,32,53,2020-01-31,0
+,Iran,32,53,2020-01-30,0
+,Iran,32,53,2020-01-29,0
+,Iran,32,53,2020-01-28,0
+,Iran,32,53,2020-01-27,0
+,Iran,32,53,2020-01-26,0
+,Iran,32,53,2020-01-25,0
+,Iran,32,53,2020-01-24,0
+,Iran,32,53,2020-01-23,0
+,Iran,32,53,2020-01-22,0
+,Iraq,33,44,2020-03-29,547
+,Iraq,33,44,2020-03-28,506
+,Iraq,33,44,2020-03-27,458
+,Iraq,33,44,2020-03-26,382
+,Iraq,33,44,2020-03-25,346
+,Iraq,33,44,2020-03-24,316
+,Iraq,33,44,2020-03-23,266
+,Iraq,33,44,2020-03-22,233
+,Iraq,33,44,2020-03-21,214
+,Iraq,33,44,2020-03-20,208
+,Iraq,33,44,2020-03-19,192
+,Iraq,33,44,2020-03-18,164
+,Iraq,33,44,2020-03-17,154
+,Iraq,33,44,2020-03-16,124
+,Iraq,33,44,2020-03-15,116
+,Iraq,33,44,2020-03-14,110
+,Iraq,33,44,2020-03-13,101
+,Iraq,33,44,2020-03-12,71
+,Iraq,33,44,2020-03-11,71
+,Iraq,33,44,2020-03-10,71
+,Iraq,33,44,2020-03-09,60
+,Iraq,33,44,2020-03-08,60
+,Iraq,33,44,2020-03-07,54
+,Iraq,33,44,2020-03-06,40
+,Iraq,33,44,2020-03-05,35
+,Iraq,33,44,2020-03-04,35
+,Iraq,33,44,2020-03-03,32
+,Iraq,33,44,2020-03-02,26
+,Iraq,33,44,2020-03-01,19
+,Iraq,33,44,2020-02-29,13
+,Iraq,33,44,2020-02-28,7
+,Iraq,33,44,2020-02-27,7
+,Iraq,33,44,2020-02-26,5
+,Iraq,33,44,2020-02-25,1
+,Iraq,33,44,2020-02-24,1
+,Iraq,33,44,2020-02-23,0
+,Iraq,33,44,2020-02-22,0
+,Iraq,33,44,2020-02-21,0
+,Iraq,33,44,2020-02-20,0
+,Iraq,33,44,2020-02-19,0
+,Iraq,33,44,2020-02-18,0
+,Iraq,33,44,2020-02-17,0
+,Iraq,33,44,2020-02-16,0
+,Iraq,33,44,2020-02-15,0
+,Iraq,33,44,2020-02-14,0
+,Iraq,33,44,2020-02-13,0
+,Iraq,33,44,2020-02-12,0
+,Iraq,33,44,2020-02-11,0
+,Iraq,33,44,2020-02-10,0
+,Iraq,33,44,2020-02-09,0
+,Iraq,33,44,2020-02-08,0
+,Iraq,33,44,2020-02-07,0
+,Iraq,33,44,2020-02-06,0
+,Iraq,33,44,2020-02-05,0
+,Iraq,33,44,2020-02-04,0
+,Iraq,33,44,2020-02-03,0
+,Iraq,33,44,2020-02-02,0
+,Iraq,33,44,2020-02-01,0
+,Iraq,33,44,2020-01-31,0
+,Iraq,33,44,2020-01-30,0
+,Iraq,33,44,2020-01-29,0
+,Iraq,33,44,2020-01-28,0
+,Iraq,33,44,2020-01-27,0
+,Iraq,33,44,2020-01-26,0
+,Iraq,33,44,2020-01-25,0
+,Iraq,33,44,2020-01-24,0
+,Iraq,33,44,2020-01-23,0
+,Iraq,33,44,2020-01-22,0
 ,Ireland,53.1424,-7.6921,2020-03-29,2615
 ,Ireland,53.1424,-7.6921,2020-03-28,2415
 ,Ireland,53.1424,-7.6921,2020-03-27,2121
@@ -9860,142 +9860,142 @@ St Martin,France,18.0708,-63.0501,2020-01-22,0
 ,Ireland,53.1424,-7.6921,2020-01-24,0
 ,Ireland,53.1424,-7.6921,2020-01-23,0
 ,Ireland,53.1424,-7.6921,2020-01-22,0
-,Israel,31.0,35.0,2020-03-29,4247
-,Israel,31.0,35.0,2020-03-28,3619
-,Israel,31.0,35.0,2020-03-27,3035
-,Israel,31.0,35.0,2020-03-26,2693
-,Israel,31.0,35.0,2020-03-25,2369
-,Israel,31.0,35.0,2020-03-24,1238
-,Israel,31.0,35.0,2020-03-23,1071
-,Israel,31.0,35.0,2020-03-22,883
-,Israel,31.0,35.0,2020-03-21,712
-,Israel,31.0,35.0,2020-03-20,529
-,Israel,31.0,35.0,2020-03-19,427
-,Israel,31.0,35.0,2020-03-18,304
-,Israel,31.0,35.0,2020-03-17,250
-,Israel,31.0,35.0,2020-03-16,218
-,Israel,31.0,35.0,2020-03-15,213
-,Israel,31.0,35.0,2020-03-14,155
-,Israel,31.0,35.0,2020-03-13,126
-,Israel,31.0,35.0,2020-03-12,100
-,Israel,31.0,35.0,2020-03-11,79
-,Israel,31.0,35.0,2020-03-10,75
-,Israel,31.0,35.0,2020-03-09,61
-,Israel,31.0,35.0,2020-03-08,61
-,Israel,31.0,35.0,2020-03-07,43
-,Israel,31.0,35.0,2020-03-06,37
-,Israel,31.0,35.0,2020-03-05,20
-,Israel,31.0,35.0,2020-03-04,15
-,Israel,31.0,35.0,2020-03-03,12
-,Israel,31.0,35.0,2020-03-02,10
-,Israel,31.0,35.0,2020-03-01,10
-,Israel,31.0,35.0,2020-02-29,7
-,Israel,31.0,35.0,2020-02-28,4
-,Israel,31.0,35.0,2020-02-27,3
-,Israel,31.0,35.0,2020-02-26,2
-,Israel,31.0,35.0,2020-02-25,1
-,Israel,31.0,35.0,2020-02-24,1
-,Israel,31.0,35.0,2020-02-23,1
-,Israel,31.0,35.0,2020-02-22,1
-,Israel,31.0,35.0,2020-02-21,1
-,Israel,31.0,35.0,2020-02-20,0
-,Israel,31.0,35.0,2020-02-19,0
-,Israel,31.0,35.0,2020-02-18,0
-,Israel,31.0,35.0,2020-02-17,0
-,Israel,31.0,35.0,2020-02-16,0
-,Israel,31.0,35.0,2020-02-15,0
-,Israel,31.0,35.0,2020-02-14,0
-,Israel,31.0,35.0,2020-02-13,0
-,Israel,31.0,35.0,2020-02-12,0
-,Israel,31.0,35.0,2020-02-11,0
-,Israel,31.0,35.0,2020-02-10,0
-,Israel,31.0,35.0,2020-02-09,0
-,Israel,31.0,35.0,2020-02-08,0
-,Israel,31.0,35.0,2020-02-07,0
-,Israel,31.0,35.0,2020-02-06,0
-,Israel,31.0,35.0,2020-02-05,0
-,Israel,31.0,35.0,2020-02-04,0
-,Israel,31.0,35.0,2020-02-03,0
-,Israel,31.0,35.0,2020-02-02,0
-,Israel,31.0,35.0,2020-02-01,0
-,Israel,31.0,35.0,2020-01-31,0
-,Israel,31.0,35.0,2020-01-30,0
-,Israel,31.0,35.0,2020-01-29,0
-,Israel,31.0,35.0,2020-01-28,0
-,Israel,31.0,35.0,2020-01-27,0
-,Israel,31.0,35.0,2020-01-26,0
-,Israel,31.0,35.0,2020-01-25,0
-,Israel,31.0,35.0,2020-01-24,0
-,Israel,31.0,35.0,2020-01-23,0
-,Israel,31.0,35.0,2020-01-22,0
-,Italy,43.0,12.0,2020-03-29,97689
-,Italy,43.0,12.0,2020-03-28,92472
-,Italy,43.0,12.0,2020-03-27,86498
-,Italy,43.0,12.0,2020-03-26,80589
-,Italy,43.0,12.0,2020-03-25,74386
-,Italy,43.0,12.0,2020-03-24,69176
-,Italy,43.0,12.0,2020-03-23,63927
-,Italy,43.0,12.0,2020-03-22,59138
-,Italy,43.0,12.0,2020-03-21,53578
-,Italy,43.0,12.0,2020-03-20,47021
-,Italy,43.0,12.0,2020-03-19,41035
-,Italy,43.0,12.0,2020-03-18,35713
-,Italy,43.0,12.0,2020-03-17,31506
-,Italy,43.0,12.0,2020-03-16,27980
-,Italy,43.0,12.0,2020-03-15,24747
-,Italy,43.0,12.0,2020-03-14,21157
-,Italy,43.0,12.0,2020-03-13,17660
-,Italy,43.0,12.0,2020-03-12,12462
-,Italy,43.0,12.0,2020-03-11,12462
-,Italy,43.0,12.0,2020-03-10,10149
-,Italy,43.0,12.0,2020-03-09,9172
-,Italy,43.0,12.0,2020-03-08,7375
-,Italy,43.0,12.0,2020-03-07,5883
-,Italy,43.0,12.0,2020-03-06,4636
-,Italy,43.0,12.0,2020-03-05,3858
-,Italy,43.0,12.0,2020-03-04,3089
-,Italy,43.0,12.0,2020-03-03,2502
-,Italy,43.0,12.0,2020-03-02,2036
-,Italy,43.0,12.0,2020-03-01,1694
-,Italy,43.0,12.0,2020-02-29,1128
-,Italy,43.0,12.0,2020-02-28,888
-,Italy,43.0,12.0,2020-02-27,655
-,Italy,43.0,12.0,2020-02-26,453
-,Italy,43.0,12.0,2020-02-25,322
-,Italy,43.0,12.0,2020-02-24,229
-,Italy,43.0,12.0,2020-02-23,155
-,Italy,43.0,12.0,2020-02-22,62
-,Italy,43.0,12.0,2020-02-21,20
-,Italy,43.0,12.0,2020-02-20,3
-,Italy,43.0,12.0,2020-02-19,3
-,Italy,43.0,12.0,2020-02-18,3
-,Italy,43.0,12.0,2020-02-17,3
-,Italy,43.0,12.0,2020-02-16,3
-,Italy,43.0,12.0,2020-02-15,3
-,Italy,43.0,12.0,2020-02-14,3
-,Italy,43.0,12.0,2020-02-13,3
-,Italy,43.0,12.0,2020-02-12,3
-,Italy,43.0,12.0,2020-02-11,3
-,Italy,43.0,12.0,2020-02-10,3
-,Italy,43.0,12.0,2020-02-09,3
-,Italy,43.0,12.0,2020-02-08,3
-,Italy,43.0,12.0,2020-02-07,3
-,Italy,43.0,12.0,2020-02-06,2
-,Italy,43.0,12.0,2020-02-05,2
-,Italy,43.0,12.0,2020-02-04,2
-,Italy,43.0,12.0,2020-02-03,2
-,Italy,43.0,12.0,2020-02-02,2
-,Italy,43.0,12.0,2020-02-01,2
-,Italy,43.0,12.0,2020-01-31,2
-,Italy,43.0,12.0,2020-01-30,0
-,Italy,43.0,12.0,2020-01-29,0
-,Italy,43.0,12.0,2020-01-28,0
-,Italy,43.0,12.0,2020-01-27,0
-,Italy,43.0,12.0,2020-01-26,0
-,Italy,43.0,12.0,2020-01-25,0
-,Italy,43.0,12.0,2020-01-24,0
-,Italy,43.0,12.0,2020-01-23,0
-,Italy,43.0,12.0,2020-01-22,0
+,Israel,31,35,2020-03-29,4247
+,Israel,31,35,2020-03-28,3619
+,Israel,31,35,2020-03-27,3035
+,Israel,31,35,2020-03-26,2693
+,Israel,31,35,2020-03-25,2369
+,Israel,31,35,2020-03-24,1238
+,Israel,31,35,2020-03-23,1071
+,Israel,31,35,2020-03-22,883
+,Israel,31,35,2020-03-21,712
+,Israel,31,35,2020-03-20,529
+,Israel,31,35,2020-03-19,427
+,Israel,31,35,2020-03-18,304
+,Israel,31,35,2020-03-17,250
+,Israel,31,35,2020-03-16,218
+,Israel,31,35,2020-03-15,213
+,Israel,31,35,2020-03-14,155
+,Israel,31,35,2020-03-13,126
+,Israel,31,35,2020-03-12,100
+,Israel,31,35,2020-03-11,79
+,Israel,31,35,2020-03-10,75
+,Israel,31,35,2020-03-09,61
+,Israel,31,35,2020-03-08,61
+,Israel,31,35,2020-03-07,43
+,Israel,31,35,2020-03-06,37
+,Israel,31,35,2020-03-05,20
+,Israel,31,35,2020-03-04,15
+,Israel,31,35,2020-03-03,12
+,Israel,31,35,2020-03-02,10
+,Israel,31,35,2020-03-01,10
+,Israel,31,35,2020-02-29,7
+,Israel,31,35,2020-02-28,4
+,Israel,31,35,2020-02-27,3
+,Israel,31,35,2020-02-26,2
+,Israel,31,35,2020-02-25,1
+,Israel,31,35,2020-02-24,1
+,Israel,31,35,2020-02-23,1
+,Israel,31,35,2020-02-22,1
+,Israel,31,35,2020-02-21,1
+,Israel,31,35,2020-02-20,0
+,Israel,31,35,2020-02-19,0
+,Israel,31,35,2020-02-18,0
+,Israel,31,35,2020-02-17,0
+,Israel,31,35,2020-02-16,0
+,Israel,31,35,2020-02-15,0
+,Israel,31,35,2020-02-14,0
+,Israel,31,35,2020-02-13,0
+,Israel,31,35,2020-02-12,0
+,Israel,31,35,2020-02-11,0
+,Israel,31,35,2020-02-10,0
+,Israel,31,35,2020-02-09,0
+,Israel,31,35,2020-02-08,0
+,Israel,31,35,2020-02-07,0
+,Israel,31,35,2020-02-06,0
+,Israel,31,35,2020-02-05,0
+,Israel,31,35,2020-02-04,0
+,Israel,31,35,2020-02-03,0
+,Israel,31,35,2020-02-02,0
+,Israel,31,35,2020-02-01,0
+,Israel,31,35,2020-01-31,0
+,Israel,31,35,2020-01-30,0
+,Israel,31,35,2020-01-29,0
+,Israel,31,35,2020-01-28,0
+,Israel,31,35,2020-01-27,0
+,Israel,31,35,2020-01-26,0
+,Israel,31,35,2020-01-25,0
+,Israel,31,35,2020-01-24,0
+,Israel,31,35,2020-01-23,0
+,Israel,31,35,2020-01-22,0
+,Italy,43,12,2020-03-29,97689
+,Italy,43,12,2020-03-28,92472
+,Italy,43,12,2020-03-27,86498
+,Italy,43,12,2020-03-26,80589
+,Italy,43,12,2020-03-25,74386
+,Italy,43,12,2020-03-24,69176
+,Italy,43,12,2020-03-23,63927
+,Italy,43,12,2020-03-22,59138
+,Italy,43,12,2020-03-21,53578
+,Italy,43,12,2020-03-20,47021
+,Italy,43,12,2020-03-19,41035
+,Italy,43,12,2020-03-18,35713
+,Italy,43,12,2020-03-17,31506
+,Italy,43,12,2020-03-16,27980
+,Italy,43,12,2020-03-15,24747
+,Italy,43,12,2020-03-14,21157
+,Italy,43,12,2020-03-13,17660
+,Italy,43,12,2020-03-12,12462
+,Italy,43,12,2020-03-11,12462
+,Italy,43,12,2020-03-10,10149
+,Italy,43,12,2020-03-09,9172
+,Italy,43,12,2020-03-08,7375
+,Italy,43,12,2020-03-07,5883
+,Italy,43,12,2020-03-06,4636
+,Italy,43,12,2020-03-05,3858
+,Italy,43,12,2020-03-04,3089
+,Italy,43,12,2020-03-03,2502
+,Italy,43,12,2020-03-02,2036
+,Italy,43,12,2020-03-01,1694
+,Italy,43,12,2020-02-29,1128
+,Italy,43,12,2020-02-28,888
+,Italy,43,12,2020-02-27,655
+,Italy,43,12,2020-02-26,453
+,Italy,43,12,2020-02-25,322
+,Italy,43,12,2020-02-24,229
+,Italy,43,12,2020-02-23,155
+,Italy,43,12,2020-02-22,62
+,Italy,43,12,2020-02-21,20
+,Italy,43,12,2020-02-20,3
+,Italy,43,12,2020-02-19,3
+,Italy,43,12,2020-02-18,3
+,Italy,43,12,2020-02-17,3
+,Italy,43,12,2020-02-16,3
+,Italy,43,12,2020-02-15,3
+,Italy,43,12,2020-02-14,3
+,Italy,43,12,2020-02-13,3
+,Italy,43,12,2020-02-12,3
+,Italy,43,12,2020-02-11,3
+,Italy,43,12,2020-02-10,3
+,Italy,43,12,2020-02-09,3
+,Italy,43,12,2020-02-08,3
+,Italy,43,12,2020-02-07,3
+,Italy,43,12,2020-02-06,2
+,Italy,43,12,2020-02-05,2
+,Italy,43,12,2020-02-04,2
+,Italy,43,12,2020-02-03,2
+,Italy,43,12,2020-02-02,2
+,Italy,43,12,2020-02-01,2
+,Italy,43,12,2020-01-31,2
+,Italy,43,12,2020-01-30,0
+,Italy,43,12,2020-01-29,0
+,Italy,43,12,2020-01-28,0
+,Italy,43,12,2020-01-27,0
+,Italy,43,12,2020-01-26,0
+,Italy,43,12,2020-01-25,0
+,Italy,43,12,2020-01-24,0
+,Italy,43,12,2020-01-23,0
+,Italy,43,12,2020-01-22,0
 ,Jamaica,18.1096,-77.2975,2020-03-29,32
 ,Jamaica,18.1096,-77.2975,2020-03-28,30
 ,Jamaica,18.1096,-77.2975,2020-03-27,26
@@ -10064,74 +10064,74 @@ St Martin,France,18.0708,-63.0501,2020-01-22,0
 ,Jamaica,18.1096,-77.2975,2020-01-24,0
 ,Jamaica,18.1096,-77.2975,2020-01-23,0
 ,Jamaica,18.1096,-77.2975,2020-01-22,0
-,Japan,36.0,138.0,2020-03-29,1866
-,Japan,36.0,138.0,2020-03-28,1693
-,Japan,36.0,138.0,2020-03-27,1468
-,Japan,36.0,138.0,2020-03-26,1387
-,Japan,36.0,138.0,2020-03-25,1307
-,Japan,36.0,138.0,2020-03-24,1193
-,Japan,36.0,138.0,2020-03-23,1128
-,Japan,36.0,138.0,2020-03-22,1101
-,Japan,36.0,138.0,2020-03-21,1007
-,Japan,36.0,138.0,2020-03-20,963
-,Japan,36.0,138.0,2020-03-19,924
-,Japan,36.0,138.0,2020-03-18,889
-,Japan,36.0,138.0,2020-03-17,878
-,Japan,36.0,138.0,2020-03-16,839
-,Japan,36.0,138.0,2020-03-15,839
-,Japan,36.0,138.0,2020-03-14,773
-,Japan,36.0,138.0,2020-03-13,701
-,Japan,36.0,138.0,2020-03-12,639
-,Japan,36.0,138.0,2020-03-11,639
-,Japan,36.0,138.0,2020-03-10,581
-,Japan,36.0,138.0,2020-03-09,511
-,Japan,36.0,138.0,2020-03-08,502
-,Japan,36.0,138.0,2020-03-07,461
-,Japan,36.0,138.0,2020-03-06,420
-,Japan,36.0,138.0,2020-03-05,360
-,Japan,36.0,138.0,2020-03-04,331
-,Japan,36.0,138.0,2020-03-03,293
-,Japan,36.0,138.0,2020-03-02,274
-,Japan,36.0,138.0,2020-03-01,256
-,Japan,36.0,138.0,2020-02-29,241
-,Japan,36.0,138.0,2020-02-28,228
-,Japan,36.0,138.0,2020-02-27,214
-,Japan,36.0,138.0,2020-02-26,189
-,Japan,36.0,138.0,2020-02-25,170
-,Japan,36.0,138.0,2020-02-24,159
-,Japan,36.0,138.0,2020-02-23,147
-,Japan,36.0,138.0,2020-02-22,122
-,Japan,36.0,138.0,2020-02-21,105
-,Japan,36.0,138.0,2020-02-20,94
-,Japan,36.0,138.0,2020-02-19,84
-,Japan,36.0,138.0,2020-02-18,74
-,Japan,36.0,138.0,2020-02-17,66
-,Japan,36.0,138.0,2020-02-16,59
-,Japan,36.0,138.0,2020-02-15,43
-,Japan,36.0,138.0,2020-02-14,29
-,Japan,36.0,138.0,2020-02-13,28
-,Japan,36.0,138.0,2020-02-12,28
-,Japan,36.0,138.0,2020-02-11,26
-,Japan,36.0,138.0,2020-02-10,26
-,Japan,36.0,138.0,2020-02-09,26
-,Japan,36.0,138.0,2020-02-08,25
-,Japan,36.0,138.0,2020-02-07,25
-,Japan,36.0,138.0,2020-02-06,22
-,Japan,36.0,138.0,2020-02-05,22
-,Japan,36.0,138.0,2020-02-04,22
-,Japan,36.0,138.0,2020-02-03,20
-,Japan,36.0,138.0,2020-02-02,20
-,Japan,36.0,138.0,2020-02-01,20
-,Japan,36.0,138.0,2020-01-31,15
-,Japan,36.0,138.0,2020-01-30,11
-,Japan,36.0,138.0,2020-01-29,7
-,Japan,36.0,138.0,2020-01-28,7
-,Japan,36.0,138.0,2020-01-27,4
-,Japan,36.0,138.0,2020-01-26,4
-,Japan,36.0,138.0,2020-01-25,2
-,Japan,36.0,138.0,2020-01-24,2
-,Japan,36.0,138.0,2020-01-23,2
-,Japan,36.0,138.0,2020-01-22,2
+,Japan,36,138,2020-03-29,1866
+,Japan,36,138,2020-03-28,1693
+,Japan,36,138,2020-03-27,1468
+,Japan,36,138,2020-03-26,1387
+,Japan,36,138,2020-03-25,1307
+,Japan,36,138,2020-03-24,1193
+,Japan,36,138,2020-03-23,1128
+,Japan,36,138,2020-03-22,1101
+,Japan,36,138,2020-03-21,1007
+,Japan,36,138,2020-03-20,963
+,Japan,36,138,2020-03-19,924
+,Japan,36,138,2020-03-18,889
+,Japan,36,138,2020-03-17,878
+,Japan,36,138,2020-03-16,839
+,Japan,36,138,2020-03-15,839
+,Japan,36,138,2020-03-14,773
+,Japan,36,138,2020-03-13,701
+,Japan,36,138,2020-03-12,639
+,Japan,36,138,2020-03-11,639
+,Japan,36,138,2020-03-10,581
+,Japan,36,138,2020-03-09,511
+,Japan,36,138,2020-03-08,502
+,Japan,36,138,2020-03-07,461
+,Japan,36,138,2020-03-06,420
+,Japan,36,138,2020-03-05,360
+,Japan,36,138,2020-03-04,331
+,Japan,36,138,2020-03-03,293
+,Japan,36,138,2020-03-02,274
+,Japan,36,138,2020-03-01,256
+,Japan,36,138,2020-02-29,241
+,Japan,36,138,2020-02-28,228
+,Japan,36,138,2020-02-27,214
+,Japan,36,138,2020-02-26,189
+,Japan,36,138,2020-02-25,170
+,Japan,36,138,2020-02-24,159
+,Japan,36,138,2020-02-23,147
+,Japan,36,138,2020-02-22,122
+,Japan,36,138,2020-02-21,105
+,Japan,36,138,2020-02-20,94
+,Japan,36,138,2020-02-19,84
+,Japan,36,138,2020-02-18,74
+,Japan,36,138,2020-02-17,66
+,Japan,36,138,2020-02-16,59
+,Japan,36,138,2020-02-15,43
+,Japan,36,138,2020-02-14,29
+,Japan,36,138,2020-02-13,28
+,Japan,36,138,2020-02-12,28
+,Japan,36,138,2020-02-11,26
+,Japan,36,138,2020-02-10,26
+,Japan,36,138,2020-02-09,26
+,Japan,36,138,2020-02-08,25
+,Japan,36,138,2020-02-07,25
+,Japan,36,138,2020-02-06,22
+,Japan,36,138,2020-02-05,22
+,Japan,36,138,2020-02-04,22
+,Japan,36,138,2020-02-03,20
+,Japan,36,138,2020-02-02,20
+,Japan,36,138,2020-02-01,20
+,Japan,36,138,2020-01-31,15
+,Japan,36,138,2020-01-30,11
+,Japan,36,138,2020-01-29,7
+,Japan,36,138,2020-01-28,7
+,Japan,36,138,2020-01-27,4
+,Japan,36,138,2020-01-26,4
+,Japan,36,138,2020-01-25,2
+,Japan,36,138,2020-01-24,2
+,Japan,36,138,2020-01-23,2
+,Japan,36,138,2020-01-22,2
 ,Jordan,31.24,36.51,2020-03-29,259
 ,Jordan,31.24,36.51,2020-03-28,246
 ,Jordan,31.24,36.51,2020-03-27,235
@@ -10336,74 +10336,74 @@ St Martin,France,18.0708,-63.0501,2020-01-22,0
 ,Kenya,-0.0236,37.9062,2020-01-24,0
 ,Kenya,-0.0236,37.9062,2020-01-23,0
 ,Kenya,-0.0236,37.9062,2020-01-22,0
-,"Korea, South",36.0,128.0,2020-03-29,9583
-,"Korea, South",36.0,128.0,2020-03-28,9478
-,"Korea, South",36.0,128.0,2020-03-27,9332
-,"Korea, South",36.0,128.0,2020-03-26,9241
-,"Korea, South",36.0,128.0,2020-03-25,9137
-,"Korea, South",36.0,128.0,2020-03-24,9037
-,"Korea, South",36.0,128.0,2020-03-23,8961
-,"Korea, South",36.0,128.0,2020-03-22,8961
-,"Korea, South",36.0,128.0,2020-03-21,8799
-,"Korea, South",36.0,128.0,2020-03-20,8652
-,"Korea, South",36.0,128.0,2020-03-19,8565
-,"Korea, South",36.0,128.0,2020-03-18,8413
-,"Korea, South",36.0,128.0,2020-03-17,8320
-,"Korea, South",36.0,128.0,2020-03-16,8236
-,"Korea, South",36.0,128.0,2020-03-15,8162
-,"Korea, South",36.0,128.0,2020-03-14,8086
-,"Korea, South",36.0,128.0,2020-03-13,7979
-,"Korea, South",36.0,128.0,2020-03-12,7869
-,"Korea, South",36.0,128.0,2020-03-11,7755
-,"Korea, South",36.0,128.0,2020-03-10,7513
-,"Korea, South",36.0,128.0,2020-03-09,7478
-,"Korea, South",36.0,128.0,2020-03-08,7314
-,"Korea, South",36.0,128.0,2020-03-07,7041
-,"Korea, South",36.0,128.0,2020-03-06,6593
-,"Korea, South",36.0,128.0,2020-03-05,6088
-,"Korea, South",36.0,128.0,2020-03-04,5621
-,"Korea, South",36.0,128.0,2020-03-03,5186
-,"Korea, South",36.0,128.0,2020-03-02,4335
-,"Korea, South",36.0,128.0,2020-03-01,3736
-,"Korea, South",36.0,128.0,2020-02-29,3150
-,"Korea, South",36.0,128.0,2020-02-28,2337
-,"Korea, South",36.0,128.0,2020-02-27,1766
-,"Korea, South",36.0,128.0,2020-02-26,1261
-,"Korea, South",36.0,128.0,2020-02-25,977
-,"Korea, South",36.0,128.0,2020-02-24,833
-,"Korea, South",36.0,128.0,2020-02-23,602
-,"Korea, South",36.0,128.0,2020-02-22,433
-,"Korea, South",36.0,128.0,2020-02-21,204
-,"Korea, South",36.0,128.0,2020-02-20,104
-,"Korea, South",36.0,128.0,2020-02-19,31
-,"Korea, South",36.0,128.0,2020-02-18,31
-,"Korea, South",36.0,128.0,2020-02-17,30
-,"Korea, South",36.0,128.0,2020-02-16,29
-,"Korea, South",36.0,128.0,2020-02-15,28
-,"Korea, South",36.0,128.0,2020-02-14,28
-,"Korea, South",36.0,128.0,2020-02-13,28
-,"Korea, South",36.0,128.0,2020-02-12,28
-,"Korea, South",36.0,128.0,2020-02-11,28
-,"Korea, South",36.0,128.0,2020-02-10,27
-,"Korea, South",36.0,128.0,2020-02-09,25
-,"Korea, South",36.0,128.0,2020-02-08,24
-,"Korea, South",36.0,128.0,2020-02-07,24
-,"Korea, South",36.0,128.0,2020-02-06,23
-,"Korea, South",36.0,128.0,2020-02-05,19
-,"Korea, South",36.0,128.0,2020-02-04,16
-,"Korea, South",36.0,128.0,2020-02-03,15
-,"Korea, South",36.0,128.0,2020-02-02,15
-,"Korea, South",36.0,128.0,2020-02-01,12
-,"Korea, South",36.0,128.0,2020-01-31,11
-,"Korea, South",36.0,128.0,2020-01-30,4
-,"Korea, South",36.0,128.0,2020-01-29,4
-,"Korea, South",36.0,128.0,2020-01-28,4
-,"Korea, South",36.0,128.0,2020-01-27,4
-,"Korea, South",36.0,128.0,2020-01-26,3
-,"Korea, South",36.0,128.0,2020-01-25,2
-,"Korea, South",36.0,128.0,2020-01-24,2
-,"Korea, South",36.0,128.0,2020-01-23,1
-,"Korea, South",36.0,128.0,2020-01-22,1
+,Korea South,36,128,2020-03-29,9583
+,Korea South,36,128,2020-03-28,9478
+,Korea South,36,128,2020-03-27,9332
+,Korea South,36,128,2020-03-26,9241
+,Korea South,36,128,2020-03-25,9137
+,Korea South,36,128,2020-03-24,9037
+,Korea South,36,128,2020-03-23,8961
+,Korea South,36,128,2020-03-22,8961
+,Korea South,36,128,2020-03-21,8799
+,Korea South,36,128,2020-03-20,8652
+,Korea South,36,128,2020-03-19,8565
+,Korea South,36,128,2020-03-18,8413
+,Korea South,36,128,2020-03-17,8320
+,Korea South,36,128,2020-03-16,8236
+,Korea South,36,128,2020-03-15,8162
+,Korea South,36,128,2020-03-14,8086
+,Korea South,36,128,2020-03-13,7979
+,Korea South,36,128,2020-03-12,7869
+,Korea South,36,128,2020-03-11,7755
+,Korea South,36,128,2020-03-10,7513
+,Korea South,36,128,2020-03-09,7478
+,Korea South,36,128,2020-03-08,7314
+,Korea South,36,128,2020-03-07,7041
+,Korea South,36,128,2020-03-06,6593
+,Korea South,36,128,2020-03-05,6088
+,Korea South,36,128,2020-03-04,5621
+,Korea South,36,128,2020-03-03,5186
+,Korea South,36,128,2020-03-02,4335
+,Korea South,36,128,2020-03-01,3736
+,Korea South,36,128,2020-02-29,3150
+,Korea South,36,128,2020-02-28,2337
+,Korea South,36,128,2020-02-27,1766
+,Korea South,36,128,2020-02-26,1261
+,Korea South,36,128,2020-02-25,977
+,Korea South,36,128,2020-02-24,833
+,Korea South,36,128,2020-02-23,602
+,Korea South,36,128,2020-02-22,433
+,Korea South,36,128,2020-02-21,204
+,Korea South,36,128,2020-02-20,104
+,Korea South,36,128,2020-02-19,31
+,Korea South,36,128,2020-02-18,31
+,Korea South,36,128,2020-02-17,30
+,Korea South,36,128,2020-02-16,29
+,Korea South,36,128,2020-02-15,28
+,Korea South,36,128,2020-02-14,28
+,Korea South,36,128,2020-02-13,28
+,Korea South,36,128,2020-02-12,28
+,Korea South,36,128,2020-02-11,28
+,Korea South,36,128,2020-02-10,27
+,Korea South,36,128,2020-02-09,25
+,Korea South,36,128,2020-02-08,24
+,Korea South,36,128,2020-02-07,24
+,Korea South,36,128,2020-02-06,23
+,Korea South,36,128,2020-02-05,19
+,Korea South,36,128,2020-02-04,16
+,Korea South,36,128,2020-02-03,15
+,Korea South,36,128,2020-02-02,15
+,Korea South,36,128,2020-02-01,12
+,Korea South,36,128,2020-01-31,11
+,Korea South,36,128,2020-01-30,4
+,Korea South,36,128,2020-01-29,4
+,Korea South,36,128,2020-01-28,4
+,Korea South,36,128,2020-01-27,4
+,Korea South,36,128,2020-01-26,3
+,Korea South,36,128,2020-01-25,2
+,Korea South,36,128,2020-01-24,2
+,Korea South,36,128,2020-01-23,1
+,Korea South,36,128,2020-01-22,1
 ,Kosovo,42.602636,20.902977,2020-03-29,94
 ,Kosovo,42.602636,20.902977,2020-03-28,91
 ,Kosovo,42.602636,20.902977,2020-03-27,86
@@ -11356,74 +11356,74 @@ St Martin,France,18.0708,-63.0501,2020-01-22,0
 ,Maldives,3.2028,73.2207,2020-01-24,0
 ,Maldives,3.2028,73.2207,2020-01-23,0
 ,Maldives,3.2028,73.2207,2020-01-22,0
-,Mali,17.570692,-3.996166000000001,2020-03-29,18
-,Mali,17.570692,-3.996166000000001,2020-03-28,18
-,Mali,17.570692,-3.996166000000001,2020-03-27,11
-,Mali,17.570692,-3.996166000000001,2020-03-26,4
-,Mali,17.570692,-3.996166000000001,2020-03-25,2
-,Mali,17.570692,-3.996166000000001,2020-03-24,0
-,Mali,17.570692,-3.996166000000001,2020-03-23,0
-,Mali,17.570692,-3.996166000000001,2020-03-22,0
-,Mali,17.570692,-3.996166000000001,2020-03-21,0
-,Mali,17.570692,-3.996166000000001,2020-03-20,0
-,Mali,17.570692,-3.996166000000001,2020-03-19,0
-,Mali,17.570692,-3.996166000000001,2020-03-18,0
-,Mali,17.570692,-3.996166000000001,2020-03-17,0
-,Mali,17.570692,-3.996166000000001,2020-03-16,0
-,Mali,17.570692,-3.996166000000001,2020-03-15,0
-,Mali,17.570692,-3.996166000000001,2020-03-14,0
-,Mali,17.570692,-3.996166000000001,2020-03-13,0
-,Mali,17.570692,-3.996166000000001,2020-03-12,0
-,Mali,17.570692,-3.996166000000001,2020-03-11,0
-,Mali,17.570692,-3.996166000000001,2020-03-10,0
-,Mali,17.570692,-3.996166000000001,2020-03-09,0
-,Mali,17.570692,-3.996166000000001,2020-03-08,0
-,Mali,17.570692,-3.996166000000001,2020-03-07,0
-,Mali,17.570692,-3.996166000000001,2020-03-06,0
-,Mali,17.570692,-3.996166000000001,2020-03-05,0
-,Mali,17.570692,-3.996166000000001,2020-03-04,0
-,Mali,17.570692,-3.996166000000001,2020-03-03,0
-,Mali,17.570692,-3.996166000000001,2020-03-02,0
-,Mali,17.570692,-3.996166000000001,2020-03-01,0
-,Mali,17.570692,-3.996166000000001,2020-02-29,0
-,Mali,17.570692,-3.996166000000001,2020-02-28,0
-,Mali,17.570692,-3.996166000000001,2020-02-27,0
-,Mali,17.570692,-3.996166000000001,2020-02-26,0
-,Mali,17.570692,-3.996166000000001,2020-02-25,0
-,Mali,17.570692,-3.996166000000001,2020-02-24,0
-,Mali,17.570692,-3.996166000000001,2020-02-23,0
-,Mali,17.570692,-3.996166000000001,2020-02-22,0
-,Mali,17.570692,-3.996166000000001,2020-02-21,0
-,Mali,17.570692,-3.996166000000001,2020-02-20,0
-,Mali,17.570692,-3.996166000000001,2020-02-19,0
-,Mali,17.570692,-3.996166000000001,2020-02-18,0
-,Mali,17.570692,-3.996166000000001,2020-02-17,0
-,Mali,17.570692,-3.996166000000001,2020-02-16,0
-,Mali,17.570692,-3.996166000000001,2020-02-15,0
-,Mali,17.570692,-3.996166000000001,2020-02-14,0
-,Mali,17.570692,-3.996166000000001,2020-02-13,0
-,Mali,17.570692,-3.996166000000001,2020-02-12,0
-,Mali,17.570692,-3.996166000000001,2020-02-11,0
-,Mali,17.570692,-3.996166000000001,2020-02-10,0
-,Mali,17.570692,-3.996166000000001,2020-02-09,0
-,Mali,17.570692,-3.996166000000001,2020-02-08,0
-,Mali,17.570692,-3.996166000000001,2020-02-07,0
-,Mali,17.570692,-3.996166000000001,2020-02-06,0
-,Mali,17.570692,-3.996166000000001,2020-02-05,0
-,Mali,17.570692,-3.996166000000001,2020-02-04,0
-,Mali,17.570692,-3.996166000000001,2020-02-03,0
-,Mali,17.570692,-3.996166000000001,2020-02-02,0
-,Mali,17.570692,-3.996166000000001,2020-02-01,0
-,Mali,17.570692,-3.996166000000001,2020-01-31,0
-,Mali,17.570692,-3.996166000000001,2020-01-30,0
-,Mali,17.570692,-3.996166000000001,2020-01-29,0
-,Mali,17.570692,-3.996166000000001,2020-01-28,0
-,Mali,17.570692,-3.996166000000001,2020-01-27,0
-,Mali,17.570692,-3.996166000000001,2020-01-26,0
-,Mali,17.570692,-3.996166000000001,2020-01-25,0
-,Mali,17.570692,-3.996166000000001,2020-01-24,0
-,Mali,17.570692,-3.996166000000001,2020-01-23,0
-,Mali,17.570692,-3.996166000000001,2020-01-22,0
+,Mali,17.570692,-3.996166,2020-03-29,18
+,Mali,17.570692,-3.996166,2020-03-28,18
+,Mali,17.570692,-3.996166,2020-03-27,11
+,Mali,17.570692,-3.996166,2020-03-26,4
+,Mali,17.570692,-3.996166,2020-03-25,2
+,Mali,17.570692,-3.996166,2020-03-24,0
+,Mali,17.570692,-3.996166,2020-03-23,0
+,Mali,17.570692,-3.996166,2020-03-22,0
+,Mali,17.570692,-3.996166,2020-03-21,0
+,Mali,17.570692,-3.996166,2020-03-20,0
+,Mali,17.570692,-3.996166,2020-03-19,0
+,Mali,17.570692,-3.996166,2020-03-18,0
+,Mali,17.570692,-3.996166,2020-03-17,0
+,Mali,17.570692,-3.996166,2020-03-16,0
+,Mali,17.570692,-3.996166,2020-03-15,0
+,Mali,17.570692,-3.996166,2020-03-14,0
+,Mali,17.570692,-3.996166,2020-03-13,0
+,Mali,17.570692,-3.996166,2020-03-12,0
+,Mali,17.570692,-3.996166,2020-03-11,0
+,Mali,17.570692,-3.996166,2020-03-10,0
+,Mali,17.570692,-3.996166,2020-03-09,0
+,Mali,17.570692,-3.996166,2020-03-08,0
+,Mali,17.570692,-3.996166,2020-03-07,0
+,Mali,17.570692,-3.996166,2020-03-06,0
+,Mali,17.570692,-3.996166,2020-03-05,0
+,Mali,17.570692,-3.996166,2020-03-04,0
+,Mali,17.570692,-3.996166,2020-03-03,0
+,Mali,17.570692,-3.996166,2020-03-02,0
+,Mali,17.570692,-3.996166,2020-03-01,0
+,Mali,17.570692,-3.996166,2020-02-29,0
+,Mali,17.570692,-3.996166,2020-02-28,0
+,Mali,17.570692,-3.996166,2020-02-27,0
+,Mali,17.570692,-3.996166,2020-02-26,0
+,Mali,17.570692,-3.996166,2020-02-25,0
+,Mali,17.570692,-3.996166,2020-02-24,0
+,Mali,17.570692,-3.996166,2020-02-23,0
+,Mali,17.570692,-3.996166,2020-02-22,0
+,Mali,17.570692,-3.996166,2020-02-21,0
+,Mali,17.570692,-3.996166,2020-02-20,0
+,Mali,17.570692,-3.996166,2020-02-19,0
+,Mali,17.570692,-3.996166,2020-02-18,0
+,Mali,17.570692,-3.996166,2020-02-17,0
+,Mali,17.570692,-3.996166,2020-02-16,0
+,Mali,17.570692,-3.996166,2020-02-15,0
+,Mali,17.570692,-3.996166,2020-02-14,0
+,Mali,17.570692,-3.996166,2020-02-13,0
+,Mali,17.570692,-3.996166,2020-02-12,0
+,Mali,17.570692,-3.996166,2020-02-11,0
+,Mali,17.570692,-3.996166,2020-02-10,0
+,Mali,17.570692,-3.996166,2020-02-09,0
+,Mali,17.570692,-3.996166,2020-02-08,0
+,Mali,17.570692,-3.996166,2020-02-07,0
+,Mali,17.570692,-3.996166,2020-02-06,0
+,Mali,17.570692,-3.996166,2020-02-05,0
+,Mali,17.570692,-3.996166,2020-02-04,0
+,Mali,17.570692,-3.996166,2020-02-03,0
+,Mali,17.570692,-3.996166,2020-02-02,0
+,Mali,17.570692,-3.996166,2020-02-01,0
+,Mali,17.570692,-3.996166,2020-01-31,0
+,Mali,17.570692,-3.996166,2020-01-30,0
+,Mali,17.570692,-3.996166,2020-01-29,0
+,Mali,17.570692,-3.996166,2020-01-28,0
+,Mali,17.570692,-3.996166,2020-01-27,0
+,Mali,17.570692,-3.996166,2020-01-26,0
+,Mali,17.570692,-3.996166,2020-01-25,0
+,Mali,17.570692,-3.996166,2020-01-24,0
+,Mali,17.570692,-3.996166,2020-01-23,0
+,Mali,17.570692,-3.996166,2020-01-22,0
 ,Malta,35.9375,14.3754,2020-03-29,151
 ,Malta,35.9375,14.3754,2020-03-28,149
 ,Malta,35.9375,14.3754,2020-03-27,139
@@ -12104,74 +12104,74 @@ St Martin,France,18.0708,-63.0501,2020-01-22,0
 ,Mozambique,-18.665695,35.529562,2020-01-24,0
 ,Mozambique,-18.665695,35.529562,2020-01-23,0
 ,Mozambique,-18.665695,35.529562,2020-01-22,0
-,MS Zaandam,0.0,0.0,2020-03-29,2
-,MS Zaandam,0.0,0.0,2020-03-28,2
-,MS Zaandam,0.0,0.0,2020-03-27,0
-,MS Zaandam,0.0,0.0,2020-03-26,0
-,MS Zaandam,0.0,0.0,2020-03-25,0
-,MS Zaandam,0.0,0.0,2020-03-24,0
-,MS Zaandam,0.0,0.0,2020-03-23,0
-,MS Zaandam,0.0,0.0,2020-03-22,0
-,MS Zaandam,0.0,0.0,2020-03-21,0
-,MS Zaandam,0.0,0.0,2020-03-20,0
-,MS Zaandam,0.0,0.0,2020-03-19,0
-,MS Zaandam,0.0,0.0,2020-03-18,0
-,MS Zaandam,0.0,0.0,2020-03-17,0
-,MS Zaandam,0.0,0.0,2020-03-16,0
-,MS Zaandam,0.0,0.0,2020-03-15,0
-,MS Zaandam,0.0,0.0,2020-03-14,0
-,MS Zaandam,0.0,0.0,2020-03-13,0
-,MS Zaandam,0.0,0.0,2020-03-12,0
-,MS Zaandam,0.0,0.0,2020-03-11,0
-,MS Zaandam,0.0,0.0,2020-03-10,0
-,MS Zaandam,0.0,0.0,2020-03-09,0
-,MS Zaandam,0.0,0.0,2020-03-08,0
-,MS Zaandam,0.0,0.0,2020-03-07,0
-,MS Zaandam,0.0,0.0,2020-03-06,0
-,MS Zaandam,0.0,0.0,2020-03-05,0
-,MS Zaandam,0.0,0.0,2020-03-04,0
-,MS Zaandam,0.0,0.0,2020-03-03,0
-,MS Zaandam,0.0,0.0,2020-03-02,0
-,MS Zaandam,0.0,0.0,2020-03-01,0
-,MS Zaandam,0.0,0.0,2020-02-29,0
-,MS Zaandam,0.0,0.0,2020-02-28,0
-,MS Zaandam,0.0,0.0,2020-02-27,0
-,MS Zaandam,0.0,0.0,2020-02-26,0
-,MS Zaandam,0.0,0.0,2020-02-25,0
-,MS Zaandam,0.0,0.0,2020-02-24,0
-,MS Zaandam,0.0,0.0,2020-02-23,0
-,MS Zaandam,0.0,0.0,2020-02-22,0
-,MS Zaandam,0.0,0.0,2020-02-21,0
-,MS Zaandam,0.0,0.0,2020-02-20,0
-,MS Zaandam,0.0,0.0,2020-02-19,0
-,MS Zaandam,0.0,0.0,2020-02-18,0
-,MS Zaandam,0.0,0.0,2020-02-17,0
-,MS Zaandam,0.0,0.0,2020-02-16,0
-,MS Zaandam,0.0,0.0,2020-02-15,0
-,MS Zaandam,0.0,0.0,2020-02-14,0
-,MS Zaandam,0.0,0.0,2020-02-13,0
-,MS Zaandam,0.0,0.0,2020-02-12,0
-,MS Zaandam,0.0,0.0,2020-02-11,0
-,MS Zaandam,0.0,0.0,2020-02-10,0
-,MS Zaandam,0.0,0.0,2020-02-09,0
-,MS Zaandam,0.0,0.0,2020-02-08,0
-,MS Zaandam,0.0,0.0,2020-02-07,0
-,MS Zaandam,0.0,0.0,2020-02-06,0
-,MS Zaandam,0.0,0.0,2020-02-05,0
-,MS Zaandam,0.0,0.0,2020-02-04,0
-,MS Zaandam,0.0,0.0,2020-02-03,0
-,MS Zaandam,0.0,0.0,2020-02-02,0
-,MS Zaandam,0.0,0.0,2020-02-01,0
-,MS Zaandam,0.0,0.0,2020-01-31,0
-,MS Zaandam,0.0,0.0,2020-01-30,0
-,MS Zaandam,0.0,0.0,2020-01-29,0
-,MS Zaandam,0.0,0.0,2020-01-28,0
-,MS Zaandam,0.0,0.0,2020-01-27,0
-,MS Zaandam,0.0,0.0,2020-01-26,0
-,MS Zaandam,0.0,0.0,2020-01-25,0
-,MS Zaandam,0.0,0.0,2020-01-24,0
-,MS Zaandam,0.0,0.0,2020-01-23,0
-,MS Zaandam,0.0,0.0,2020-01-22,0
+,MS Zaandam,0,0,2020-03-29,2
+,MS Zaandam,0,0,2020-03-28,2
+,MS Zaandam,0,0,2020-03-27,0
+,MS Zaandam,0,0,2020-03-26,0
+,MS Zaandam,0,0,2020-03-25,0
+,MS Zaandam,0,0,2020-03-24,0
+,MS Zaandam,0,0,2020-03-23,0
+,MS Zaandam,0,0,2020-03-22,0
+,MS Zaandam,0,0,2020-03-21,0
+,MS Zaandam,0,0,2020-03-20,0
+,MS Zaandam,0,0,2020-03-19,0
+,MS Zaandam,0,0,2020-03-18,0
+,MS Zaandam,0,0,2020-03-17,0
+,MS Zaandam,0,0,2020-03-16,0
+,MS Zaandam,0,0,2020-03-15,0
+,MS Zaandam,0,0,2020-03-14,0
+,MS Zaandam,0,0,2020-03-13,0
+,MS Zaandam,0,0,2020-03-12,0
+,MS Zaandam,0,0,2020-03-11,0
+,MS Zaandam,0,0,2020-03-10,0
+,MS Zaandam,0,0,2020-03-09,0
+,MS Zaandam,0,0,2020-03-08,0
+,MS Zaandam,0,0,2020-03-07,0
+,MS Zaandam,0,0,2020-03-06,0
+,MS Zaandam,0,0,2020-03-05,0
+,MS Zaandam,0,0,2020-03-04,0
+,MS Zaandam,0,0,2020-03-03,0
+,MS Zaandam,0,0,2020-03-02,0
+,MS Zaandam,0,0,2020-03-01,0
+,MS Zaandam,0,0,2020-02-29,0
+,MS Zaandam,0,0,2020-02-28,0
+,MS Zaandam,0,0,2020-02-27,0
+,MS Zaandam,0,0,2020-02-26,0
+,MS Zaandam,0,0,2020-02-25,0
+,MS Zaandam,0,0,2020-02-24,0
+,MS Zaandam,0,0,2020-02-23,0
+,MS Zaandam,0,0,2020-02-22,0
+,MS Zaandam,0,0,2020-02-21,0
+,MS Zaandam,0,0,2020-02-20,0
+,MS Zaandam,0,0,2020-02-19,0
+,MS Zaandam,0,0,2020-02-18,0
+,MS Zaandam,0,0,2020-02-17,0
+,MS Zaandam,0,0,2020-02-16,0
+,MS Zaandam,0,0,2020-02-15,0
+,MS Zaandam,0,0,2020-02-14,0
+,MS Zaandam,0,0,2020-02-13,0
+,MS Zaandam,0,0,2020-02-12,0
+,MS Zaandam,0,0,2020-02-11,0
+,MS Zaandam,0,0,2020-02-10,0
+,MS Zaandam,0,0,2020-02-09,0
+,MS Zaandam,0,0,2020-02-08,0
+,MS Zaandam,0,0,2020-02-07,0
+,MS Zaandam,0,0,2020-02-06,0
+,MS Zaandam,0,0,2020-02-05,0
+,MS Zaandam,0,0,2020-02-04,0
+,MS Zaandam,0,0,2020-02-03,0
+,MS Zaandam,0,0,2020-02-02,0
+,MS Zaandam,0,0,2020-02-01,0
+,MS Zaandam,0,0,2020-01-31,0
+,MS Zaandam,0,0,2020-01-30,0
+,MS Zaandam,0,0,2020-01-29,0
+,MS Zaandam,0,0,2020-01-28,0
+,MS Zaandam,0,0,2020-01-27,0
+,MS Zaandam,0,0,2020-01-26,0
+,MS Zaandam,0,0,2020-01-25,0
+,MS Zaandam,0,0,2020-01-24,0
+,MS Zaandam,0,0,2020-01-23,0
+,MS Zaandam,0,0,2020-01-22,0
 ,Namibia,-22.9576,18.4904,2020-03-29,11
 ,Namibia,-22.9576,18.4904,2020-03-28,8
 ,Namibia,-22.9576,18.4904,2020-03-27,8
@@ -12988,74 +12988,74 @@ Sint Maarten,Netherlands,18.0425,-63.0548,2020-01-22,0
 ,Norway,60.472,8.4689,2020-01-24,0
 ,Norway,60.472,8.4689,2020-01-23,0
 ,Norway,60.472,8.4689,2020-01-22,0
-,Oman,21.0,57.0,2020-03-29,167
-,Oman,21.0,57.0,2020-03-28,152
-,Oman,21.0,57.0,2020-03-27,131
-,Oman,21.0,57.0,2020-03-26,109
-,Oman,21.0,57.0,2020-03-25,99
-,Oman,21.0,57.0,2020-03-24,84
-,Oman,21.0,57.0,2020-03-23,66
-,Oman,21.0,57.0,2020-03-22,55
-,Oman,21.0,57.0,2020-03-21,52
-,Oman,21.0,57.0,2020-03-20,48
-,Oman,21.0,57.0,2020-03-19,48
-,Oman,21.0,57.0,2020-03-18,39
-,Oman,21.0,57.0,2020-03-17,24
-,Oman,21.0,57.0,2020-03-16,22
-,Oman,21.0,57.0,2020-03-15,22
-,Oman,21.0,57.0,2020-03-14,19
-,Oman,21.0,57.0,2020-03-13,19
-,Oman,21.0,57.0,2020-03-12,18
-,Oman,21.0,57.0,2020-03-11,18
-,Oman,21.0,57.0,2020-03-10,18
-,Oman,21.0,57.0,2020-03-09,16
-,Oman,21.0,57.0,2020-03-08,16
-,Oman,21.0,57.0,2020-03-07,16
-,Oman,21.0,57.0,2020-03-06,16
-,Oman,21.0,57.0,2020-03-05,16
-,Oman,21.0,57.0,2020-03-04,15
-,Oman,21.0,57.0,2020-03-03,12
-,Oman,21.0,57.0,2020-03-02,6
-,Oman,21.0,57.0,2020-03-01,6
-,Oman,21.0,57.0,2020-02-29,6
-,Oman,21.0,57.0,2020-02-28,4
-,Oman,21.0,57.0,2020-02-27,4
-,Oman,21.0,57.0,2020-02-26,4
-,Oman,21.0,57.0,2020-02-25,2
-,Oman,21.0,57.0,2020-02-24,2
-,Oman,21.0,57.0,2020-02-23,0
-,Oman,21.0,57.0,2020-02-22,0
-,Oman,21.0,57.0,2020-02-21,0
-,Oman,21.0,57.0,2020-02-20,0
-,Oman,21.0,57.0,2020-02-19,0
-,Oman,21.0,57.0,2020-02-18,0
-,Oman,21.0,57.0,2020-02-17,0
-,Oman,21.0,57.0,2020-02-16,0
-,Oman,21.0,57.0,2020-02-15,0
-,Oman,21.0,57.0,2020-02-14,0
-,Oman,21.0,57.0,2020-02-13,0
-,Oman,21.0,57.0,2020-02-12,0
-,Oman,21.0,57.0,2020-02-11,0
-,Oman,21.0,57.0,2020-02-10,0
-,Oman,21.0,57.0,2020-02-09,0
-,Oman,21.0,57.0,2020-02-08,0
-,Oman,21.0,57.0,2020-02-07,0
-,Oman,21.0,57.0,2020-02-06,0
-,Oman,21.0,57.0,2020-02-05,0
-,Oman,21.0,57.0,2020-02-04,0
-,Oman,21.0,57.0,2020-02-03,0
-,Oman,21.0,57.0,2020-02-02,0
-,Oman,21.0,57.0,2020-02-01,0
-,Oman,21.0,57.0,2020-01-31,0
-,Oman,21.0,57.0,2020-01-30,0
-,Oman,21.0,57.0,2020-01-29,0
-,Oman,21.0,57.0,2020-01-28,0
-,Oman,21.0,57.0,2020-01-27,0
-,Oman,21.0,57.0,2020-01-26,0
-,Oman,21.0,57.0,2020-01-25,0
-,Oman,21.0,57.0,2020-01-24,0
-,Oman,21.0,57.0,2020-01-23,0
-,Oman,21.0,57.0,2020-01-22,0
+,Oman,21,57,2020-03-29,167
+,Oman,21,57,2020-03-28,152
+,Oman,21,57,2020-03-27,131
+,Oman,21,57,2020-03-26,109
+,Oman,21,57,2020-03-25,99
+,Oman,21,57,2020-03-24,84
+,Oman,21,57,2020-03-23,66
+,Oman,21,57,2020-03-22,55
+,Oman,21,57,2020-03-21,52
+,Oman,21,57,2020-03-20,48
+,Oman,21,57,2020-03-19,48
+,Oman,21,57,2020-03-18,39
+,Oman,21,57,2020-03-17,24
+,Oman,21,57,2020-03-16,22
+,Oman,21,57,2020-03-15,22
+,Oman,21,57,2020-03-14,19
+,Oman,21,57,2020-03-13,19
+,Oman,21,57,2020-03-12,18
+,Oman,21,57,2020-03-11,18
+,Oman,21,57,2020-03-10,18
+,Oman,21,57,2020-03-09,16
+,Oman,21,57,2020-03-08,16
+,Oman,21,57,2020-03-07,16
+,Oman,21,57,2020-03-06,16
+,Oman,21,57,2020-03-05,16
+,Oman,21,57,2020-03-04,15
+,Oman,21,57,2020-03-03,12
+,Oman,21,57,2020-03-02,6
+,Oman,21,57,2020-03-01,6
+,Oman,21,57,2020-02-29,6
+,Oman,21,57,2020-02-28,4
+,Oman,21,57,2020-02-27,4
+,Oman,21,57,2020-02-26,4
+,Oman,21,57,2020-02-25,2
+,Oman,21,57,2020-02-24,2
+,Oman,21,57,2020-02-23,0
+,Oman,21,57,2020-02-22,0
+,Oman,21,57,2020-02-21,0
+,Oman,21,57,2020-02-20,0
+,Oman,21,57,2020-02-19,0
+,Oman,21,57,2020-02-18,0
+,Oman,21,57,2020-02-17,0
+,Oman,21,57,2020-02-16,0
+,Oman,21,57,2020-02-15,0
+,Oman,21,57,2020-02-14,0
+,Oman,21,57,2020-02-13,0
+,Oman,21,57,2020-02-12,0
+,Oman,21,57,2020-02-11,0
+,Oman,21,57,2020-02-10,0
+,Oman,21,57,2020-02-09,0
+,Oman,21,57,2020-02-08,0
+,Oman,21,57,2020-02-07,0
+,Oman,21,57,2020-02-06,0
+,Oman,21,57,2020-02-05,0
+,Oman,21,57,2020-02-04,0
+,Oman,21,57,2020-02-03,0
+,Oman,21,57,2020-02-02,0
+,Oman,21,57,2020-02-01,0
+,Oman,21,57,2020-01-31,0
+,Oman,21,57,2020-01-30,0
+,Oman,21,57,2020-01-29,0
+,Oman,21,57,2020-01-28,0
+,Oman,21,57,2020-01-27,0
+,Oman,21,57,2020-01-26,0
+,Oman,21,57,2020-01-25,0
+,Oman,21,57,2020-01-24,0
+,Oman,21,57,2020-01-23,0
+,Oman,21,57,2020-01-22,0
 ,Pakistan,30.3753,69.3451,2020-03-29,1597
 ,Pakistan,30.3753,69.3451,2020-03-28,1495
 ,Pakistan,30.3753,69.3451,2020-03-27,1373
@@ -13396,74 +13396,74 @@ Sint Maarten,Netherlands,18.0425,-63.0548,2020-01-22,0
 ,Peru,-9.19,-75.0152,2020-01-24,0
 ,Peru,-9.19,-75.0152,2020-01-23,0
 ,Peru,-9.19,-75.0152,2020-01-22,0
-,Philippines,13.0,122.0,2020-03-29,1418
-,Philippines,13.0,122.0,2020-03-28,1075
-,Philippines,13.0,122.0,2020-03-27,803
-,Philippines,13.0,122.0,2020-03-26,707
-,Philippines,13.0,122.0,2020-03-25,636
-,Philippines,13.0,122.0,2020-03-24,552
-,Philippines,13.0,122.0,2020-03-23,462
-,Philippines,13.0,122.0,2020-03-22,380
-,Philippines,13.0,122.0,2020-03-21,307
-,Philippines,13.0,122.0,2020-03-20,230
-,Philippines,13.0,122.0,2020-03-19,217
-,Philippines,13.0,122.0,2020-03-18,202
-,Philippines,13.0,122.0,2020-03-17,187
-,Philippines,13.0,122.0,2020-03-16,142
-,Philippines,13.0,122.0,2020-03-15,140
-,Philippines,13.0,122.0,2020-03-14,111
-,Philippines,13.0,122.0,2020-03-13,64
-,Philippines,13.0,122.0,2020-03-12,52
-,Philippines,13.0,122.0,2020-03-11,49
-,Philippines,13.0,122.0,2020-03-10,33
-,Philippines,13.0,122.0,2020-03-09,20
-,Philippines,13.0,122.0,2020-03-08,10
-,Philippines,13.0,122.0,2020-03-07,6
-,Philippines,13.0,122.0,2020-03-06,5
-,Philippines,13.0,122.0,2020-03-05,3
-,Philippines,13.0,122.0,2020-03-04,3
-,Philippines,13.0,122.0,2020-03-03,3
-,Philippines,13.0,122.0,2020-03-02,3
-,Philippines,13.0,122.0,2020-03-01,3
-,Philippines,13.0,122.0,2020-02-29,3
-,Philippines,13.0,122.0,2020-02-28,3
-,Philippines,13.0,122.0,2020-02-27,3
-,Philippines,13.0,122.0,2020-02-26,3
-,Philippines,13.0,122.0,2020-02-25,3
-,Philippines,13.0,122.0,2020-02-24,3
-,Philippines,13.0,122.0,2020-02-23,3
-,Philippines,13.0,122.0,2020-02-22,3
-,Philippines,13.0,122.0,2020-02-21,3
-,Philippines,13.0,122.0,2020-02-20,3
-,Philippines,13.0,122.0,2020-02-19,3
-,Philippines,13.0,122.0,2020-02-18,3
-,Philippines,13.0,122.0,2020-02-17,3
-,Philippines,13.0,122.0,2020-02-16,3
-,Philippines,13.0,122.0,2020-02-15,3
-,Philippines,13.0,122.0,2020-02-14,3
-,Philippines,13.0,122.0,2020-02-13,3
-,Philippines,13.0,122.0,2020-02-12,3
-,Philippines,13.0,122.0,2020-02-11,3
-,Philippines,13.0,122.0,2020-02-10,3
-,Philippines,13.0,122.0,2020-02-09,3
-,Philippines,13.0,122.0,2020-02-08,3
-,Philippines,13.0,122.0,2020-02-07,3
-,Philippines,13.0,122.0,2020-02-06,2
-,Philippines,13.0,122.0,2020-02-05,2
-,Philippines,13.0,122.0,2020-02-04,2
-,Philippines,13.0,122.0,2020-02-03,2
-,Philippines,13.0,122.0,2020-02-02,2
-,Philippines,13.0,122.0,2020-02-01,1
-,Philippines,13.0,122.0,2020-01-31,1
-,Philippines,13.0,122.0,2020-01-30,1
-,Philippines,13.0,122.0,2020-01-29,0
-,Philippines,13.0,122.0,2020-01-28,0
-,Philippines,13.0,122.0,2020-01-27,0
-,Philippines,13.0,122.0,2020-01-26,0
-,Philippines,13.0,122.0,2020-01-25,0
-,Philippines,13.0,122.0,2020-01-24,0
-,Philippines,13.0,122.0,2020-01-23,0
-,Philippines,13.0,122.0,2020-01-22,0
+,Philippines,13,122,2020-03-29,1418
+,Philippines,13,122,2020-03-28,1075
+,Philippines,13,122,2020-03-27,803
+,Philippines,13,122,2020-03-26,707
+,Philippines,13,122,2020-03-25,636
+,Philippines,13,122,2020-03-24,552
+,Philippines,13,122,2020-03-23,462
+,Philippines,13,122,2020-03-22,380
+,Philippines,13,122,2020-03-21,307
+,Philippines,13,122,2020-03-20,230
+,Philippines,13,122,2020-03-19,217
+,Philippines,13,122,2020-03-18,202
+,Philippines,13,122,2020-03-17,187
+,Philippines,13,122,2020-03-16,142
+,Philippines,13,122,2020-03-15,140
+,Philippines,13,122,2020-03-14,111
+,Philippines,13,122,2020-03-13,64
+,Philippines,13,122,2020-03-12,52
+,Philippines,13,122,2020-03-11,49
+,Philippines,13,122,2020-03-10,33
+,Philippines,13,122,2020-03-09,20
+,Philippines,13,122,2020-03-08,10
+,Philippines,13,122,2020-03-07,6
+,Philippines,13,122,2020-03-06,5
+,Philippines,13,122,2020-03-05,3
+,Philippines,13,122,2020-03-04,3
+,Philippines,13,122,2020-03-03,3
+,Philippines,13,122,2020-03-02,3
+,Philippines,13,122,2020-03-01,3
+,Philippines,13,122,2020-02-29,3
+,Philippines,13,122,2020-02-28,3
+,Philippines,13,122,2020-02-27,3
+,Philippines,13,122,2020-02-26,3
+,Philippines,13,122,2020-02-25,3
+,Philippines,13,122,2020-02-24,3
+,Philippines,13,122,2020-02-23,3
+,Philippines,13,122,2020-02-22,3
+,Philippines,13,122,2020-02-21,3
+,Philippines,13,122,2020-02-20,3
+,Philippines,13,122,2020-02-19,3
+,Philippines,13,122,2020-02-18,3
+,Philippines,13,122,2020-02-17,3
+,Philippines,13,122,2020-02-16,3
+,Philippines,13,122,2020-02-15,3
+,Philippines,13,122,2020-02-14,3
+,Philippines,13,122,2020-02-13,3
+,Philippines,13,122,2020-02-12,3
+,Philippines,13,122,2020-02-11,3
+,Philippines,13,122,2020-02-10,3
+,Philippines,13,122,2020-02-09,3
+,Philippines,13,122,2020-02-08,3
+,Philippines,13,122,2020-02-07,3
+,Philippines,13,122,2020-02-06,2
+,Philippines,13,122,2020-02-05,2
+,Philippines,13,122,2020-02-04,2
+,Philippines,13,122,2020-02-03,2
+,Philippines,13,122,2020-02-02,2
+,Philippines,13,122,2020-02-01,1
+,Philippines,13,122,2020-01-31,1
+,Philippines,13,122,2020-01-30,1
+,Philippines,13,122,2020-01-29,0
+,Philippines,13,122,2020-01-28,0
+,Philippines,13,122,2020-01-27,0
+,Philippines,13,122,2020-01-26,0
+,Philippines,13,122,2020-01-25,0
+,Philippines,13,122,2020-01-24,0
+,Philippines,13,122,2020-01-23,0
+,Philippines,13,122,2020-01-22,0
 ,Poland,51.9194,19.1451,2020-03-29,1862
 ,Poland,51.9194,19.1451,2020-03-28,1638
 ,Poland,51.9194,19.1451,2020-03-27,1389
@@ -13736,74 +13736,74 @@ Sint Maarten,Netherlands,18.0425,-63.0548,2020-01-22,0
 ,Romania,45.9432,24.9668,2020-01-24,0
 ,Romania,45.9432,24.9668,2020-01-23,0
 ,Romania,45.9432,24.9668,2020-01-22,0
-,Russia,60.0,90.0,2020-03-29,1534
-,Russia,60.0,90.0,2020-03-28,1264
-,Russia,60.0,90.0,2020-03-27,1036
-,Russia,60.0,90.0,2020-03-26,840
-,Russia,60.0,90.0,2020-03-25,658
-,Russia,60.0,90.0,2020-03-24,495
-,Russia,60.0,90.0,2020-03-23,438
-,Russia,60.0,90.0,2020-03-22,367
-,Russia,60.0,90.0,2020-03-21,306
-,Russia,60.0,90.0,2020-03-20,253
-,Russia,60.0,90.0,2020-03-19,199
-,Russia,60.0,90.0,2020-03-18,147
-,Russia,60.0,90.0,2020-03-17,114
-,Russia,60.0,90.0,2020-03-16,90
-,Russia,60.0,90.0,2020-03-15,63
-,Russia,60.0,90.0,2020-03-14,59
-,Russia,60.0,90.0,2020-03-13,45
-,Russia,60.0,90.0,2020-03-12,28
-,Russia,60.0,90.0,2020-03-11,20
-,Russia,60.0,90.0,2020-03-10,20
-,Russia,60.0,90.0,2020-03-09,17
-,Russia,60.0,90.0,2020-03-08,17
-,Russia,60.0,90.0,2020-03-07,13
-,Russia,60.0,90.0,2020-03-06,13
-,Russia,60.0,90.0,2020-03-05,4
-,Russia,60.0,90.0,2020-03-04,3
-,Russia,60.0,90.0,2020-03-03,3
-,Russia,60.0,90.0,2020-03-02,3
-,Russia,60.0,90.0,2020-03-01,2
-,Russia,60.0,90.0,2020-02-29,2
-,Russia,60.0,90.0,2020-02-28,2
-,Russia,60.0,90.0,2020-02-27,2
-,Russia,60.0,90.0,2020-02-26,2
-,Russia,60.0,90.0,2020-02-25,2
-,Russia,60.0,90.0,2020-02-24,2
-,Russia,60.0,90.0,2020-02-23,2
-,Russia,60.0,90.0,2020-02-22,2
-,Russia,60.0,90.0,2020-02-21,2
-,Russia,60.0,90.0,2020-02-20,2
-,Russia,60.0,90.0,2020-02-19,2
-,Russia,60.0,90.0,2020-02-18,2
-,Russia,60.0,90.0,2020-02-17,2
-,Russia,60.0,90.0,2020-02-16,2
-,Russia,60.0,90.0,2020-02-15,2
-,Russia,60.0,90.0,2020-02-14,2
-,Russia,60.0,90.0,2020-02-13,2
-,Russia,60.0,90.0,2020-02-12,2
-,Russia,60.0,90.0,2020-02-11,2
-,Russia,60.0,90.0,2020-02-10,2
-,Russia,60.0,90.0,2020-02-09,2
-,Russia,60.0,90.0,2020-02-08,2
-,Russia,60.0,90.0,2020-02-07,2
-,Russia,60.0,90.0,2020-02-06,2
-,Russia,60.0,90.0,2020-02-05,2
-,Russia,60.0,90.0,2020-02-04,2
-,Russia,60.0,90.0,2020-02-03,2
-,Russia,60.0,90.0,2020-02-02,2
-,Russia,60.0,90.0,2020-02-01,2
-,Russia,60.0,90.0,2020-01-31,2
-,Russia,60.0,90.0,2020-01-30,0
-,Russia,60.0,90.0,2020-01-29,0
-,Russia,60.0,90.0,2020-01-28,0
-,Russia,60.0,90.0,2020-01-27,0
-,Russia,60.0,90.0,2020-01-26,0
-,Russia,60.0,90.0,2020-01-25,0
-,Russia,60.0,90.0,2020-01-24,0
-,Russia,60.0,90.0,2020-01-23,0
-,Russia,60.0,90.0,2020-01-22,0
+,Russia,60,90,2020-03-29,1534
+,Russia,60,90,2020-03-28,1264
+,Russia,60,90,2020-03-27,1036
+,Russia,60,90,2020-03-26,840
+,Russia,60,90,2020-03-25,658
+,Russia,60,90,2020-03-24,495
+,Russia,60,90,2020-03-23,438
+,Russia,60,90,2020-03-22,367
+,Russia,60,90,2020-03-21,306
+,Russia,60,90,2020-03-20,253
+,Russia,60,90,2020-03-19,199
+,Russia,60,90,2020-03-18,147
+,Russia,60,90,2020-03-17,114
+,Russia,60,90,2020-03-16,90
+,Russia,60,90,2020-03-15,63
+,Russia,60,90,2020-03-14,59
+,Russia,60,90,2020-03-13,45
+,Russia,60,90,2020-03-12,28
+,Russia,60,90,2020-03-11,20
+,Russia,60,90,2020-03-10,20
+,Russia,60,90,2020-03-09,17
+,Russia,60,90,2020-03-08,17
+,Russia,60,90,2020-03-07,13
+,Russia,60,90,2020-03-06,13
+,Russia,60,90,2020-03-05,4
+,Russia,60,90,2020-03-04,3
+,Russia,60,90,2020-03-03,3
+,Russia,60,90,2020-03-02,3
+,Russia,60,90,2020-03-01,2
+,Russia,60,90,2020-02-29,2
+,Russia,60,90,2020-02-28,2
+,Russia,60,90,2020-02-27,2
+,Russia,60,90,2020-02-26,2
+,Russia,60,90,2020-02-25,2
+,Russia,60,90,2020-02-24,2
+,Russia,60,90,2020-02-23,2
+,Russia,60,90,2020-02-22,2
+,Russia,60,90,2020-02-21,2
+,Russia,60,90,2020-02-20,2
+,Russia,60,90,2020-02-19,2
+,Russia,60,90,2020-02-18,2
+,Russia,60,90,2020-02-17,2
+,Russia,60,90,2020-02-16,2
+,Russia,60,90,2020-02-15,2
+,Russia,60,90,2020-02-14,2
+,Russia,60,90,2020-02-13,2
+,Russia,60,90,2020-02-12,2
+,Russia,60,90,2020-02-11,2
+,Russia,60,90,2020-02-10,2
+,Russia,60,90,2020-02-09,2
+,Russia,60,90,2020-02-08,2
+,Russia,60,90,2020-02-07,2
+,Russia,60,90,2020-02-06,2
+,Russia,60,90,2020-02-05,2
+,Russia,60,90,2020-02-04,2
+,Russia,60,90,2020-02-03,2
+,Russia,60,90,2020-02-02,2
+,Russia,60,90,2020-02-01,2
+,Russia,60,90,2020-01-31,2
+,Russia,60,90,2020-01-30,0
+,Russia,60,90,2020-01-29,0
+,Russia,60,90,2020-01-28,0
+,Russia,60,90,2020-01-27,0
+,Russia,60,90,2020-01-26,0
+,Russia,60,90,2020-01-25,0
+,Russia,60,90,2020-01-24,0
+,Russia,60,90,2020-01-23,0
+,Russia,60,90,2020-01-22,0
 ,Rwanda,-1.9403,29.8739,2020-03-29,70
 ,Rwanda,-1.9403,29.8739,2020-03-28,60
 ,Rwanda,-1.9403,29.8739,2020-03-27,54
@@ -14144,74 +14144,74 @@ Sint Maarten,Netherlands,18.0425,-63.0548,2020-01-22,0
 ,San Marino,43.9424,12.4578,2020-01-24,0
 ,San Marino,43.9424,12.4578,2020-01-23,0
 ,San Marino,43.9424,12.4578,2020-01-22,0
-,Saudi Arabia,24.0,45.0,2020-03-29,1299
-,Saudi Arabia,24.0,45.0,2020-03-28,1203
-,Saudi Arabia,24.0,45.0,2020-03-27,1104
-,Saudi Arabia,24.0,45.0,2020-03-26,1012
-,Saudi Arabia,24.0,45.0,2020-03-25,900
-,Saudi Arabia,24.0,45.0,2020-03-24,767
-,Saudi Arabia,24.0,45.0,2020-03-23,562
-,Saudi Arabia,24.0,45.0,2020-03-22,511
-,Saudi Arabia,24.0,45.0,2020-03-21,392
-,Saudi Arabia,24.0,45.0,2020-03-20,344
-,Saudi Arabia,24.0,45.0,2020-03-19,274
-,Saudi Arabia,24.0,45.0,2020-03-18,171
-,Saudi Arabia,24.0,45.0,2020-03-17,171
-,Saudi Arabia,24.0,45.0,2020-03-16,118
-,Saudi Arabia,24.0,45.0,2020-03-15,103
-,Saudi Arabia,24.0,45.0,2020-03-14,103
-,Saudi Arabia,24.0,45.0,2020-03-13,86
-,Saudi Arabia,24.0,45.0,2020-03-12,45
-,Saudi Arabia,24.0,45.0,2020-03-11,21
-,Saudi Arabia,24.0,45.0,2020-03-10,20
-,Saudi Arabia,24.0,45.0,2020-03-09,15
-,Saudi Arabia,24.0,45.0,2020-03-08,11
-,Saudi Arabia,24.0,45.0,2020-03-07,5
-,Saudi Arabia,24.0,45.0,2020-03-06,5
-,Saudi Arabia,24.0,45.0,2020-03-05,5
-,Saudi Arabia,24.0,45.0,2020-03-04,1
-,Saudi Arabia,24.0,45.0,2020-03-03,1
-,Saudi Arabia,24.0,45.0,2020-03-02,1
-,Saudi Arabia,24.0,45.0,2020-03-01,0
-,Saudi Arabia,24.0,45.0,2020-02-29,0
-,Saudi Arabia,24.0,45.0,2020-02-28,0
-,Saudi Arabia,24.0,45.0,2020-02-27,0
-,Saudi Arabia,24.0,45.0,2020-02-26,0
-,Saudi Arabia,24.0,45.0,2020-02-25,0
-,Saudi Arabia,24.0,45.0,2020-02-24,0
-,Saudi Arabia,24.0,45.0,2020-02-23,0
-,Saudi Arabia,24.0,45.0,2020-02-22,0
-,Saudi Arabia,24.0,45.0,2020-02-21,0
-,Saudi Arabia,24.0,45.0,2020-02-20,0
-,Saudi Arabia,24.0,45.0,2020-02-19,0
-,Saudi Arabia,24.0,45.0,2020-02-18,0
-,Saudi Arabia,24.0,45.0,2020-02-17,0
-,Saudi Arabia,24.0,45.0,2020-02-16,0
-,Saudi Arabia,24.0,45.0,2020-02-15,0
-,Saudi Arabia,24.0,45.0,2020-02-14,0
-,Saudi Arabia,24.0,45.0,2020-02-13,0
-,Saudi Arabia,24.0,45.0,2020-02-12,0
-,Saudi Arabia,24.0,45.0,2020-02-11,0
-,Saudi Arabia,24.0,45.0,2020-02-10,0
-,Saudi Arabia,24.0,45.0,2020-02-09,0
-,Saudi Arabia,24.0,45.0,2020-02-08,0
-,Saudi Arabia,24.0,45.0,2020-02-07,0
-,Saudi Arabia,24.0,45.0,2020-02-06,0
-,Saudi Arabia,24.0,45.0,2020-02-05,0
-,Saudi Arabia,24.0,45.0,2020-02-04,0
-,Saudi Arabia,24.0,45.0,2020-02-03,0
-,Saudi Arabia,24.0,45.0,2020-02-02,0
-,Saudi Arabia,24.0,45.0,2020-02-01,0
-,Saudi Arabia,24.0,45.0,2020-01-31,0
-,Saudi Arabia,24.0,45.0,2020-01-30,0
-,Saudi Arabia,24.0,45.0,2020-01-29,0
-,Saudi Arabia,24.0,45.0,2020-01-28,0
-,Saudi Arabia,24.0,45.0,2020-01-27,0
-,Saudi Arabia,24.0,45.0,2020-01-26,0
-,Saudi Arabia,24.0,45.0,2020-01-25,0
-,Saudi Arabia,24.0,45.0,2020-01-24,0
-,Saudi Arabia,24.0,45.0,2020-01-23,0
-,Saudi Arabia,24.0,45.0,2020-01-22,0
+,Saudi Arabia,24,45,2020-03-29,1299
+,Saudi Arabia,24,45,2020-03-28,1203
+,Saudi Arabia,24,45,2020-03-27,1104
+,Saudi Arabia,24,45,2020-03-26,1012
+,Saudi Arabia,24,45,2020-03-25,900
+,Saudi Arabia,24,45,2020-03-24,767
+,Saudi Arabia,24,45,2020-03-23,562
+,Saudi Arabia,24,45,2020-03-22,511
+,Saudi Arabia,24,45,2020-03-21,392
+,Saudi Arabia,24,45,2020-03-20,344
+,Saudi Arabia,24,45,2020-03-19,274
+,Saudi Arabia,24,45,2020-03-18,171
+,Saudi Arabia,24,45,2020-03-17,171
+,Saudi Arabia,24,45,2020-03-16,118
+,Saudi Arabia,24,45,2020-03-15,103
+,Saudi Arabia,24,45,2020-03-14,103
+,Saudi Arabia,24,45,2020-03-13,86
+,Saudi Arabia,24,45,2020-03-12,45
+,Saudi Arabia,24,45,2020-03-11,21
+,Saudi Arabia,24,45,2020-03-10,20
+,Saudi Arabia,24,45,2020-03-09,15
+,Saudi Arabia,24,45,2020-03-08,11
+,Saudi Arabia,24,45,2020-03-07,5
+,Saudi Arabia,24,45,2020-03-06,5
+,Saudi Arabia,24,45,2020-03-05,5
+,Saudi Arabia,24,45,2020-03-04,1
+,Saudi Arabia,24,45,2020-03-03,1
+,Saudi Arabia,24,45,2020-03-02,1
+,Saudi Arabia,24,45,2020-03-01,0
+,Saudi Arabia,24,45,2020-02-29,0
+,Saudi Arabia,24,45,2020-02-28,0
+,Saudi Arabia,24,45,2020-02-27,0
+,Saudi Arabia,24,45,2020-02-26,0
+,Saudi Arabia,24,45,2020-02-25,0
+,Saudi Arabia,24,45,2020-02-24,0
+,Saudi Arabia,24,45,2020-02-23,0
+,Saudi Arabia,24,45,2020-02-22,0
+,Saudi Arabia,24,45,2020-02-21,0
+,Saudi Arabia,24,45,2020-02-20,0
+,Saudi Arabia,24,45,2020-02-19,0
+,Saudi Arabia,24,45,2020-02-18,0
+,Saudi Arabia,24,45,2020-02-17,0
+,Saudi Arabia,24,45,2020-02-16,0
+,Saudi Arabia,24,45,2020-02-15,0
+,Saudi Arabia,24,45,2020-02-14,0
+,Saudi Arabia,24,45,2020-02-13,0
+,Saudi Arabia,24,45,2020-02-12,0
+,Saudi Arabia,24,45,2020-02-11,0
+,Saudi Arabia,24,45,2020-02-10,0
+,Saudi Arabia,24,45,2020-02-09,0
+,Saudi Arabia,24,45,2020-02-08,0
+,Saudi Arabia,24,45,2020-02-07,0
+,Saudi Arabia,24,45,2020-02-06,0
+,Saudi Arabia,24,45,2020-02-05,0
+,Saudi Arabia,24,45,2020-02-04,0
+,Saudi Arabia,24,45,2020-02-03,0
+,Saudi Arabia,24,45,2020-02-02,0
+,Saudi Arabia,24,45,2020-02-01,0
+,Saudi Arabia,24,45,2020-01-31,0
+,Saudi Arabia,24,45,2020-01-30,0
+,Saudi Arabia,24,45,2020-01-29,0
+,Saudi Arabia,24,45,2020-01-28,0
+,Saudi Arabia,24,45,2020-01-27,0
+,Saudi Arabia,24,45,2020-01-26,0
+,Saudi Arabia,24,45,2020-01-25,0
+,Saudi Arabia,24,45,2020-01-24,0
+,Saudi Arabia,24,45,2020-01-23,0
+,Saudi Arabia,24,45,2020-01-22,0
 ,Senegal,14.4974,-14.4524,2020-03-29,142
 ,Senegal,14.4974,-14.4524,2020-03-28,130
 ,Senegal,14.4974,-14.4524,2020-03-27,119
@@ -14756,142 +14756,142 @@ Sint Maarten,Netherlands,18.0425,-63.0548,2020-01-22,0
 ,South Africa,-30.5595,22.9375,2020-01-24,0
 ,South Africa,-30.5595,22.9375,2020-01-23,0
 ,South Africa,-30.5595,22.9375,2020-01-22,0
-,Spain,40.0,-4.0,2020-03-29,80110
-,Spain,40.0,-4.0,2020-03-28,73235
-,Spain,40.0,-4.0,2020-03-27,65719
-,Spain,40.0,-4.0,2020-03-26,57786
-,Spain,40.0,-4.0,2020-03-25,49515
-,Spain,40.0,-4.0,2020-03-24,39885
-,Spain,40.0,-4.0,2020-03-23,35136
-,Spain,40.0,-4.0,2020-03-22,28768
-,Spain,40.0,-4.0,2020-03-21,25374
-,Spain,40.0,-4.0,2020-03-20,20410
-,Spain,40.0,-4.0,2020-03-19,17963
-,Spain,40.0,-4.0,2020-03-18,13910
-,Spain,40.0,-4.0,2020-03-17,11748
-,Spain,40.0,-4.0,2020-03-16,9942
-,Spain,40.0,-4.0,2020-03-15,7798
-,Spain,40.0,-4.0,2020-03-14,6391
-,Spain,40.0,-4.0,2020-03-13,5232
-,Spain,40.0,-4.0,2020-03-12,2277
-,Spain,40.0,-4.0,2020-03-11,2277
-,Spain,40.0,-4.0,2020-03-10,1695
-,Spain,40.0,-4.0,2020-03-09,1073
-,Spain,40.0,-4.0,2020-03-08,673
-,Spain,40.0,-4.0,2020-03-07,500
-,Spain,40.0,-4.0,2020-03-06,400
-,Spain,40.0,-4.0,2020-03-05,259
-,Spain,40.0,-4.0,2020-03-04,222
-,Spain,40.0,-4.0,2020-03-03,165
-,Spain,40.0,-4.0,2020-03-02,120
-,Spain,40.0,-4.0,2020-03-01,84
-,Spain,40.0,-4.0,2020-02-29,45
-,Spain,40.0,-4.0,2020-02-28,32
-,Spain,40.0,-4.0,2020-02-27,15
-,Spain,40.0,-4.0,2020-02-26,13
-,Spain,40.0,-4.0,2020-02-25,6
-,Spain,40.0,-4.0,2020-02-24,2
-,Spain,40.0,-4.0,2020-02-23,2
-,Spain,40.0,-4.0,2020-02-22,2
-,Spain,40.0,-4.0,2020-02-21,2
-,Spain,40.0,-4.0,2020-02-20,2
-,Spain,40.0,-4.0,2020-02-19,2
-,Spain,40.0,-4.0,2020-02-18,2
-,Spain,40.0,-4.0,2020-02-17,2
-,Spain,40.0,-4.0,2020-02-16,2
-,Spain,40.0,-4.0,2020-02-15,2
-,Spain,40.0,-4.0,2020-02-14,2
-,Spain,40.0,-4.0,2020-02-13,2
-,Spain,40.0,-4.0,2020-02-12,2
-,Spain,40.0,-4.0,2020-02-11,2
-,Spain,40.0,-4.0,2020-02-10,2
-,Spain,40.0,-4.0,2020-02-09,2
-,Spain,40.0,-4.0,2020-02-08,1
-,Spain,40.0,-4.0,2020-02-07,1
-,Spain,40.0,-4.0,2020-02-06,1
-,Spain,40.0,-4.0,2020-02-05,1
-,Spain,40.0,-4.0,2020-02-04,1
-,Spain,40.0,-4.0,2020-02-03,1
-,Spain,40.0,-4.0,2020-02-02,1
-,Spain,40.0,-4.0,2020-02-01,1
-,Spain,40.0,-4.0,2020-01-31,0
-,Spain,40.0,-4.0,2020-01-30,0
-,Spain,40.0,-4.0,2020-01-29,0
-,Spain,40.0,-4.0,2020-01-28,0
-,Spain,40.0,-4.0,2020-01-27,0
-,Spain,40.0,-4.0,2020-01-26,0
-,Spain,40.0,-4.0,2020-01-25,0
-,Spain,40.0,-4.0,2020-01-24,0
-,Spain,40.0,-4.0,2020-01-23,0
-,Spain,40.0,-4.0,2020-01-22,0
-,Sri Lanka,7.0,81.0,2020-03-29,117
-,Sri Lanka,7.0,81.0,2020-03-28,113
-,Sri Lanka,7.0,81.0,2020-03-27,106
-,Sri Lanka,7.0,81.0,2020-03-26,106
-,Sri Lanka,7.0,81.0,2020-03-25,102
-,Sri Lanka,7.0,81.0,2020-03-24,102
-,Sri Lanka,7.0,81.0,2020-03-23,97
-,Sri Lanka,7.0,81.0,2020-03-22,82
-,Sri Lanka,7.0,81.0,2020-03-21,77
-,Sri Lanka,7.0,81.0,2020-03-20,73
-,Sri Lanka,7.0,81.0,2020-03-19,60
-,Sri Lanka,7.0,81.0,2020-03-18,51
-,Sri Lanka,7.0,81.0,2020-03-17,44
-,Sri Lanka,7.0,81.0,2020-03-16,28
-,Sri Lanka,7.0,81.0,2020-03-15,18
-,Sri Lanka,7.0,81.0,2020-03-14,10
-,Sri Lanka,7.0,81.0,2020-03-13,6
-,Sri Lanka,7.0,81.0,2020-03-12,2
-,Sri Lanka,7.0,81.0,2020-03-11,2
-,Sri Lanka,7.0,81.0,2020-03-10,1
-,Sri Lanka,7.0,81.0,2020-03-09,1
-,Sri Lanka,7.0,81.0,2020-03-08,1
-,Sri Lanka,7.0,81.0,2020-03-07,1
-,Sri Lanka,7.0,81.0,2020-03-06,1
-,Sri Lanka,7.0,81.0,2020-03-05,1
-,Sri Lanka,7.0,81.0,2020-03-04,1
-,Sri Lanka,7.0,81.0,2020-03-03,1
-,Sri Lanka,7.0,81.0,2020-03-02,1
-,Sri Lanka,7.0,81.0,2020-03-01,1
-,Sri Lanka,7.0,81.0,2020-02-29,1
-,Sri Lanka,7.0,81.0,2020-02-28,1
-,Sri Lanka,7.0,81.0,2020-02-27,1
-,Sri Lanka,7.0,81.0,2020-02-26,1
-,Sri Lanka,7.0,81.0,2020-02-25,1
-,Sri Lanka,7.0,81.0,2020-02-24,1
-,Sri Lanka,7.0,81.0,2020-02-23,1
-,Sri Lanka,7.0,81.0,2020-02-22,1
-,Sri Lanka,7.0,81.0,2020-02-21,1
-,Sri Lanka,7.0,81.0,2020-02-20,1
-,Sri Lanka,7.0,81.0,2020-02-19,1
-,Sri Lanka,7.0,81.0,2020-02-18,1
-,Sri Lanka,7.0,81.0,2020-02-17,1
-,Sri Lanka,7.0,81.0,2020-02-16,1
-,Sri Lanka,7.0,81.0,2020-02-15,1
-,Sri Lanka,7.0,81.0,2020-02-14,1
-,Sri Lanka,7.0,81.0,2020-02-13,1
-,Sri Lanka,7.0,81.0,2020-02-12,1
-,Sri Lanka,7.0,81.0,2020-02-11,1
-,Sri Lanka,7.0,81.0,2020-02-10,1
-,Sri Lanka,7.0,81.0,2020-02-09,1
-,Sri Lanka,7.0,81.0,2020-02-08,1
-,Sri Lanka,7.0,81.0,2020-02-07,1
-,Sri Lanka,7.0,81.0,2020-02-06,1
-,Sri Lanka,7.0,81.0,2020-02-05,1
-,Sri Lanka,7.0,81.0,2020-02-04,1
-,Sri Lanka,7.0,81.0,2020-02-03,1
-,Sri Lanka,7.0,81.0,2020-02-02,1
-,Sri Lanka,7.0,81.0,2020-02-01,1
-,Sri Lanka,7.0,81.0,2020-01-31,1
-,Sri Lanka,7.0,81.0,2020-01-30,1
-,Sri Lanka,7.0,81.0,2020-01-29,1
-,Sri Lanka,7.0,81.0,2020-01-28,1
-,Sri Lanka,7.0,81.0,2020-01-27,1
-,Sri Lanka,7.0,81.0,2020-01-26,0
-,Sri Lanka,7.0,81.0,2020-01-25,0
-,Sri Lanka,7.0,81.0,2020-01-24,0
-,Sri Lanka,7.0,81.0,2020-01-23,0
-,Sri Lanka,7.0,81.0,2020-01-22,0
+,Spain,40,-4,2020-03-29,80110
+,Spain,40,-4,2020-03-28,73235
+,Spain,40,-4,2020-03-27,65719
+,Spain,40,-4,2020-03-26,57786
+,Spain,40,-4,2020-03-25,49515
+,Spain,40,-4,2020-03-24,39885
+,Spain,40,-4,2020-03-23,35136
+,Spain,40,-4,2020-03-22,28768
+,Spain,40,-4,2020-03-21,25374
+,Spain,40,-4,2020-03-20,20410
+,Spain,40,-4,2020-03-19,17963
+,Spain,40,-4,2020-03-18,13910
+,Spain,40,-4,2020-03-17,11748
+,Spain,40,-4,2020-03-16,9942
+,Spain,40,-4,2020-03-15,7798
+,Spain,40,-4,2020-03-14,6391
+,Spain,40,-4,2020-03-13,5232
+,Spain,40,-4,2020-03-12,2277
+,Spain,40,-4,2020-03-11,2277
+,Spain,40,-4,2020-03-10,1695
+,Spain,40,-4,2020-03-09,1073
+,Spain,40,-4,2020-03-08,673
+,Spain,40,-4,2020-03-07,500
+,Spain,40,-4,2020-03-06,400
+,Spain,40,-4,2020-03-05,259
+,Spain,40,-4,2020-03-04,222
+,Spain,40,-4,2020-03-03,165
+,Spain,40,-4,2020-03-02,120
+,Spain,40,-4,2020-03-01,84
+,Spain,40,-4,2020-02-29,45
+,Spain,40,-4,2020-02-28,32
+,Spain,40,-4,2020-02-27,15
+,Spain,40,-4,2020-02-26,13
+,Spain,40,-4,2020-02-25,6
+,Spain,40,-4,2020-02-24,2
+,Spain,40,-4,2020-02-23,2
+,Spain,40,-4,2020-02-22,2
+,Spain,40,-4,2020-02-21,2
+,Spain,40,-4,2020-02-20,2
+,Spain,40,-4,2020-02-19,2
+,Spain,40,-4,2020-02-18,2
+,Spain,40,-4,2020-02-17,2
+,Spain,40,-4,2020-02-16,2
+,Spain,40,-4,2020-02-15,2
+,Spain,40,-4,2020-02-14,2
+,Spain,40,-4,2020-02-13,2
+,Spain,40,-4,2020-02-12,2
+,Spain,40,-4,2020-02-11,2
+,Spain,40,-4,2020-02-10,2
+,Spain,40,-4,2020-02-09,2
+,Spain,40,-4,2020-02-08,1
+,Spain,40,-4,2020-02-07,1
+,Spain,40,-4,2020-02-06,1
+,Spain,40,-4,2020-02-05,1
+,Spain,40,-4,2020-02-04,1
+,Spain,40,-4,2020-02-03,1
+,Spain,40,-4,2020-02-02,1
+,Spain,40,-4,2020-02-01,1
+,Spain,40,-4,2020-01-31,0
+,Spain,40,-4,2020-01-30,0
+,Spain,40,-4,2020-01-29,0
+,Spain,40,-4,2020-01-28,0
+,Spain,40,-4,2020-01-27,0
+,Spain,40,-4,2020-01-26,0
+,Spain,40,-4,2020-01-25,0
+,Spain,40,-4,2020-01-24,0
+,Spain,40,-4,2020-01-23,0
+,Spain,40,-4,2020-01-22,0
+,Sri Lanka,7,81,2020-03-29,117
+,Sri Lanka,7,81,2020-03-28,113
+,Sri Lanka,7,81,2020-03-27,106
+,Sri Lanka,7,81,2020-03-26,106
+,Sri Lanka,7,81,2020-03-25,102
+,Sri Lanka,7,81,2020-03-24,102
+,Sri Lanka,7,81,2020-03-23,97
+,Sri Lanka,7,81,2020-03-22,82
+,Sri Lanka,7,81,2020-03-21,77
+,Sri Lanka,7,81,2020-03-20,73
+,Sri Lanka,7,81,2020-03-19,60
+,Sri Lanka,7,81,2020-03-18,51
+,Sri Lanka,7,81,2020-03-17,44
+,Sri Lanka,7,81,2020-03-16,28
+,Sri Lanka,7,81,2020-03-15,18
+,Sri Lanka,7,81,2020-03-14,10
+,Sri Lanka,7,81,2020-03-13,6
+,Sri Lanka,7,81,2020-03-12,2
+,Sri Lanka,7,81,2020-03-11,2
+,Sri Lanka,7,81,2020-03-10,1
+,Sri Lanka,7,81,2020-03-09,1
+,Sri Lanka,7,81,2020-03-08,1
+,Sri Lanka,7,81,2020-03-07,1
+,Sri Lanka,7,81,2020-03-06,1
+,Sri Lanka,7,81,2020-03-05,1
+,Sri Lanka,7,81,2020-03-04,1
+,Sri Lanka,7,81,2020-03-03,1
+,Sri Lanka,7,81,2020-03-02,1
+,Sri Lanka,7,81,2020-03-01,1
+,Sri Lanka,7,81,2020-02-29,1
+,Sri Lanka,7,81,2020-02-28,1
+,Sri Lanka,7,81,2020-02-27,1
+,Sri Lanka,7,81,2020-02-26,1
+,Sri Lanka,7,81,2020-02-25,1
+,Sri Lanka,7,81,2020-02-24,1
+,Sri Lanka,7,81,2020-02-23,1
+,Sri Lanka,7,81,2020-02-22,1
+,Sri Lanka,7,81,2020-02-21,1
+,Sri Lanka,7,81,2020-02-20,1
+,Sri Lanka,7,81,2020-02-19,1
+,Sri Lanka,7,81,2020-02-18,1
+,Sri Lanka,7,81,2020-02-17,1
+,Sri Lanka,7,81,2020-02-16,1
+,Sri Lanka,7,81,2020-02-15,1
+,Sri Lanka,7,81,2020-02-14,1
+,Sri Lanka,7,81,2020-02-13,1
+,Sri Lanka,7,81,2020-02-12,1
+,Sri Lanka,7,81,2020-02-11,1
+,Sri Lanka,7,81,2020-02-10,1
+,Sri Lanka,7,81,2020-02-09,1
+,Sri Lanka,7,81,2020-02-08,1
+,Sri Lanka,7,81,2020-02-07,1
+,Sri Lanka,7,81,2020-02-06,1
+,Sri Lanka,7,81,2020-02-05,1
+,Sri Lanka,7,81,2020-02-04,1
+,Sri Lanka,7,81,2020-02-03,1
+,Sri Lanka,7,81,2020-02-02,1
+,Sri Lanka,7,81,2020-02-01,1
+,Sri Lanka,7,81,2020-01-31,1
+,Sri Lanka,7,81,2020-01-30,1
+,Sri Lanka,7,81,2020-01-29,1
+,Sri Lanka,7,81,2020-01-28,1
+,Sri Lanka,7,81,2020-01-27,1
+,Sri Lanka,7,81,2020-01-26,0
+,Sri Lanka,7,81,2020-01-25,0
+,Sri Lanka,7,81,2020-01-24,0
+,Sri Lanka,7,81,2020-01-23,0
+,Sri Lanka,7,81,2020-01-22,0
 ,Sudan,12.8628,30.2176,2020-03-29,6
 ,Sudan,12.8628,30.2176,2020-03-28,5
 ,Sudan,12.8628,30.2176,2020-03-27,3
@@ -15028,74 +15028,74 @@ Sint Maarten,Netherlands,18.0425,-63.0548,2020-01-22,0
 ,Suriname,3.9193,-56.0278,2020-01-24,0
 ,Suriname,3.9193,-56.0278,2020-01-23,0
 ,Suriname,3.9193,-56.0278,2020-01-22,0
-,Sweden,63.0,16.0,2020-03-29,3700
-,Sweden,63.0,16.0,2020-03-28,3447
-,Sweden,63.0,16.0,2020-03-27,3069
-,Sweden,63.0,16.0,2020-03-26,2840
-,Sweden,63.0,16.0,2020-03-25,2526
-,Sweden,63.0,16.0,2020-03-24,2286
-,Sweden,63.0,16.0,2020-03-23,2046
-,Sweden,63.0,16.0,2020-03-22,1934
-,Sweden,63.0,16.0,2020-03-21,1763
-,Sweden,63.0,16.0,2020-03-20,1639
-,Sweden,63.0,16.0,2020-03-19,1439
-,Sweden,63.0,16.0,2020-03-18,1279
-,Sweden,63.0,16.0,2020-03-17,1190
-,Sweden,63.0,16.0,2020-03-16,1103
-,Sweden,63.0,16.0,2020-03-15,1022
-,Sweden,63.0,16.0,2020-03-14,961
-,Sweden,63.0,16.0,2020-03-13,814
-,Sweden,63.0,16.0,2020-03-12,599
-,Sweden,63.0,16.0,2020-03-11,500
-,Sweden,63.0,16.0,2020-03-10,355
-,Sweden,63.0,16.0,2020-03-09,248
-,Sweden,63.0,16.0,2020-03-08,203
-,Sweden,63.0,16.0,2020-03-07,161
-,Sweden,63.0,16.0,2020-03-06,101
-,Sweden,63.0,16.0,2020-03-05,94
-,Sweden,63.0,16.0,2020-03-04,35
-,Sweden,63.0,16.0,2020-03-03,21
-,Sweden,63.0,16.0,2020-03-02,15
-,Sweden,63.0,16.0,2020-03-01,14
-,Sweden,63.0,16.0,2020-02-29,12
-,Sweden,63.0,16.0,2020-02-28,7
-,Sweden,63.0,16.0,2020-02-27,7
-,Sweden,63.0,16.0,2020-02-26,2
-,Sweden,63.0,16.0,2020-02-25,1
-,Sweden,63.0,16.0,2020-02-24,1
-,Sweden,63.0,16.0,2020-02-23,1
-,Sweden,63.0,16.0,2020-02-22,1
-,Sweden,63.0,16.0,2020-02-21,1
-,Sweden,63.0,16.0,2020-02-20,1
-,Sweden,63.0,16.0,2020-02-19,1
-,Sweden,63.0,16.0,2020-02-18,1
-,Sweden,63.0,16.0,2020-02-17,1
-,Sweden,63.0,16.0,2020-02-16,1
-,Sweden,63.0,16.0,2020-02-15,1
-,Sweden,63.0,16.0,2020-02-14,1
-,Sweden,63.0,16.0,2020-02-13,1
-,Sweden,63.0,16.0,2020-02-12,1
-,Sweden,63.0,16.0,2020-02-11,1
-,Sweden,63.0,16.0,2020-02-10,1
-,Sweden,63.0,16.0,2020-02-09,1
-,Sweden,63.0,16.0,2020-02-08,1
-,Sweden,63.0,16.0,2020-02-07,1
-,Sweden,63.0,16.0,2020-02-06,1
-,Sweden,63.0,16.0,2020-02-05,1
-,Sweden,63.0,16.0,2020-02-04,1
-,Sweden,63.0,16.0,2020-02-03,1
-,Sweden,63.0,16.0,2020-02-02,1
-,Sweden,63.0,16.0,2020-02-01,1
-,Sweden,63.0,16.0,2020-01-31,1
-,Sweden,63.0,16.0,2020-01-30,0
-,Sweden,63.0,16.0,2020-01-29,0
-,Sweden,63.0,16.0,2020-01-28,0
-,Sweden,63.0,16.0,2020-01-27,0
-,Sweden,63.0,16.0,2020-01-26,0
-,Sweden,63.0,16.0,2020-01-25,0
-,Sweden,63.0,16.0,2020-01-24,0
-,Sweden,63.0,16.0,2020-01-23,0
-,Sweden,63.0,16.0,2020-01-22,0
+,Sweden,63,16,2020-03-29,3700
+,Sweden,63,16,2020-03-28,3447
+,Sweden,63,16,2020-03-27,3069
+,Sweden,63,16,2020-03-26,2840
+,Sweden,63,16,2020-03-25,2526
+,Sweden,63,16,2020-03-24,2286
+,Sweden,63,16,2020-03-23,2046
+,Sweden,63,16,2020-03-22,1934
+,Sweden,63,16,2020-03-21,1763
+,Sweden,63,16,2020-03-20,1639
+,Sweden,63,16,2020-03-19,1439
+,Sweden,63,16,2020-03-18,1279
+,Sweden,63,16,2020-03-17,1190
+,Sweden,63,16,2020-03-16,1103
+,Sweden,63,16,2020-03-15,1022
+,Sweden,63,16,2020-03-14,961
+,Sweden,63,16,2020-03-13,814
+,Sweden,63,16,2020-03-12,599
+,Sweden,63,16,2020-03-11,500
+,Sweden,63,16,2020-03-10,355
+,Sweden,63,16,2020-03-09,248
+,Sweden,63,16,2020-03-08,203
+,Sweden,63,16,2020-03-07,161
+,Sweden,63,16,2020-03-06,101
+,Sweden,63,16,2020-03-05,94
+,Sweden,63,16,2020-03-04,35
+,Sweden,63,16,2020-03-03,21
+,Sweden,63,16,2020-03-02,15
+,Sweden,63,16,2020-03-01,14
+,Sweden,63,16,2020-02-29,12
+,Sweden,63,16,2020-02-28,7
+,Sweden,63,16,2020-02-27,7
+,Sweden,63,16,2020-02-26,2
+,Sweden,63,16,2020-02-25,1
+,Sweden,63,16,2020-02-24,1
+,Sweden,63,16,2020-02-23,1
+,Sweden,63,16,2020-02-22,1
+,Sweden,63,16,2020-02-21,1
+,Sweden,63,16,2020-02-20,1
+,Sweden,63,16,2020-02-19,1
+,Sweden,63,16,2020-02-18,1
+,Sweden,63,16,2020-02-17,1
+,Sweden,63,16,2020-02-16,1
+,Sweden,63,16,2020-02-15,1
+,Sweden,63,16,2020-02-14,1
+,Sweden,63,16,2020-02-13,1
+,Sweden,63,16,2020-02-12,1
+,Sweden,63,16,2020-02-11,1
+,Sweden,63,16,2020-02-10,1
+,Sweden,63,16,2020-02-09,1
+,Sweden,63,16,2020-02-08,1
+,Sweden,63,16,2020-02-07,1
+,Sweden,63,16,2020-02-06,1
+,Sweden,63,16,2020-02-05,1
+,Sweden,63,16,2020-02-04,1
+,Sweden,63,16,2020-02-03,1
+,Sweden,63,16,2020-02-02,1
+,Sweden,63,16,2020-02-01,1
+,Sweden,63,16,2020-01-31,1
+,Sweden,63,16,2020-01-30,0
+,Sweden,63,16,2020-01-29,0
+,Sweden,63,16,2020-01-28,0
+,Sweden,63,16,2020-01-27,0
+,Sweden,63,16,2020-01-26,0
+,Sweden,63,16,2020-01-25,0
+,Sweden,63,16,2020-01-24,0
+,Sweden,63,16,2020-01-23,0
+,Sweden,63,16,2020-01-22,0
 ,Switzerland,46.8182,8.2275,2020-03-29,14829
 ,Switzerland,46.8182,8.2275,2020-03-28,14076
 ,Switzerland,46.8182,8.2275,2020-03-27,12928
@@ -15164,142 +15164,142 @@ Sint Maarten,Netherlands,18.0425,-63.0548,2020-01-22,0
 ,Switzerland,46.8182,8.2275,2020-01-24,0
 ,Switzerland,46.8182,8.2275,2020-01-23,0
 ,Switzerland,46.8182,8.2275,2020-01-22,0
-,Syria,34.802075,38.99681500000001,2020-03-29,9
-,Syria,34.802075,38.99681500000001,2020-03-28,5
-,Syria,34.802075,38.99681500000001,2020-03-27,5
-,Syria,34.802075,38.99681500000001,2020-03-26,5
-,Syria,34.802075,38.99681500000001,2020-03-25,5
-,Syria,34.802075,38.99681500000001,2020-03-24,1
-,Syria,34.802075,38.99681500000001,2020-03-23,1
-,Syria,34.802075,38.99681500000001,2020-03-22,1
-,Syria,34.802075,38.99681500000001,2020-03-21,0
-,Syria,34.802075,38.99681500000001,2020-03-20,0
-,Syria,34.802075,38.99681500000001,2020-03-19,0
-,Syria,34.802075,38.99681500000001,2020-03-18,0
-,Syria,34.802075,38.99681500000001,2020-03-17,0
-,Syria,34.802075,38.99681500000001,2020-03-16,0
-,Syria,34.802075,38.99681500000001,2020-03-15,0
-,Syria,34.802075,38.99681500000001,2020-03-14,0
-,Syria,34.802075,38.99681500000001,2020-03-13,0
-,Syria,34.802075,38.99681500000001,2020-03-12,0
-,Syria,34.802075,38.99681500000001,2020-03-11,0
-,Syria,34.802075,38.99681500000001,2020-03-10,0
-,Syria,34.802075,38.99681500000001,2020-03-09,0
-,Syria,34.802075,38.99681500000001,2020-03-08,0
-,Syria,34.802075,38.99681500000001,2020-03-07,0
-,Syria,34.802075,38.99681500000001,2020-03-06,0
-,Syria,34.802075,38.99681500000001,2020-03-05,0
-,Syria,34.802075,38.99681500000001,2020-03-04,0
-,Syria,34.802075,38.99681500000001,2020-03-03,0
-,Syria,34.802075,38.99681500000001,2020-03-02,0
-,Syria,34.802075,38.99681500000001,2020-03-01,0
-,Syria,34.802075,38.99681500000001,2020-02-29,0
-,Syria,34.802075,38.99681500000001,2020-02-28,0
-,Syria,34.802075,38.99681500000001,2020-02-27,0
-,Syria,34.802075,38.99681500000001,2020-02-26,0
-,Syria,34.802075,38.99681500000001,2020-02-25,0
-,Syria,34.802075,38.99681500000001,2020-02-24,0
-,Syria,34.802075,38.99681500000001,2020-02-23,0
-,Syria,34.802075,38.99681500000001,2020-02-22,0
-,Syria,34.802075,38.99681500000001,2020-02-21,0
-,Syria,34.802075,38.99681500000001,2020-02-20,0
-,Syria,34.802075,38.99681500000001,2020-02-19,0
-,Syria,34.802075,38.99681500000001,2020-02-18,0
-,Syria,34.802075,38.99681500000001,2020-02-17,0
-,Syria,34.802075,38.99681500000001,2020-02-16,0
-,Syria,34.802075,38.99681500000001,2020-02-15,0
-,Syria,34.802075,38.99681500000001,2020-02-14,0
-,Syria,34.802075,38.99681500000001,2020-02-13,0
-,Syria,34.802075,38.99681500000001,2020-02-12,0
-,Syria,34.802075,38.99681500000001,2020-02-11,0
-,Syria,34.802075,38.99681500000001,2020-02-10,0
-,Syria,34.802075,38.99681500000001,2020-02-09,0
-,Syria,34.802075,38.99681500000001,2020-02-08,0
-,Syria,34.802075,38.99681500000001,2020-02-07,0
-,Syria,34.802075,38.99681500000001,2020-02-06,0
-,Syria,34.802075,38.99681500000001,2020-02-05,0
-,Syria,34.802075,38.99681500000001,2020-02-04,0
-,Syria,34.802075,38.99681500000001,2020-02-03,0
-,Syria,34.802075,38.99681500000001,2020-02-02,0
-,Syria,34.802075,38.99681500000001,2020-02-01,0
-,Syria,34.802075,38.99681500000001,2020-01-31,0
-,Syria,34.802075,38.99681500000001,2020-01-30,0
-,Syria,34.802075,38.99681500000001,2020-01-29,0
-,Syria,34.802075,38.99681500000001,2020-01-28,0
-,Syria,34.802075,38.99681500000001,2020-01-27,0
-,Syria,34.802075,38.99681500000001,2020-01-26,0
-,Syria,34.802075,38.99681500000001,2020-01-25,0
-,Syria,34.802075,38.99681500000001,2020-01-24,0
-,Syria,34.802075,38.99681500000001,2020-01-23,0
-,Syria,34.802075,38.99681500000001,2020-01-22,0
-,Taiwan*,23.7,121.0,2020-03-29,298
-,Taiwan*,23.7,121.0,2020-03-28,283
-,Taiwan*,23.7,121.0,2020-03-27,267
-,Taiwan*,23.7,121.0,2020-03-26,252
-,Taiwan*,23.7,121.0,2020-03-25,235
-,Taiwan*,23.7,121.0,2020-03-24,215
-,Taiwan*,23.7,121.0,2020-03-23,195
-,Taiwan*,23.7,121.0,2020-03-22,169
-,Taiwan*,23.7,121.0,2020-03-21,153
-,Taiwan*,23.7,121.0,2020-03-20,135
-,Taiwan*,23.7,121.0,2020-03-19,108
-,Taiwan*,23.7,121.0,2020-03-18,100
-,Taiwan*,23.7,121.0,2020-03-17,77
-,Taiwan*,23.7,121.0,2020-03-16,67
-,Taiwan*,23.7,121.0,2020-03-15,59
-,Taiwan*,23.7,121.0,2020-03-14,53
-,Taiwan*,23.7,121.0,2020-03-13,50
-,Taiwan*,23.7,121.0,2020-03-12,49
-,Taiwan*,23.7,121.0,2020-03-11,48
-,Taiwan*,23.7,121.0,2020-03-10,47
-,Taiwan*,23.7,121.0,2020-03-09,45
-,Taiwan*,23.7,121.0,2020-03-08,45
-,Taiwan*,23.7,121.0,2020-03-07,45
-,Taiwan*,23.7,121.0,2020-03-06,45
-,Taiwan*,23.7,121.0,2020-03-05,44
-,Taiwan*,23.7,121.0,2020-03-04,42
-,Taiwan*,23.7,121.0,2020-03-03,42
-,Taiwan*,23.7,121.0,2020-03-02,41
-,Taiwan*,23.7,121.0,2020-03-01,40
-,Taiwan*,23.7,121.0,2020-02-29,39
-,Taiwan*,23.7,121.0,2020-02-28,34
-,Taiwan*,23.7,121.0,2020-02-27,32
-,Taiwan*,23.7,121.0,2020-02-26,32
-,Taiwan*,23.7,121.0,2020-02-25,31
-,Taiwan*,23.7,121.0,2020-02-24,30
-,Taiwan*,23.7,121.0,2020-02-23,28
-,Taiwan*,23.7,121.0,2020-02-22,26
-,Taiwan*,23.7,121.0,2020-02-21,26
-,Taiwan*,23.7,121.0,2020-02-20,24
-,Taiwan*,23.7,121.0,2020-02-19,23
-,Taiwan*,23.7,121.0,2020-02-18,22
-,Taiwan*,23.7,121.0,2020-02-17,22
-,Taiwan*,23.7,121.0,2020-02-16,20
-,Taiwan*,23.7,121.0,2020-02-15,18
-,Taiwan*,23.7,121.0,2020-02-14,18
-,Taiwan*,23.7,121.0,2020-02-13,18
-,Taiwan*,23.7,121.0,2020-02-12,18
-,Taiwan*,23.7,121.0,2020-02-11,18
-,Taiwan*,23.7,121.0,2020-02-10,18
-,Taiwan*,23.7,121.0,2020-02-09,18
-,Taiwan*,23.7,121.0,2020-02-08,17
-,Taiwan*,23.7,121.0,2020-02-07,16
-,Taiwan*,23.7,121.0,2020-02-06,16
-,Taiwan*,23.7,121.0,2020-02-05,11
-,Taiwan*,23.7,121.0,2020-02-04,11
-,Taiwan*,23.7,121.0,2020-02-03,10
-,Taiwan*,23.7,121.0,2020-02-02,10
-,Taiwan*,23.7,121.0,2020-02-01,10
-,Taiwan*,23.7,121.0,2020-01-31,10
-,Taiwan*,23.7,121.0,2020-01-30,9
-,Taiwan*,23.7,121.0,2020-01-29,8
-,Taiwan*,23.7,121.0,2020-01-28,8
-,Taiwan*,23.7,121.0,2020-01-27,5
-,Taiwan*,23.7,121.0,2020-01-26,4
-,Taiwan*,23.7,121.0,2020-01-25,3
-,Taiwan*,23.7,121.0,2020-01-24,3
-,Taiwan*,23.7,121.0,2020-01-23,1
-,Taiwan*,23.7,121.0,2020-01-22,1
+,Syria,34.802075,38.996815,2020-03-29,9
+,Syria,34.802075,38.996815,2020-03-28,5
+,Syria,34.802075,38.996815,2020-03-27,5
+,Syria,34.802075,38.996815,2020-03-26,5
+,Syria,34.802075,38.996815,2020-03-25,5
+,Syria,34.802075,38.996815,2020-03-24,1
+,Syria,34.802075,38.996815,2020-03-23,1
+,Syria,34.802075,38.996815,2020-03-22,1
+,Syria,34.802075,38.996815,2020-03-21,0
+,Syria,34.802075,38.996815,2020-03-20,0
+,Syria,34.802075,38.996815,2020-03-19,0
+,Syria,34.802075,38.996815,2020-03-18,0
+,Syria,34.802075,38.996815,2020-03-17,0
+,Syria,34.802075,38.996815,2020-03-16,0
+,Syria,34.802075,38.996815,2020-03-15,0
+,Syria,34.802075,38.996815,2020-03-14,0
+,Syria,34.802075,38.996815,2020-03-13,0
+,Syria,34.802075,38.996815,2020-03-12,0
+,Syria,34.802075,38.996815,2020-03-11,0
+,Syria,34.802075,38.996815,2020-03-10,0
+,Syria,34.802075,38.996815,2020-03-09,0
+,Syria,34.802075,38.996815,2020-03-08,0
+,Syria,34.802075,38.996815,2020-03-07,0
+,Syria,34.802075,38.996815,2020-03-06,0
+,Syria,34.802075,38.996815,2020-03-05,0
+,Syria,34.802075,38.996815,2020-03-04,0
+,Syria,34.802075,38.996815,2020-03-03,0
+,Syria,34.802075,38.996815,2020-03-02,0
+,Syria,34.802075,38.996815,2020-03-01,0
+,Syria,34.802075,38.996815,2020-02-29,0
+,Syria,34.802075,38.996815,2020-02-28,0
+,Syria,34.802075,38.996815,2020-02-27,0
+,Syria,34.802075,38.996815,2020-02-26,0
+,Syria,34.802075,38.996815,2020-02-25,0
+,Syria,34.802075,38.996815,2020-02-24,0
+,Syria,34.802075,38.996815,2020-02-23,0
+,Syria,34.802075,38.996815,2020-02-22,0
+,Syria,34.802075,38.996815,2020-02-21,0
+,Syria,34.802075,38.996815,2020-02-20,0
+,Syria,34.802075,38.996815,2020-02-19,0
+,Syria,34.802075,38.996815,2020-02-18,0
+,Syria,34.802075,38.996815,2020-02-17,0
+,Syria,34.802075,38.996815,2020-02-16,0
+,Syria,34.802075,38.996815,2020-02-15,0
+,Syria,34.802075,38.996815,2020-02-14,0
+,Syria,34.802075,38.996815,2020-02-13,0
+,Syria,34.802075,38.996815,2020-02-12,0
+,Syria,34.802075,38.996815,2020-02-11,0
+,Syria,34.802075,38.996815,2020-02-10,0
+,Syria,34.802075,38.996815,2020-02-09,0
+,Syria,34.802075,38.996815,2020-02-08,0
+,Syria,34.802075,38.996815,2020-02-07,0
+,Syria,34.802075,38.996815,2020-02-06,0
+,Syria,34.802075,38.996815,2020-02-05,0
+,Syria,34.802075,38.996815,2020-02-04,0
+,Syria,34.802075,38.996815,2020-02-03,0
+,Syria,34.802075,38.996815,2020-02-02,0
+,Syria,34.802075,38.996815,2020-02-01,0
+,Syria,34.802075,38.996815,2020-01-31,0
+,Syria,34.802075,38.996815,2020-01-30,0
+,Syria,34.802075,38.996815,2020-01-29,0
+,Syria,34.802075,38.996815,2020-01-28,0
+,Syria,34.802075,38.996815,2020-01-27,0
+,Syria,34.802075,38.996815,2020-01-26,0
+,Syria,34.802075,38.996815,2020-01-25,0
+,Syria,34.802075,38.996815,2020-01-24,0
+,Syria,34.802075,38.996815,2020-01-23,0
+,Syria,34.802075,38.996815,2020-01-22,0
+,Taiwan*,23.7,121,2020-03-29,298
+,Taiwan*,23.7,121,2020-03-28,283
+,Taiwan*,23.7,121,2020-03-27,267
+,Taiwan*,23.7,121,2020-03-26,252
+,Taiwan*,23.7,121,2020-03-25,235
+,Taiwan*,23.7,121,2020-03-24,215
+,Taiwan*,23.7,121,2020-03-23,195
+,Taiwan*,23.7,121,2020-03-22,169
+,Taiwan*,23.7,121,2020-03-21,153
+,Taiwan*,23.7,121,2020-03-20,135
+,Taiwan*,23.7,121,2020-03-19,108
+,Taiwan*,23.7,121,2020-03-18,100
+,Taiwan*,23.7,121,2020-03-17,77
+,Taiwan*,23.7,121,2020-03-16,67
+,Taiwan*,23.7,121,2020-03-15,59
+,Taiwan*,23.7,121,2020-03-14,53
+,Taiwan*,23.7,121,2020-03-13,50
+,Taiwan*,23.7,121,2020-03-12,49
+,Taiwan*,23.7,121,2020-03-11,48
+,Taiwan*,23.7,121,2020-03-10,47
+,Taiwan*,23.7,121,2020-03-09,45
+,Taiwan*,23.7,121,2020-03-08,45
+,Taiwan*,23.7,121,2020-03-07,45
+,Taiwan*,23.7,121,2020-03-06,45
+,Taiwan*,23.7,121,2020-03-05,44
+,Taiwan*,23.7,121,2020-03-04,42
+,Taiwan*,23.7,121,2020-03-03,42
+,Taiwan*,23.7,121,2020-03-02,41
+,Taiwan*,23.7,121,2020-03-01,40
+,Taiwan*,23.7,121,2020-02-29,39
+,Taiwan*,23.7,121,2020-02-28,34
+,Taiwan*,23.7,121,2020-02-27,32
+,Taiwan*,23.7,121,2020-02-26,32
+,Taiwan*,23.7,121,2020-02-25,31
+,Taiwan*,23.7,121,2020-02-24,30
+,Taiwan*,23.7,121,2020-02-23,28
+,Taiwan*,23.7,121,2020-02-22,26
+,Taiwan*,23.7,121,2020-02-21,26
+,Taiwan*,23.7,121,2020-02-20,24
+,Taiwan*,23.7,121,2020-02-19,23
+,Taiwan*,23.7,121,2020-02-18,22
+,Taiwan*,23.7,121,2020-02-17,22
+,Taiwan*,23.7,121,2020-02-16,20
+,Taiwan*,23.7,121,2020-02-15,18
+,Taiwan*,23.7,121,2020-02-14,18
+,Taiwan*,23.7,121,2020-02-13,18
+,Taiwan*,23.7,121,2020-02-12,18
+,Taiwan*,23.7,121,2020-02-11,18
+,Taiwan*,23.7,121,2020-02-10,18
+,Taiwan*,23.7,121,2020-02-09,18
+,Taiwan*,23.7,121,2020-02-08,17
+,Taiwan*,23.7,121,2020-02-07,16
+,Taiwan*,23.7,121,2020-02-06,16
+,Taiwan*,23.7,121,2020-02-05,11
+,Taiwan*,23.7,121,2020-02-04,11
+,Taiwan*,23.7,121,2020-02-03,10
+,Taiwan*,23.7,121,2020-02-02,10
+,Taiwan*,23.7,121,2020-02-01,10
+,Taiwan*,23.7,121,2020-01-31,10
+,Taiwan*,23.7,121,2020-01-30,9
+,Taiwan*,23.7,121,2020-01-29,8
+,Taiwan*,23.7,121,2020-01-28,8
+,Taiwan*,23.7,121,2020-01-27,5
+,Taiwan*,23.7,121,2020-01-26,4
+,Taiwan*,23.7,121,2020-01-25,3
+,Taiwan*,23.7,121,2020-01-24,3
+,Taiwan*,23.7,121,2020-01-23,1
+,Taiwan*,23.7,121,2020-01-22,1
 ,Tanzania,-6.369,34.8888,2020-03-29,14
 ,Tanzania,-6.369,34.8888,2020-03-28,14
 ,Tanzania,-6.369,34.8888,2020-03-27,13
@@ -15368,74 +15368,74 @@ Sint Maarten,Netherlands,18.0425,-63.0548,2020-01-22,0
 ,Tanzania,-6.369,34.8888,2020-01-24,0
 ,Tanzania,-6.369,34.8888,2020-01-23,0
 ,Tanzania,-6.369,34.8888,2020-01-22,0
-,Thailand,15.0,101.0,2020-03-29,1388
-,Thailand,15.0,101.0,2020-03-28,1245
-,Thailand,15.0,101.0,2020-03-27,1136
-,Thailand,15.0,101.0,2020-03-26,1045
-,Thailand,15.0,101.0,2020-03-25,934
-,Thailand,15.0,101.0,2020-03-24,827
-,Thailand,15.0,101.0,2020-03-23,721
-,Thailand,15.0,101.0,2020-03-22,599
-,Thailand,15.0,101.0,2020-03-21,411
-,Thailand,15.0,101.0,2020-03-20,322
-,Thailand,15.0,101.0,2020-03-19,272
-,Thailand,15.0,101.0,2020-03-18,212
-,Thailand,15.0,101.0,2020-03-17,177
-,Thailand,15.0,101.0,2020-03-16,147
-,Thailand,15.0,101.0,2020-03-15,114
-,Thailand,15.0,101.0,2020-03-14,82
-,Thailand,15.0,101.0,2020-03-13,75
-,Thailand,15.0,101.0,2020-03-12,70
-,Thailand,15.0,101.0,2020-03-11,59
-,Thailand,15.0,101.0,2020-03-10,53
-,Thailand,15.0,101.0,2020-03-09,50
-,Thailand,15.0,101.0,2020-03-08,50
-,Thailand,15.0,101.0,2020-03-07,50
-,Thailand,15.0,101.0,2020-03-06,48
-,Thailand,15.0,101.0,2020-03-05,47
-,Thailand,15.0,101.0,2020-03-04,43
-,Thailand,15.0,101.0,2020-03-03,43
-,Thailand,15.0,101.0,2020-03-02,43
-,Thailand,15.0,101.0,2020-03-01,42
-,Thailand,15.0,101.0,2020-02-29,42
-,Thailand,15.0,101.0,2020-02-28,41
-,Thailand,15.0,101.0,2020-02-27,40
-,Thailand,15.0,101.0,2020-02-26,40
-,Thailand,15.0,101.0,2020-02-25,37
-,Thailand,15.0,101.0,2020-02-24,35
-,Thailand,15.0,101.0,2020-02-23,35
-,Thailand,15.0,101.0,2020-02-22,35
-,Thailand,15.0,101.0,2020-02-21,35
-,Thailand,15.0,101.0,2020-02-20,35
-,Thailand,15.0,101.0,2020-02-19,35
-,Thailand,15.0,101.0,2020-02-18,35
-,Thailand,15.0,101.0,2020-02-17,35
-,Thailand,15.0,101.0,2020-02-16,34
-,Thailand,15.0,101.0,2020-02-15,33
-,Thailand,15.0,101.0,2020-02-14,33
-,Thailand,15.0,101.0,2020-02-13,33
-,Thailand,15.0,101.0,2020-02-12,33
-,Thailand,15.0,101.0,2020-02-11,33
-,Thailand,15.0,101.0,2020-02-10,32
-,Thailand,15.0,101.0,2020-02-09,32
-,Thailand,15.0,101.0,2020-02-08,32
-,Thailand,15.0,101.0,2020-02-07,25
-,Thailand,15.0,101.0,2020-02-06,25
-,Thailand,15.0,101.0,2020-02-05,25
-,Thailand,15.0,101.0,2020-02-04,25
-,Thailand,15.0,101.0,2020-02-03,19
-,Thailand,15.0,101.0,2020-02-02,19
-,Thailand,15.0,101.0,2020-02-01,19
-,Thailand,15.0,101.0,2020-01-31,19
-,Thailand,15.0,101.0,2020-01-30,14
-,Thailand,15.0,101.0,2020-01-29,14
-,Thailand,15.0,101.0,2020-01-28,14
-,Thailand,15.0,101.0,2020-01-27,8
-,Thailand,15.0,101.0,2020-01-26,8
-,Thailand,15.0,101.0,2020-01-25,7
-,Thailand,15.0,101.0,2020-01-24,5
-,Thailand,15.0,101.0,2020-01-23,3
-,Thailand,15.0,101.0,2020-01-22,2
+,Thailand,15,101,2020-03-29,1388
+,Thailand,15,101,2020-03-28,1245
+,Thailand,15,101,2020-03-27,1136
+,Thailand,15,101,2020-03-26,1045
+,Thailand,15,101,2020-03-25,934
+,Thailand,15,101,2020-03-24,827
+,Thailand,15,101,2020-03-23,721
+,Thailand,15,101,2020-03-22,599
+,Thailand,15,101,2020-03-21,411
+,Thailand,15,101,2020-03-20,322
+,Thailand,15,101,2020-03-19,272
+,Thailand,15,101,2020-03-18,212
+,Thailand,15,101,2020-03-17,177
+,Thailand,15,101,2020-03-16,147
+,Thailand,15,101,2020-03-15,114
+,Thailand,15,101,2020-03-14,82
+,Thailand,15,101,2020-03-13,75
+,Thailand,15,101,2020-03-12,70
+,Thailand,15,101,2020-03-11,59
+,Thailand,15,101,2020-03-10,53
+,Thailand,15,101,2020-03-09,50
+,Thailand,15,101,2020-03-08,50
+,Thailand,15,101,2020-03-07,50
+,Thailand,15,101,2020-03-06,48
+,Thailand,15,101,2020-03-05,47
+,Thailand,15,101,2020-03-04,43
+,Thailand,15,101,2020-03-03,43
+,Thailand,15,101,2020-03-02,43
+,Thailand,15,101,2020-03-01,42
+,Thailand,15,101,2020-02-29,42
+,Thailand,15,101,2020-02-28,41
+,Thailand,15,101,2020-02-27,40
+,Thailand,15,101,2020-02-26,40
+,Thailand,15,101,2020-02-25,37
+,Thailand,15,101,2020-02-24,35
+,Thailand,15,101,2020-02-23,35
+,Thailand,15,101,2020-02-22,35
+,Thailand,15,101,2020-02-21,35
+,Thailand,15,101,2020-02-20,35
+,Thailand,15,101,2020-02-19,35
+,Thailand,15,101,2020-02-18,35
+,Thailand,15,101,2020-02-17,35
+,Thailand,15,101,2020-02-16,34
+,Thailand,15,101,2020-02-15,33
+,Thailand,15,101,2020-02-14,33
+,Thailand,15,101,2020-02-13,33
+,Thailand,15,101,2020-02-12,33
+,Thailand,15,101,2020-02-11,33
+,Thailand,15,101,2020-02-10,32
+,Thailand,15,101,2020-02-09,32
+,Thailand,15,101,2020-02-08,32
+,Thailand,15,101,2020-02-07,25
+,Thailand,15,101,2020-02-06,25
+,Thailand,15,101,2020-02-05,25
+,Thailand,15,101,2020-02-04,25
+,Thailand,15,101,2020-02-03,19
+,Thailand,15,101,2020-02-02,19
+,Thailand,15,101,2020-02-01,19
+,Thailand,15,101,2020-01-31,19
+,Thailand,15,101,2020-01-30,14
+,Thailand,15,101,2020-01-29,14
+,Thailand,15,101,2020-01-28,14
+,Thailand,15,101,2020-01-27,8
+,Thailand,15,101,2020-01-26,8
+,Thailand,15,101,2020-01-25,7
+,Thailand,15,101,2020-01-24,5
+,Thailand,15,101,2020-01-23,3
+,Thailand,15,101,2020-01-22,2
 ,Timor-Leste,-8.874217,125.727539,2020-03-29,1
 ,Timor-Leste,-8.874217,125.727539,2020-03-28,1
 ,Timor-Leste,-8.874217,125.727539,2020-03-27,1
@@ -15640,74 +15640,74 @@ Sint Maarten,Netherlands,18.0425,-63.0548,2020-01-22,0
 ,Trinidad and Tobago,10.6918,-61.2225,2020-01-24,0
 ,Trinidad and Tobago,10.6918,-61.2225,2020-01-23,0
 ,Trinidad and Tobago,10.6918,-61.2225,2020-01-22,0
-,Tunisia,34.0,9.0,2020-03-29,312
-,Tunisia,34.0,9.0,2020-03-28,278
-,Tunisia,34.0,9.0,2020-03-27,227
-,Tunisia,34.0,9.0,2020-03-26,197
-,Tunisia,34.0,9.0,2020-03-25,173
-,Tunisia,34.0,9.0,2020-03-24,114
-,Tunisia,34.0,9.0,2020-03-23,89
-,Tunisia,34.0,9.0,2020-03-22,75
-,Tunisia,34.0,9.0,2020-03-21,60
-,Tunisia,34.0,9.0,2020-03-20,54
-,Tunisia,34.0,9.0,2020-03-19,39
-,Tunisia,34.0,9.0,2020-03-18,29
-,Tunisia,34.0,9.0,2020-03-17,24
-,Tunisia,34.0,9.0,2020-03-16,20
-,Tunisia,34.0,9.0,2020-03-15,18
-,Tunisia,34.0,9.0,2020-03-14,18
-,Tunisia,34.0,9.0,2020-03-13,16
-,Tunisia,34.0,9.0,2020-03-12,7
-,Tunisia,34.0,9.0,2020-03-11,7
-,Tunisia,34.0,9.0,2020-03-10,5
-,Tunisia,34.0,9.0,2020-03-09,2
-,Tunisia,34.0,9.0,2020-03-08,2
-,Tunisia,34.0,9.0,2020-03-07,1
-,Tunisia,34.0,9.0,2020-03-06,1
-,Tunisia,34.0,9.0,2020-03-05,1
-,Tunisia,34.0,9.0,2020-03-04,1
-,Tunisia,34.0,9.0,2020-03-03,0
-,Tunisia,34.0,9.0,2020-03-02,0
-,Tunisia,34.0,9.0,2020-03-01,0
-,Tunisia,34.0,9.0,2020-02-29,0
-,Tunisia,34.0,9.0,2020-02-28,0
-,Tunisia,34.0,9.0,2020-02-27,0
-,Tunisia,34.0,9.0,2020-02-26,0
-,Tunisia,34.0,9.0,2020-02-25,0
-,Tunisia,34.0,9.0,2020-02-24,0
-,Tunisia,34.0,9.0,2020-02-23,0
-,Tunisia,34.0,9.0,2020-02-22,0
-,Tunisia,34.0,9.0,2020-02-21,0
-,Tunisia,34.0,9.0,2020-02-20,0
-,Tunisia,34.0,9.0,2020-02-19,0
-,Tunisia,34.0,9.0,2020-02-18,0
-,Tunisia,34.0,9.0,2020-02-17,0
-,Tunisia,34.0,9.0,2020-02-16,0
-,Tunisia,34.0,9.0,2020-02-15,0
-,Tunisia,34.0,9.0,2020-02-14,0
-,Tunisia,34.0,9.0,2020-02-13,0
-,Tunisia,34.0,9.0,2020-02-12,0
-,Tunisia,34.0,9.0,2020-02-11,0
-,Tunisia,34.0,9.0,2020-02-10,0
-,Tunisia,34.0,9.0,2020-02-09,0
-,Tunisia,34.0,9.0,2020-02-08,0
-,Tunisia,34.0,9.0,2020-02-07,0
-,Tunisia,34.0,9.0,2020-02-06,0
-,Tunisia,34.0,9.0,2020-02-05,0
-,Tunisia,34.0,9.0,2020-02-04,0
-,Tunisia,34.0,9.0,2020-02-03,0
-,Tunisia,34.0,9.0,2020-02-02,0
-,Tunisia,34.0,9.0,2020-02-01,0
-,Tunisia,34.0,9.0,2020-01-31,0
-,Tunisia,34.0,9.0,2020-01-30,0
-,Tunisia,34.0,9.0,2020-01-29,0
-,Tunisia,34.0,9.0,2020-01-28,0
-,Tunisia,34.0,9.0,2020-01-27,0
-,Tunisia,34.0,9.0,2020-01-26,0
-,Tunisia,34.0,9.0,2020-01-25,0
-,Tunisia,34.0,9.0,2020-01-24,0
-,Tunisia,34.0,9.0,2020-01-23,0
-,Tunisia,34.0,9.0,2020-01-22,0
+,Tunisia,34,9,2020-03-29,312
+,Tunisia,34,9,2020-03-28,278
+,Tunisia,34,9,2020-03-27,227
+,Tunisia,34,9,2020-03-26,197
+,Tunisia,34,9,2020-03-25,173
+,Tunisia,34,9,2020-03-24,114
+,Tunisia,34,9,2020-03-23,89
+,Tunisia,34,9,2020-03-22,75
+,Tunisia,34,9,2020-03-21,60
+,Tunisia,34,9,2020-03-20,54
+,Tunisia,34,9,2020-03-19,39
+,Tunisia,34,9,2020-03-18,29
+,Tunisia,34,9,2020-03-17,24
+,Tunisia,34,9,2020-03-16,20
+,Tunisia,34,9,2020-03-15,18
+,Tunisia,34,9,2020-03-14,18
+,Tunisia,34,9,2020-03-13,16
+,Tunisia,34,9,2020-03-12,7
+,Tunisia,34,9,2020-03-11,7
+,Tunisia,34,9,2020-03-10,5
+,Tunisia,34,9,2020-03-09,2
+,Tunisia,34,9,2020-03-08,2
+,Tunisia,34,9,2020-03-07,1
+,Tunisia,34,9,2020-03-06,1
+,Tunisia,34,9,2020-03-05,1
+,Tunisia,34,9,2020-03-04,1
+,Tunisia,34,9,2020-03-03,0
+,Tunisia,34,9,2020-03-02,0
+,Tunisia,34,9,2020-03-01,0
+,Tunisia,34,9,2020-02-29,0
+,Tunisia,34,9,2020-02-28,0
+,Tunisia,34,9,2020-02-27,0
+,Tunisia,34,9,2020-02-26,0
+,Tunisia,34,9,2020-02-25,0
+,Tunisia,34,9,2020-02-24,0
+,Tunisia,34,9,2020-02-23,0
+,Tunisia,34,9,2020-02-22,0
+,Tunisia,34,9,2020-02-21,0
+,Tunisia,34,9,2020-02-20,0
+,Tunisia,34,9,2020-02-19,0
+,Tunisia,34,9,2020-02-18,0
+,Tunisia,34,9,2020-02-17,0
+,Tunisia,34,9,2020-02-16,0
+,Tunisia,34,9,2020-02-15,0
+,Tunisia,34,9,2020-02-14,0
+,Tunisia,34,9,2020-02-13,0
+,Tunisia,34,9,2020-02-12,0
+,Tunisia,34,9,2020-02-11,0
+,Tunisia,34,9,2020-02-10,0
+,Tunisia,34,9,2020-02-09,0
+,Tunisia,34,9,2020-02-08,0
+,Tunisia,34,9,2020-02-07,0
+,Tunisia,34,9,2020-02-06,0
+,Tunisia,34,9,2020-02-05,0
+,Tunisia,34,9,2020-02-04,0
+,Tunisia,34,9,2020-02-03,0
+,Tunisia,34,9,2020-02-02,0
+,Tunisia,34,9,2020-02-01,0
+,Tunisia,34,9,2020-01-31,0
+,Tunisia,34,9,2020-01-30,0
+,Tunisia,34,9,2020-01-29,0
+,Tunisia,34,9,2020-01-28,0
+,Tunisia,34,9,2020-01-27,0
+,Tunisia,34,9,2020-01-26,0
+,Tunisia,34,9,2020-01-25,0
+,Tunisia,34,9,2020-01-24,0
+,Tunisia,34,9,2020-01-23,0
+,Tunisia,34,9,2020-01-22,0
 ,Turkey,38.9637,35.2433,2020-03-29,9217
 ,Turkey,38.9637,35.2433,2020-03-28,7402
 ,Turkey,38.9637,35.2433,2020-03-27,5698
@@ -15776,74 +15776,74 @@ Sint Maarten,Netherlands,18.0425,-63.0548,2020-01-22,0
 ,Turkey,38.9637,35.2433,2020-01-24,0
 ,Turkey,38.9637,35.2433,2020-01-23,0
 ,Turkey,38.9637,35.2433,2020-01-22,0
-,Uganda,1.0,32.0,2020-03-29,33
-,Uganda,1.0,32.0,2020-03-28,30
-,Uganda,1.0,32.0,2020-03-27,23
-,Uganda,1.0,32.0,2020-03-26,14
-,Uganda,1.0,32.0,2020-03-25,14
-,Uganda,1.0,32.0,2020-03-24,9
-,Uganda,1.0,32.0,2020-03-23,9
-,Uganda,1.0,32.0,2020-03-22,1
-,Uganda,1.0,32.0,2020-03-21,1
-,Uganda,1.0,32.0,2020-03-20,0
-,Uganda,1.0,32.0,2020-03-19,0
-,Uganda,1.0,32.0,2020-03-18,0
-,Uganda,1.0,32.0,2020-03-17,0
-,Uganda,1.0,32.0,2020-03-16,0
-,Uganda,1.0,32.0,2020-03-15,0
-,Uganda,1.0,32.0,2020-03-14,0
-,Uganda,1.0,32.0,2020-03-13,0
-,Uganda,1.0,32.0,2020-03-12,0
-,Uganda,1.0,32.0,2020-03-11,0
-,Uganda,1.0,32.0,2020-03-10,0
-,Uganda,1.0,32.0,2020-03-09,0
-,Uganda,1.0,32.0,2020-03-08,0
-,Uganda,1.0,32.0,2020-03-07,0
-,Uganda,1.0,32.0,2020-03-06,0
-,Uganda,1.0,32.0,2020-03-05,0
-,Uganda,1.0,32.0,2020-03-04,0
-,Uganda,1.0,32.0,2020-03-03,0
-,Uganda,1.0,32.0,2020-03-02,0
-,Uganda,1.0,32.0,2020-03-01,0
-,Uganda,1.0,32.0,2020-02-29,0
-,Uganda,1.0,32.0,2020-02-28,0
-,Uganda,1.0,32.0,2020-02-27,0
-,Uganda,1.0,32.0,2020-02-26,0
-,Uganda,1.0,32.0,2020-02-25,0
-,Uganda,1.0,32.0,2020-02-24,0
-,Uganda,1.0,32.0,2020-02-23,0
-,Uganda,1.0,32.0,2020-02-22,0
-,Uganda,1.0,32.0,2020-02-21,0
-,Uganda,1.0,32.0,2020-02-20,0
-,Uganda,1.0,32.0,2020-02-19,0
-,Uganda,1.0,32.0,2020-02-18,0
-,Uganda,1.0,32.0,2020-02-17,0
-,Uganda,1.0,32.0,2020-02-16,0
-,Uganda,1.0,32.0,2020-02-15,0
-,Uganda,1.0,32.0,2020-02-14,0
-,Uganda,1.0,32.0,2020-02-13,0
-,Uganda,1.0,32.0,2020-02-12,0
-,Uganda,1.0,32.0,2020-02-11,0
-,Uganda,1.0,32.0,2020-02-10,0
-,Uganda,1.0,32.0,2020-02-09,0
-,Uganda,1.0,32.0,2020-02-08,0
-,Uganda,1.0,32.0,2020-02-07,0
-,Uganda,1.0,32.0,2020-02-06,0
-,Uganda,1.0,32.0,2020-02-05,0
-,Uganda,1.0,32.0,2020-02-04,0
-,Uganda,1.0,32.0,2020-02-03,0
-,Uganda,1.0,32.0,2020-02-02,0
-,Uganda,1.0,32.0,2020-02-01,0
-,Uganda,1.0,32.0,2020-01-31,0
-,Uganda,1.0,32.0,2020-01-30,0
-,Uganda,1.0,32.0,2020-01-29,0
-,Uganda,1.0,32.0,2020-01-28,0
-,Uganda,1.0,32.0,2020-01-27,0
-,Uganda,1.0,32.0,2020-01-26,0
-,Uganda,1.0,32.0,2020-01-25,0
-,Uganda,1.0,32.0,2020-01-24,0
-,Uganda,1.0,32.0,2020-01-23,0
-,Uganda,1.0,32.0,2020-01-22,0
+,Uganda,1,32,2020-03-29,33
+,Uganda,1,32,2020-03-28,30
+,Uganda,1,32,2020-03-27,23
+,Uganda,1,32,2020-03-26,14
+,Uganda,1,32,2020-03-25,14
+,Uganda,1,32,2020-03-24,9
+,Uganda,1,32,2020-03-23,9
+,Uganda,1,32,2020-03-22,1
+,Uganda,1,32,2020-03-21,1
+,Uganda,1,32,2020-03-20,0
+,Uganda,1,32,2020-03-19,0
+,Uganda,1,32,2020-03-18,0
+,Uganda,1,32,2020-03-17,0
+,Uganda,1,32,2020-03-16,0
+,Uganda,1,32,2020-03-15,0
+,Uganda,1,32,2020-03-14,0
+,Uganda,1,32,2020-03-13,0
+,Uganda,1,32,2020-03-12,0
+,Uganda,1,32,2020-03-11,0
+,Uganda,1,32,2020-03-10,0
+,Uganda,1,32,2020-03-09,0
+,Uganda,1,32,2020-03-08,0
+,Uganda,1,32,2020-03-07,0
+,Uganda,1,32,2020-03-06,0
+,Uganda,1,32,2020-03-05,0
+,Uganda,1,32,2020-03-04,0
+,Uganda,1,32,2020-03-03,0
+,Uganda,1,32,2020-03-02,0
+,Uganda,1,32,2020-03-01,0
+,Uganda,1,32,2020-02-29,0
+,Uganda,1,32,2020-02-28,0
+,Uganda,1,32,2020-02-27,0
+,Uganda,1,32,2020-02-26,0
+,Uganda,1,32,2020-02-25,0
+,Uganda,1,32,2020-02-24,0
+,Uganda,1,32,2020-02-23,0
+,Uganda,1,32,2020-02-22,0
+,Uganda,1,32,2020-02-21,0
+,Uganda,1,32,2020-02-20,0
+,Uganda,1,32,2020-02-19,0
+,Uganda,1,32,2020-02-18,0
+,Uganda,1,32,2020-02-17,0
+,Uganda,1,32,2020-02-16,0
+,Uganda,1,32,2020-02-15,0
+,Uganda,1,32,2020-02-14,0
+,Uganda,1,32,2020-02-13,0
+,Uganda,1,32,2020-02-12,0
+,Uganda,1,32,2020-02-11,0
+,Uganda,1,32,2020-02-10,0
+,Uganda,1,32,2020-02-09,0
+,Uganda,1,32,2020-02-08,0
+,Uganda,1,32,2020-02-07,0
+,Uganda,1,32,2020-02-06,0
+,Uganda,1,32,2020-02-05,0
+,Uganda,1,32,2020-02-04,0
+,Uganda,1,32,2020-02-03,0
+,Uganda,1,32,2020-02-02,0
+,Uganda,1,32,2020-02-01,0
+,Uganda,1,32,2020-01-31,0
+,Uganda,1,32,2020-01-30,0
+,Uganda,1,32,2020-01-29,0
+,Uganda,1,32,2020-01-28,0
+,Uganda,1,32,2020-01-27,0
+,Uganda,1,32,2020-01-26,0
+,Uganda,1,32,2020-01-25,0
+,Uganda,1,32,2020-01-24,0
+,Uganda,1,32,2020-01-23,0
+,Uganda,1,32,2020-01-22,0
 ,Ukraine,48.3794,31.1656,2020-03-29,475
 ,Ukraine,48.3794,31.1656,2020-03-28,356
 ,Ukraine,48.3794,31.1656,2020-03-27,310
@@ -15912,142 +15912,142 @@ Sint Maarten,Netherlands,18.0425,-63.0548,2020-01-22,0
 ,Ukraine,48.3794,31.1656,2020-01-24,0
 ,Ukraine,48.3794,31.1656,2020-01-23,0
 ,Ukraine,48.3794,31.1656,2020-01-22,0
-,United Arab Emirates,24.0,54.0,2020-03-29,570
-,United Arab Emirates,24.0,54.0,2020-03-28,468
-,United Arab Emirates,24.0,54.0,2020-03-27,405
-,United Arab Emirates,24.0,54.0,2020-03-26,333
-,United Arab Emirates,24.0,54.0,2020-03-25,333
-,United Arab Emirates,24.0,54.0,2020-03-24,248
-,United Arab Emirates,24.0,54.0,2020-03-23,198
-,United Arab Emirates,24.0,54.0,2020-03-22,153
-,United Arab Emirates,24.0,54.0,2020-03-21,153
-,United Arab Emirates,24.0,54.0,2020-03-20,140
-,United Arab Emirates,24.0,54.0,2020-03-19,140
-,United Arab Emirates,24.0,54.0,2020-03-18,113
-,United Arab Emirates,24.0,54.0,2020-03-17,98
-,United Arab Emirates,24.0,54.0,2020-03-16,98
-,United Arab Emirates,24.0,54.0,2020-03-15,98
-,United Arab Emirates,24.0,54.0,2020-03-14,85
-,United Arab Emirates,24.0,54.0,2020-03-13,85
-,United Arab Emirates,24.0,54.0,2020-03-12,85
-,United Arab Emirates,24.0,54.0,2020-03-11,74
-,United Arab Emirates,24.0,54.0,2020-03-10,74
-,United Arab Emirates,24.0,54.0,2020-03-09,45
-,United Arab Emirates,24.0,54.0,2020-03-08,45
-,United Arab Emirates,24.0,54.0,2020-03-07,45
-,United Arab Emirates,24.0,54.0,2020-03-06,29
-,United Arab Emirates,24.0,54.0,2020-03-05,29
-,United Arab Emirates,24.0,54.0,2020-03-04,27
-,United Arab Emirates,24.0,54.0,2020-03-03,27
-,United Arab Emirates,24.0,54.0,2020-03-02,21
-,United Arab Emirates,24.0,54.0,2020-03-01,21
-,United Arab Emirates,24.0,54.0,2020-02-29,21
-,United Arab Emirates,24.0,54.0,2020-02-28,19
-,United Arab Emirates,24.0,54.0,2020-02-27,13
-,United Arab Emirates,24.0,54.0,2020-02-26,13
-,United Arab Emirates,24.0,54.0,2020-02-25,13
-,United Arab Emirates,24.0,54.0,2020-02-24,13
-,United Arab Emirates,24.0,54.0,2020-02-23,13
-,United Arab Emirates,24.0,54.0,2020-02-22,13
-,United Arab Emirates,24.0,54.0,2020-02-21,9
-,United Arab Emirates,24.0,54.0,2020-02-20,9
-,United Arab Emirates,24.0,54.0,2020-02-19,9
-,United Arab Emirates,24.0,54.0,2020-02-18,9
-,United Arab Emirates,24.0,54.0,2020-02-17,9
-,United Arab Emirates,24.0,54.0,2020-02-16,9
-,United Arab Emirates,24.0,54.0,2020-02-15,8
-,United Arab Emirates,24.0,54.0,2020-02-14,8
-,United Arab Emirates,24.0,54.0,2020-02-13,8
-,United Arab Emirates,24.0,54.0,2020-02-12,8
-,United Arab Emirates,24.0,54.0,2020-02-11,8
-,United Arab Emirates,24.0,54.0,2020-02-10,8
-,United Arab Emirates,24.0,54.0,2020-02-09,7
-,United Arab Emirates,24.0,54.0,2020-02-08,7
-,United Arab Emirates,24.0,54.0,2020-02-07,5
-,United Arab Emirates,24.0,54.0,2020-02-06,5
-,United Arab Emirates,24.0,54.0,2020-02-05,5
-,United Arab Emirates,24.0,54.0,2020-02-04,5
-,United Arab Emirates,24.0,54.0,2020-02-03,5
-,United Arab Emirates,24.0,54.0,2020-02-02,5
-,United Arab Emirates,24.0,54.0,2020-02-01,4
-,United Arab Emirates,24.0,54.0,2020-01-31,4
-,United Arab Emirates,24.0,54.0,2020-01-30,4
-,United Arab Emirates,24.0,54.0,2020-01-29,4
-,United Arab Emirates,24.0,54.0,2020-01-28,0
-,United Arab Emirates,24.0,54.0,2020-01-27,0
-,United Arab Emirates,24.0,54.0,2020-01-26,0
-,United Arab Emirates,24.0,54.0,2020-01-25,0
-,United Arab Emirates,24.0,54.0,2020-01-24,0
-,United Arab Emirates,24.0,54.0,2020-01-23,0
-,United Arab Emirates,24.0,54.0,2020-01-22,0
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-29,19522
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-28,17089
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-27,14543
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-26,11658
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-25,9529
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-24,8077
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-23,6650
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-22,5683
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-21,5018
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-20,3983
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-19,2689
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-18,2626
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-17,1950
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-16,1543
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-15,1140
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-14,1140
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-13,798
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-12,456
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-11,456
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-10,382
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-09,321
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-08,273
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-07,206
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-06,163
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-05,115
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-04,85
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-03,51
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-02,40
-,United Kingdom,55.3781,-3.4360000000000004,2020-03-01,36
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-29,23
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-28,20
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-27,15
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-26,13
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-25,13
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-24,13
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-23,9
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-22,9
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-21,9
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-20,9
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-19,9
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-18,9
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-17,9
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-16,9
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-15,9
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-14,9
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-13,9
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-12,9
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-11,8
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-10,8
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-09,3
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-08,3
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-07,3
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-06,2
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-05,2
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-04,2
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-03,2
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-02,2
-,United Kingdom,55.3781,-3.4360000000000004,2020-02-01,2
-,United Kingdom,55.3781,-3.4360000000000004,2020-01-31,2
-,United Kingdom,55.3781,-3.4360000000000004,2020-01-30,0
-,United Kingdom,55.3781,-3.4360000000000004,2020-01-29,0
-,United Kingdom,55.3781,-3.4360000000000004,2020-01-28,0
-,United Kingdom,55.3781,-3.4360000000000004,2020-01-27,0
-,United Kingdom,55.3781,-3.4360000000000004,2020-01-26,0
-,United Kingdom,55.3781,-3.4360000000000004,2020-01-25,0
-,United Kingdom,55.3781,-3.4360000000000004,2020-01-24,0
-,United Kingdom,55.3781,-3.4360000000000004,2020-01-23,0
-,United Kingdom,55.3781,-3.4360000000000004,2020-01-22,0
+,United Arab Emirates,24,54,2020-03-29,570
+,United Arab Emirates,24,54,2020-03-28,468
+,United Arab Emirates,24,54,2020-03-27,405
+,United Arab Emirates,24,54,2020-03-26,333
+,United Arab Emirates,24,54,2020-03-25,333
+,United Arab Emirates,24,54,2020-03-24,248
+,United Arab Emirates,24,54,2020-03-23,198
+,United Arab Emirates,24,54,2020-03-22,153
+,United Arab Emirates,24,54,2020-03-21,153
+,United Arab Emirates,24,54,2020-03-20,140
+,United Arab Emirates,24,54,2020-03-19,140
+,United Arab Emirates,24,54,2020-03-18,113
+,United Arab Emirates,24,54,2020-03-17,98
+,United Arab Emirates,24,54,2020-03-16,98
+,United Arab Emirates,24,54,2020-03-15,98
+,United Arab Emirates,24,54,2020-03-14,85
+,United Arab Emirates,24,54,2020-03-13,85
+,United Arab Emirates,24,54,2020-03-12,85
+,United Arab Emirates,24,54,2020-03-11,74
+,United Arab Emirates,24,54,2020-03-10,74
+,United Arab Emirates,24,54,2020-03-09,45
+,United Arab Emirates,24,54,2020-03-08,45
+,United Arab Emirates,24,54,2020-03-07,45
+,United Arab Emirates,24,54,2020-03-06,29
+,United Arab Emirates,24,54,2020-03-05,29
+,United Arab Emirates,24,54,2020-03-04,27
+,United Arab Emirates,24,54,2020-03-03,27
+,United Arab Emirates,24,54,2020-03-02,21
+,United Arab Emirates,24,54,2020-03-01,21
+,United Arab Emirates,24,54,2020-02-29,21
+,United Arab Emirates,24,54,2020-02-28,19
+,United Arab Emirates,24,54,2020-02-27,13
+,United Arab Emirates,24,54,2020-02-26,13
+,United Arab Emirates,24,54,2020-02-25,13
+,United Arab Emirates,24,54,2020-02-24,13
+,United Arab Emirates,24,54,2020-02-23,13
+,United Arab Emirates,24,54,2020-02-22,13
+,United Arab Emirates,24,54,2020-02-21,9
+,United Arab Emirates,24,54,2020-02-20,9
+,United Arab Emirates,24,54,2020-02-19,9
+,United Arab Emirates,24,54,2020-02-18,9
+,United Arab Emirates,24,54,2020-02-17,9
+,United Arab Emirates,24,54,2020-02-16,9
+,United Arab Emirates,24,54,2020-02-15,8
+,United Arab Emirates,24,54,2020-02-14,8
+,United Arab Emirates,24,54,2020-02-13,8
+,United Arab Emirates,24,54,2020-02-12,8
+,United Arab Emirates,24,54,2020-02-11,8
+,United Arab Emirates,24,54,2020-02-10,8
+,United Arab Emirates,24,54,2020-02-09,7
+,United Arab Emirates,24,54,2020-02-08,7
+,United Arab Emirates,24,54,2020-02-07,5
+,United Arab Emirates,24,54,2020-02-06,5
+,United Arab Emirates,24,54,2020-02-05,5
+,United Arab Emirates,24,54,2020-02-04,5
+,United Arab Emirates,24,54,2020-02-03,5
+,United Arab Emirates,24,54,2020-02-02,5
+,United Arab Emirates,24,54,2020-02-01,4
+,United Arab Emirates,24,54,2020-01-31,4
+,United Arab Emirates,24,54,2020-01-30,4
+,United Arab Emirates,24,54,2020-01-29,4
+,United Arab Emirates,24,54,2020-01-28,0
+,United Arab Emirates,24,54,2020-01-27,0
+,United Arab Emirates,24,54,2020-01-26,0
+,United Arab Emirates,24,54,2020-01-25,0
+,United Arab Emirates,24,54,2020-01-24,0
+,United Arab Emirates,24,54,2020-01-23,0
+,United Arab Emirates,24,54,2020-01-22,0
+,United Kingdom,55.3781,-3.436,2020-03-29,19522
+,United Kingdom,55.3781,-3.436,2020-03-28,17089
+,United Kingdom,55.3781,-3.436,2020-03-27,14543
+,United Kingdom,55.3781,-3.436,2020-03-26,11658
+,United Kingdom,55.3781,-3.436,2020-03-25,9529
+,United Kingdom,55.3781,-3.436,2020-03-24,8077
+,United Kingdom,55.3781,-3.436,2020-03-23,6650
+,United Kingdom,55.3781,-3.436,2020-03-22,5683
+,United Kingdom,55.3781,-3.436,2020-03-21,5018
+,United Kingdom,55.3781,-3.436,2020-03-20,3983
+,United Kingdom,55.3781,-3.436,2020-03-19,2689
+,United Kingdom,55.3781,-3.436,2020-03-18,2626
+,United Kingdom,55.3781,-3.436,2020-03-17,1950
+,United Kingdom,55.3781,-3.436,2020-03-16,1543
+,United Kingdom,55.3781,-3.436,2020-03-15,1140
+,United Kingdom,55.3781,-3.436,2020-03-14,1140
+,United Kingdom,55.3781,-3.436,2020-03-13,798
+,United Kingdom,55.3781,-3.436,2020-03-12,456
+,United Kingdom,55.3781,-3.436,2020-03-11,456
+,United Kingdom,55.3781,-3.436,2020-03-10,382
+,United Kingdom,55.3781,-3.436,2020-03-09,321
+,United Kingdom,55.3781,-3.436,2020-03-08,273
+,United Kingdom,55.3781,-3.436,2020-03-07,206
+,United Kingdom,55.3781,-3.436,2020-03-06,163
+,United Kingdom,55.3781,-3.436,2020-03-05,115
+,United Kingdom,55.3781,-3.436,2020-03-04,85
+,United Kingdom,55.3781,-3.436,2020-03-03,51
+,United Kingdom,55.3781,-3.436,2020-03-02,40
+,United Kingdom,55.3781,-3.436,2020-03-01,36
+,United Kingdom,55.3781,-3.436,2020-02-29,23
+,United Kingdom,55.3781,-3.436,2020-02-28,20
+,United Kingdom,55.3781,-3.436,2020-02-27,15
+,United Kingdom,55.3781,-3.436,2020-02-26,13
+,United Kingdom,55.3781,-3.436,2020-02-25,13
+,United Kingdom,55.3781,-3.436,2020-02-24,13
+,United Kingdom,55.3781,-3.436,2020-02-23,9
+,United Kingdom,55.3781,-3.436,2020-02-22,9
+,United Kingdom,55.3781,-3.436,2020-02-21,9
+,United Kingdom,55.3781,-3.436,2020-02-20,9
+,United Kingdom,55.3781,-3.436,2020-02-19,9
+,United Kingdom,55.3781,-3.436,2020-02-18,9
+,United Kingdom,55.3781,-3.436,2020-02-17,9
+,United Kingdom,55.3781,-3.436,2020-02-16,9
+,United Kingdom,55.3781,-3.436,2020-02-15,9
+,United Kingdom,55.3781,-3.436,2020-02-14,9
+,United Kingdom,55.3781,-3.436,2020-02-13,9
+,United Kingdom,55.3781,-3.436,2020-02-12,9
+,United Kingdom,55.3781,-3.436,2020-02-11,8
+,United Kingdom,55.3781,-3.436,2020-02-10,8
+,United Kingdom,55.3781,-3.436,2020-02-09,3
+,United Kingdom,55.3781,-3.436,2020-02-08,3
+,United Kingdom,55.3781,-3.436,2020-02-07,3
+,United Kingdom,55.3781,-3.436,2020-02-06,2
+,United Kingdom,55.3781,-3.436,2020-02-05,2
+,United Kingdom,55.3781,-3.436,2020-02-04,2
+,United Kingdom,55.3781,-3.436,2020-02-03,2
+,United Kingdom,55.3781,-3.436,2020-02-02,2
+,United Kingdom,55.3781,-3.436,2020-02-01,2
+,United Kingdom,55.3781,-3.436,2020-01-31,2
+,United Kingdom,55.3781,-3.436,2020-01-30,0
+,United Kingdom,55.3781,-3.436,2020-01-29,0
+,United Kingdom,55.3781,-3.436,2020-01-28,0
+,United Kingdom,55.3781,-3.436,2020-01-27,0
+,United Kingdom,55.3781,-3.436,2020-01-26,0
+,United Kingdom,55.3781,-3.436,2020-01-25,0
+,United Kingdom,55.3781,-3.436,2020-01-24,0
+,United Kingdom,55.3781,-3.436,2020-01-23,0
+,United Kingdom,55.3781,-3.436,2020-01-22,0
 Anguilla,United Kingdom,18.2206,-63.0686,2020-03-29,2
 Anguilla,United Kingdom,18.2206,-63.0686,2020-03-28,2
 Anguilla,United Kingdom,18.2206,-63.0686,2020-03-27,0
@@ -16592,74 +16592,74 @@ Montserrat,United Kingdom,16.7425,-62.1874,2020-01-25,0
 Montserrat,United Kingdom,16.7425,-62.1874,2020-01-24,0
 Montserrat,United Kingdom,16.7425,-62.1874,2020-01-23,0
 Montserrat,United Kingdom,16.7425,-62.1874,2020-01-22,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-29,4
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-28,4
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-27,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-26,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-25,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-24,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-23,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-22,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-21,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-20,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-19,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-18,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-17,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-16,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-15,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-14,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-13,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-12,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-11,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-10,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-09,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-08,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-07,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-06,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-05,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-04,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-03,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-02,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-03-01,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-29,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-28,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-27,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-26,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-25,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-24,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-23,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-22,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-21,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-20,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-19,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-18,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-17,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-16,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-15,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-14,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-13,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-12,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-11,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-10,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-09,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-08,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-07,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-06,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-05,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-04,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-03,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-02,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-02-01,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-01-31,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-01-30,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-01-29,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-01-28,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-01-27,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-01-26,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-01-25,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-01-24,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-01-23,0
-Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-01-22,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-29,4
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-28,4
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-27,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-26,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-25,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-24,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-23,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-22,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-21,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-20,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-19,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-18,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-17,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-16,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-15,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-14,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-13,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-12,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-11,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-10,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-09,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-08,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-07,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-06,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-05,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-04,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-03,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-02,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-03-01,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-29,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-28,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-27,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-26,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-25,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-24,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-23,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-22,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-21,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-20,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-19,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-18,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-17,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-16,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-15,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-14,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-13,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-12,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-11,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-10,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-09,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-08,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-07,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-06,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-05,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-04,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-03,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-02,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-02-01,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-01-31,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-01-30,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-01-29,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-01-28,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-01-27,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-01-26,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-01-25,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-01-24,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-01-23,0
+Turks and Caicos Islands,United Kingdom,21.694,-71.7979,2020-01-22,0
 ,Uruguay,-32.5228,-55.7658,2020-03-29,304
 ,Uruguay,-32.5228,-55.7658,2020-03-28,274
 ,Uruguay,-32.5228,-55.7658,2020-03-27,238
@@ -16932,74 +16932,74 @@ Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-01-22,0
 ,Venezuela,6.4238,-66.5897,2020-01-24,0
 ,Venezuela,6.4238,-66.5897,2020-01-23,0
 ,Venezuela,6.4238,-66.5897,2020-01-22,0
-,Vietnam,16.0,108.0,2020-03-29,188
-,Vietnam,16.0,108.0,2020-03-28,174
-,Vietnam,16.0,108.0,2020-03-27,163
-,Vietnam,16.0,108.0,2020-03-26,153
-,Vietnam,16.0,108.0,2020-03-25,141
-,Vietnam,16.0,108.0,2020-03-24,134
-,Vietnam,16.0,108.0,2020-03-23,123
-,Vietnam,16.0,108.0,2020-03-22,113
-,Vietnam,16.0,108.0,2020-03-21,94
-,Vietnam,16.0,108.0,2020-03-20,91
-,Vietnam,16.0,108.0,2020-03-19,85
-,Vietnam,16.0,108.0,2020-03-18,75
-,Vietnam,16.0,108.0,2020-03-17,66
-,Vietnam,16.0,108.0,2020-03-16,61
-,Vietnam,16.0,108.0,2020-03-15,56
-,Vietnam,16.0,108.0,2020-03-14,53
-,Vietnam,16.0,108.0,2020-03-13,47
-,Vietnam,16.0,108.0,2020-03-12,39
-,Vietnam,16.0,108.0,2020-03-11,38
-,Vietnam,16.0,108.0,2020-03-10,31
-,Vietnam,16.0,108.0,2020-03-09,30
-,Vietnam,16.0,108.0,2020-03-08,30
-,Vietnam,16.0,108.0,2020-03-07,18
-,Vietnam,16.0,108.0,2020-03-06,16
-,Vietnam,16.0,108.0,2020-03-05,16
-,Vietnam,16.0,108.0,2020-03-04,16
-,Vietnam,16.0,108.0,2020-03-03,16
-,Vietnam,16.0,108.0,2020-03-02,16
-,Vietnam,16.0,108.0,2020-03-01,16
-,Vietnam,16.0,108.0,2020-02-29,16
-,Vietnam,16.0,108.0,2020-02-28,16
-,Vietnam,16.0,108.0,2020-02-27,16
-,Vietnam,16.0,108.0,2020-02-26,16
-,Vietnam,16.0,108.0,2020-02-25,16
-,Vietnam,16.0,108.0,2020-02-24,16
-,Vietnam,16.0,108.0,2020-02-23,16
-,Vietnam,16.0,108.0,2020-02-22,16
-,Vietnam,16.0,108.0,2020-02-21,16
-,Vietnam,16.0,108.0,2020-02-20,16
-,Vietnam,16.0,108.0,2020-02-19,16
-,Vietnam,16.0,108.0,2020-02-18,16
-,Vietnam,16.0,108.0,2020-02-17,16
-,Vietnam,16.0,108.0,2020-02-16,16
-,Vietnam,16.0,108.0,2020-02-15,16
-,Vietnam,16.0,108.0,2020-02-14,16
-,Vietnam,16.0,108.0,2020-02-13,16
-,Vietnam,16.0,108.0,2020-02-12,15
-,Vietnam,16.0,108.0,2020-02-11,15
-,Vietnam,16.0,108.0,2020-02-10,14
-,Vietnam,16.0,108.0,2020-02-09,13
-,Vietnam,16.0,108.0,2020-02-08,13
-,Vietnam,16.0,108.0,2020-02-07,10
-,Vietnam,16.0,108.0,2020-02-06,10
-,Vietnam,16.0,108.0,2020-02-05,8
-,Vietnam,16.0,108.0,2020-02-04,8
-,Vietnam,16.0,108.0,2020-02-03,8
-,Vietnam,16.0,108.0,2020-02-02,6
-,Vietnam,16.0,108.0,2020-02-01,6
-,Vietnam,16.0,108.0,2020-01-31,2
-,Vietnam,16.0,108.0,2020-01-30,2
-,Vietnam,16.0,108.0,2020-01-29,2
-,Vietnam,16.0,108.0,2020-01-28,2
-,Vietnam,16.0,108.0,2020-01-27,2
-,Vietnam,16.0,108.0,2020-01-26,2
-,Vietnam,16.0,108.0,2020-01-25,2
-,Vietnam,16.0,108.0,2020-01-24,2
-,Vietnam,16.0,108.0,2020-01-23,2
-,Vietnam,16.0,108.0,2020-01-22,0
+,Vietnam,16,108,2020-03-29,188
+,Vietnam,16,108,2020-03-28,174
+,Vietnam,16,108,2020-03-27,163
+,Vietnam,16,108,2020-03-26,153
+,Vietnam,16,108,2020-03-25,141
+,Vietnam,16,108,2020-03-24,134
+,Vietnam,16,108,2020-03-23,123
+,Vietnam,16,108,2020-03-22,113
+,Vietnam,16,108,2020-03-21,94
+,Vietnam,16,108,2020-03-20,91
+,Vietnam,16,108,2020-03-19,85
+,Vietnam,16,108,2020-03-18,75
+,Vietnam,16,108,2020-03-17,66
+,Vietnam,16,108,2020-03-16,61
+,Vietnam,16,108,2020-03-15,56
+,Vietnam,16,108,2020-03-14,53
+,Vietnam,16,108,2020-03-13,47
+,Vietnam,16,108,2020-03-12,39
+,Vietnam,16,108,2020-03-11,38
+,Vietnam,16,108,2020-03-10,31
+,Vietnam,16,108,2020-03-09,30
+,Vietnam,16,108,2020-03-08,30
+,Vietnam,16,108,2020-03-07,18
+,Vietnam,16,108,2020-03-06,16
+,Vietnam,16,108,2020-03-05,16
+,Vietnam,16,108,2020-03-04,16
+,Vietnam,16,108,2020-03-03,16
+,Vietnam,16,108,2020-03-02,16
+,Vietnam,16,108,2020-03-01,16
+,Vietnam,16,108,2020-02-29,16
+,Vietnam,16,108,2020-02-28,16
+,Vietnam,16,108,2020-02-27,16
+,Vietnam,16,108,2020-02-26,16
+,Vietnam,16,108,2020-02-25,16
+,Vietnam,16,108,2020-02-24,16
+,Vietnam,16,108,2020-02-23,16
+,Vietnam,16,108,2020-02-22,16
+,Vietnam,16,108,2020-02-21,16
+,Vietnam,16,108,2020-02-20,16
+,Vietnam,16,108,2020-02-19,16
+,Vietnam,16,108,2020-02-18,16
+,Vietnam,16,108,2020-02-17,16
+,Vietnam,16,108,2020-02-16,16
+,Vietnam,16,108,2020-02-15,16
+,Vietnam,16,108,2020-02-14,16
+,Vietnam,16,108,2020-02-13,16
+,Vietnam,16,108,2020-02-12,15
+,Vietnam,16,108,2020-02-11,15
+,Vietnam,16,108,2020-02-10,14
+,Vietnam,16,108,2020-02-09,13
+,Vietnam,16,108,2020-02-08,13
+,Vietnam,16,108,2020-02-07,10
+,Vietnam,16,108,2020-02-06,10
+,Vietnam,16,108,2020-02-05,8
+,Vietnam,16,108,2020-02-04,8
+,Vietnam,16,108,2020-02-03,8
+,Vietnam,16,108,2020-02-02,6
+,Vietnam,16,108,2020-02-01,6
+,Vietnam,16,108,2020-01-31,2
+,Vietnam,16,108,2020-01-30,2
+,Vietnam,16,108,2020-01-29,2
+,Vietnam,16,108,2020-01-28,2
+,Vietnam,16,108,2020-01-27,2
+,Vietnam,16,108,2020-01-26,2
+,Vietnam,16,108,2020-01-25,2
+,Vietnam,16,108,2020-01-24,2
+,Vietnam,16,108,2020-01-23,2
+,Vietnam,16,108,2020-01-22,0
 ,West Bank and Gaza,31.9522,35.2332,2020-03-29,109
 ,West Bank and Gaza,31.9522,35.2332,2020-03-28,98
 ,West Bank and Gaza,31.9522,35.2332,2020-03-27,91
@@ -17136,71 +17136,71 @@ Turks and Caicos Islands,United Kingdom,21.69400000000001,-71.7979,2020-01-22,0
 ,Zambia,-15.4167,28.2833,2020-01-24,0
 ,Zambia,-15.4167,28.2833,2020-01-23,0
 ,Zambia,-15.4167,28.2833,2020-01-22,0
-,Zimbabwe,-20.0,30.0,2020-03-29,7
-,Zimbabwe,-20.0,30.0,2020-03-28,7
-,Zimbabwe,-20.0,30.0,2020-03-27,5
-,Zimbabwe,-20.0,30.0,2020-03-26,3
-,Zimbabwe,-20.0,30.0,2020-03-25,3
-,Zimbabwe,-20.0,30.0,2020-03-24,3
-,Zimbabwe,-20.0,30.0,2020-03-23,3
-,Zimbabwe,-20.0,30.0,2020-03-22,3
-,Zimbabwe,-20.0,30.0,2020-03-21,3
-,Zimbabwe,-20.0,30.0,2020-03-20,1
-,Zimbabwe,-20.0,30.0,2020-03-19,0
-,Zimbabwe,-20.0,30.0,2020-03-18,0
-,Zimbabwe,-20.0,30.0,2020-03-17,0
-,Zimbabwe,-20.0,30.0,2020-03-16,0
-,Zimbabwe,-20.0,30.0,2020-03-15,0
-,Zimbabwe,-20.0,30.0,2020-03-14,0
-,Zimbabwe,-20.0,30.0,2020-03-13,0
-,Zimbabwe,-20.0,30.0,2020-03-12,0
-,Zimbabwe,-20.0,30.0,2020-03-11,0
-,Zimbabwe,-20.0,30.0,2020-03-10,0
-,Zimbabwe,-20.0,30.0,2020-03-09,0
-,Zimbabwe,-20.0,30.0,2020-03-08,0
-,Zimbabwe,-20.0,30.0,2020-03-07,0
-,Zimbabwe,-20.0,30.0,2020-03-06,0
-,Zimbabwe,-20.0,30.0,2020-03-05,0
-,Zimbabwe,-20.0,30.0,2020-03-04,0
-,Zimbabwe,-20.0,30.0,2020-03-03,0
-,Zimbabwe,-20.0,30.0,2020-03-02,0
-,Zimbabwe,-20.0,30.0,2020-03-01,0
-,Zimbabwe,-20.0,30.0,2020-02-29,0
-,Zimbabwe,-20.0,30.0,2020-02-28,0
-,Zimbabwe,-20.0,30.0,2020-02-27,0
-,Zimbabwe,-20.0,30.0,2020-02-26,0
-,Zimbabwe,-20.0,30.0,2020-02-25,0
-,Zimbabwe,-20.0,30.0,2020-02-24,0
-,Zimbabwe,-20.0,30.0,2020-02-23,0
-,Zimbabwe,-20.0,30.0,2020-02-22,0
-,Zimbabwe,-20.0,30.0,2020-02-21,0
-,Zimbabwe,-20.0,30.0,2020-02-20,0
-,Zimbabwe,-20.0,30.0,2020-02-19,0
-,Zimbabwe,-20.0,30.0,2020-02-18,0
-,Zimbabwe,-20.0,30.0,2020-02-17,0
-,Zimbabwe,-20.0,30.0,2020-02-16,0
-,Zimbabwe,-20.0,30.0,2020-02-15,0
-,Zimbabwe,-20.0,30.0,2020-02-14,0
-,Zimbabwe,-20.0,30.0,2020-02-13,0
-,Zimbabwe,-20.0,30.0,2020-02-12,0
-,Zimbabwe,-20.0,30.0,2020-02-11,0
-,Zimbabwe,-20.0,30.0,2020-02-10,0
-,Zimbabwe,-20.0,30.0,2020-02-09,0
-,Zimbabwe,-20.0,30.0,2020-02-08,0
-,Zimbabwe,-20.0,30.0,2020-02-07,0
-,Zimbabwe,-20.0,30.0,2020-02-06,0
-,Zimbabwe,-20.0,30.0,2020-02-05,0
-,Zimbabwe,-20.0,30.0,2020-02-04,0
-,Zimbabwe,-20.0,30.0,2020-02-03,0
-,Zimbabwe,-20.0,30.0,2020-02-02,0
-,Zimbabwe,-20.0,30.0,2020-02-01,0
-,Zimbabwe,-20.0,30.0,2020-01-31,0
-,Zimbabwe,-20.0,30.0,2020-01-30,0
-,Zimbabwe,-20.0,30.0,2020-01-29,0
-,Zimbabwe,-20.0,30.0,2020-01-28,0
-,Zimbabwe,-20.0,30.0,2020-01-27,0
-,Zimbabwe,-20.0,30.0,2020-01-26,0
-,Zimbabwe,-20.0,30.0,2020-01-25,0
-,Zimbabwe,-20.0,30.0,2020-01-24,0
-,Zimbabwe,-20.0,30.0,2020-01-23,0
-,Zimbabwe,-20.0,30.0,2020-01-22,0
+,Zimbabwe,-20,30,2020-03-29,7
+,Zimbabwe,-20,30,2020-03-28,7
+,Zimbabwe,-20,30,2020-03-27,5
+,Zimbabwe,-20,30,2020-03-26,3
+,Zimbabwe,-20,30,2020-03-25,3
+,Zimbabwe,-20,30,2020-03-24,3
+,Zimbabwe,-20,30,2020-03-23,3
+,Zimbabwe,-20,30,2020-03-22,3
+,Zimbabwe,-20,30,2020-03-21,3
+,Zimbabwe,-20,30,2020-03-20,1
+,Zimbabwe,-20,30,2020-03-19,0
+,Zimbabwe,-20,30,2020-03-18,0
+,Zimbabwe,-20,30,2020-03-17,0
+,Zimbabwe,-20,30,2020-03-16,0
+,Zimbabwe,-20,30,2020-03-15,0
+,Zimbabwe,-20,30,2020-03-14,0
+,Zimbabwe,-20,30,2020-03-13,0
+,Zimbabwe,-20,30,2020-03-12,0
+,Zimbabwe,-20,30,2020-03-11,0
+,Zimbabwe,-20,30,2020-03-10,0
+,Zimbabwe,-20,30,2020-03-09,0
+,Zimbabwe,-20,30,2020-03-08,0
+,Zimbabwe,-20,30,2020-03-07,0
+,Zimbabwe,-20,30,2020-03-06,0
+,Zimbabwe,-20,30,2020-03-05,0
+,Zimbabwe,-20,30,2020-03-04,0
+,Zimbabwe,-20,30,2020-03-03,0
+,Zimbabwe,-20,30,2020-03-02,0
+,Zimbabwe,-20,30,2020-03-01,0
+,Zimbabwe,-20,30,2020-02-29,0
+,Zimbabwe,-20,30,2020-02-28,0
+,Zimbabwe,-20,30,2020-02-27,0
+,Zimbabwe,-20,30,2020-02-26,0
+,Zimbabwe,-20,30,2020-02-25,0
+,Zimbabwe,-20,30,2020-02-24,0
+,Zimbabwe,-20,30,2020-02-23,0
+,Zimbabwe,-20,30,2020-02-22,0
+,Zimbabwe,-20,30,2020-02-21,0
+,Zimbabwe,-20,30,2020-02-20,0
+,Zimbabwe,-20,30,2020-02-19,0
+,Zimbabwe,-20,30,2020-02-18,0
+,Zimbabwe,-20,30,2020-02-17,0
+,Zimbabwe,-20,30,2020-02-16,0
+,Zimbabwe,-20,30,2020-02-15,0
+,Zimbabwe,-20,30,2020-02-14,0
+,Zimbabwe,-20,30,2020-02-13,0
+,Zimbabwe,-20,30,2020-02-12,0
+,Zimbabwe,-20,30,2020-02-11,0
+,Zimbabwe,-20,30,2020-02-10,0
+,Zimbabwe,-20,30,2020-02-09,0
+,Zimbabwe,-20,30,2020-02-08,0
+,Zimbabwe,-20,30,2020-02-07,0
+,Zimbabwe,-20,30,2020-02-06,0
+,Zimbabwe,-20,30,2020-02-05,0
+,Zimbabwe,-20,30,2020-02-04,0
+,Zimbabwe,-20,30,2020-02-03,0
+,Zimbabwe,-20,30,2020-02-02,0
+,Zimbabwe,-20,30,2020-02-01,0
+,Zimbabwe,-20,30,2020-01-31,0
+,Zimbabwe,-20,30,2020-01-30,0
+,Zimbabwe,-20,30,2020-01-29,0
+,Zimbabwe,-20,30,2020-01-28,0
+,Zimbabwe,-20,30,2020-01-27,0
+,Zimbabwe,-20,30,2020-01-26,0
+,Zimbabwe,-20,30,2020-01-25,0
+,Zimbabwe,-20,30,2020-01-24,0
+,Zimbabwe,-20,30,2020-01-23,0
+,Zimbabwe,-20,30,2020-01-22,0
